@@ -1,7 +1,5 @@
 import torch
 from diffusers import QwenImageEditPipeline
-import random
-import numpy as np
 from Tips import *
 from Model import AnswerImage
 import json
@@ -10,9 +8,8 @@ from PIL import Image
 from volcenginesdkarkruntime import Ark 
 from volcenginesdkarkruntime.types.images.images import SequentialImageGenerationOptions
 import requests
-import base64
 from io import BytesIO
-import threading
+import gc
 #######################################
 ImageEditPipe=None
 #######################################加载图像编辑模型
@@ -99,6 +96,11 @@ def ImageEditByPipe(image:Image.Image,prompt:str,neg_prompt:str):
     with torch.inference_mode():
         output = ImageEditPipe(**inputs)
         res = output.images[0]
+    #
+    del output
+    gc.collect()
+    torch.cuda.empty_cache()
+    #
     res=res.convert("RGB")
     return res
 ###############################给定指令进行编辑

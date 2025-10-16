@@ -4,7 +4,7 @@ import threading
 ################################
 #获取任务
 def GetTask(image,description:str):
-    answer=AnswerImage([image],Expert1_Prompt,f"My task is:{description}")
+    answer=AnswerImage([image],Expert1_Prompt,f"My task is:{description}",True)
     #对answer细分
     try:
         lst=json.loads(answer)

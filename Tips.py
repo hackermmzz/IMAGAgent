@@ -18,7 +18,7 @@ os.system("mkdir debug")
 DEVICE = "cuda" if cuda.is_available() else "cpu"
 TEST_MODE=True	#测试模式将验证测试机
 PARALLE_MODE=TEST_MODE and False  #并行测试所有的数据集
-TEST_CNT=1000
+TEST_CNT=65535
 DEBUG=True
 DEBUG_LOCK=None if not DEBUG else threading.Lock()
 DEBUG_OUTPUT=True
@@ -28,7 +28,7 @@ THREAD_OBJECT=threading.local() #存储线程级别的对象数据
 GlobalScoreThershold=7
 GlobalItrThershold=3
 ClipScoreThreshold=0.21
-Enable_Local_LLM=True
+Enable_Local_LLM=False
 Enable_Local_VLM=True
 Enable_Local_ImageEdit=True
 Enable_TaskPolish=False

@@ -25,7 +25,8 @@ def PredictByMagicBrush():
     target=target[3]
     #随机选择3轮次的进行编辑
     ret=[]
-    for i in range(TEST_CNT):
+    cnt=min(TEST_CNT,len(target))
+    for i in range(cnt):
         if len(target)==0:
             break
         idx=random.randint(0,len(target)-1)
@@ -35,14 +36,6 @@ def PredictByMagicBrush():
     
 ###########################使用NanoBanana测试
 def PredictByNanoBanana():
-    '''
-    {"task_type": "ic", 
-     "instruction": "Change the pose of the woman in the gold bridal attire: in the original she has one hand near her face and the other across her chest, but in the edited version one hand is tucked into a hip-level pocket while the other arm is relaxed by her side. Preserve her hairstyle, makeup, jewelry, outfit and the outdoor background exactly, altering only the arm/hand positions and corresponding shadows and fabric folds for realism.", 
-     "input_images": ["Nano-150k/Image/orignal/people/Advertising_1.jpg"], 
-     "output_image": "Nano-150k/Image/output/action/One_Hand_in_Pocket/Advertising_1.jpg", 
-     "general_prompt": "The actions after being edited are: One Hand in Pocket"
-     }
-     '''
     dir="Nano-150k"
     all=[]
     for folder in os.listdir(f"{dir}/json/"):
@@ -58,7 +51,8 @@ def PredictByNanoBanana():
                 pass
     #随机抽取
     ret=[]
-    for i in range(TEST_CNT):
+    cnt=min(TEST_CNT,len(all))
+    for i in range(cnt):
         idx=random.randint(0,len(all)-1)
         target=all[idx]
         #创建目录

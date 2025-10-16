@@ -19,10 +19,15 @@ def LoadLLM():
     ).eval()
 ######################################API调用
 def AnswerTextByAPI(role_tip:str,question:str):
-    client=client1()
+    client=OpenAI(
+        api_key="sk-17cd5f2ebd6b4981b9eb6991a0ddfe3d",
+        base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+        timeout=1800,
+        max_retries=2,
+    )
     completion = client.chat.completions.create(
         # 指定您创建的方舟推理接入点 ID，此处已帮您修改为您的推理接入点 ID
-        model="qwen-flash",
+        model="qwen3-max",
         messages=[
             {"role":"system","content":f"{role_tip}"},
             {"role": "user", "content": f"{question}"},
