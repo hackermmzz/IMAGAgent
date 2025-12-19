@@ -16,7 +16,7 @@ import gc
 os.system("rm -rf debug/")
 os.system("mkdir debug")
 DEVICE = "cuda" if cuda.is_available() else "cpu"
-TEST_MODE=True	#测试模式将验证测试机
+TEST_MODE=False	#测试模式将验证测试机
 PARALLE_MODE=TEST_MODE and False  #并行测试所有的数据集
 TEST_CNT=65535
 DEBUG=True

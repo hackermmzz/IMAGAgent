@@ -23,6 +23,8 @@ def Init():
             local_dir_use_symlinks=False,
             resume_download=True
         )
+#加载数据
+
 #运行一个单例
 def ProcessImageEdit(img_path:str,prompt,dir:str):
     #

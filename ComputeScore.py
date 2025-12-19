@@ -138,26 +138,26 @@ def GetDescriptionForImage(image:Image.Image,tasks:list):
     return prompt
 ############################################批量处理
 def Process(dir:str):
-    max_turn=5
+    max_turn=3
     My=[[0,0,0]for _ in range(max_turn+1)]
     Vincie=[[0,0,0]for _ in range(max_turn+1)]
     Turns=[0 for _ in range(max_turn+1)]
     #
-    for folder in os.listdir(dir):
-        tardir=f"{dir}/{folder}"
-        cnt=len(os.listdir(tardir))//2-1
+    for folder in os.listdir(f"{dir}/my/"):
+        tardir=f"{dir}/my/{folder}"
+        cnt=3
         tasks=""
         with open(f"{tardir}/tasks.txt","r",encoding="utf-8")as f:
             tasks=f.read()
         tasks=ast.literal_eval(tasks)
         tasks=[x[0] for x in tasks]
         #
-        if len(tasks)>max_turn:
+        if len(tasks)!=cnt:
             continue
         #
         origin=Image.open(f"{tardir}/origin.png").convert("RGB")
-        my=[Image.open(f"{tardir}/my_{x}.png").convert("RGB") for x in range(cnt)]
-        vincie=[Image.open(f"{tardir}/your_{x}.png").convert("RGB") for x in range(cnt)]
+        my=[Image.open(f"{tardir}/{x}.png").convert("RGB") for x in range(cnt)]
+        vincie=[Image.open(f"{dir}/vincie/{folder}/{x}.png").convert("RGB") for x in range(cnt)]
         for i in range(len(tasks)):
             #获取描述
             prompt=GetDescriptionForImage(origin,tasks)
@@ -186,4 +186,4 @@ def Process(dir:str):
        print(Vincie[i],end=' ')
 ############################################
 if __name__=="__main__":
-    Process("C:\\Users\\mmzz\\Desktop\\compare")
+    Process("Compare/")

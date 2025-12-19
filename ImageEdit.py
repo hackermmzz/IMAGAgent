@@ -154,6 +154,6 @@ def ImageFixByAPI(images,prompt:str)->Image.Image:
 if __name__=="__main__":
     img=Image.open(input("img:")).convert("RGB")
     prompt=input("prompt:")
-    res=ImageEditByAPI(img,prompt,"")
+    res=ImageEditByPipe(img,prompt,"")
     res.save("debug/origin.png")
     res.resize(img.size).save("debug/resize.png")

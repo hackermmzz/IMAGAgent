@@ -277,7 +277,15 @@ def ProcessByAgent(image:Image.Image,task:str,task_type:str,neg_prompts:list,epo
         return Process_InpaintingByIpAdapter(image,prompt,np,epoch,global_itr_cnt,dir)
     #
     if global_itr_cnt==1:
-        THREAD_OBJECT.messages=THREAD_OBJECT.messages[:1]
+        #移除之前编辑的所有图片
+        target=[]
+        for x in THREAD_OBJECT.messages:
+            if x["type"]!="image":
+                target+=x
+        THREAD_OBJECT.messages=target
+        #插入提示词，告知这是新一轮的开始
+        Ask(None,"Here will be a new session and you need remember the editing operation before in case of editing operations prior to the external modification.Remeber the context and do the following task!")
+        #
         Ask(image.resize((512,512)), f'''the instruction is:{task},and the original image is "image"''')
     else:
         Ask(THREAD_OBJECT.preImg.resize((512,512)),"the negitive feedback of the edited image is :{neg_prompts}")

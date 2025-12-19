@@ -3,8 +3,8 @@ from VLM import *
 import threading
 ################################
 #获取任务
-def GetTask(image,description:str):
-    answer=AnswerImage([image],Expert1_Prompt,f"My task is:{description}",True)
+def GetTask(image,description:str,API=True):
+    answer=AnswerImage([image],Expert1_Prompt,f"My task is:{description}",API)
     #对answer细分
     try:
         lst=json.loads(answer)
@@ -105,5 +105,21 @@ def GetSoureAndTargetArea(image:Image.Image,prompt:str):
         return GetSoureAndTargetArea(image,prompt)
 ##########################################
 if __name__=="__main__":
-    img=Image.open("data/1/0.jpg").convert("RGB")
-    GetImageGlobalScore(img,img,"remove the bird")
+    basedir="data/vincie/"
+    foler=os.listdir(basedir)
+    import random
+    random.shuffle(foler)
+    with open("log.txt","a") as out:
+        for x in foler:
+            p=f"{basedir}/{x}"
+            task=""
+            with open(f"{p}/task.txt","r")as f:
+                task=f.read()
+            src=Image.open(f"{p}/src.jpg").convert("RGB")
+            task=GetTask(src,task,False)
+            if len(task)>=4:
+                out.write(str(x))
+                with open(f"{p}/task.txt","w") as f:
+                    f.write(str(task))
+            print(task)
+        
