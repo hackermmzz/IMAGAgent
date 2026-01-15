@@ -45,14 +45,14 @@ def polish_edit_prompt(img,prompt):
 def ImageEditByAPI(image,prompt:str,neg_prompt:str)->Image.Image:
     client = Ark( 
         base_url="https://ark.cn-beijing.volces.com/api/v3", 
-        api_key="91d86bec-d21e-4c87-b121-bbf249b50345", 
+        api_key="7eb52bff-39bc-4c3c-98c9-7c47189b0485", 
     )
     
     input=image
     w,h=image.size
     image.resize((1024,1024))
     imagesResponse = client.images.generate( 
-        model="doubao-seedream-4-0-250828", 
+        model="doubao-seedream-4-5-251128", 
         prompt=f'''{prompt} '''+('''and don't occur following cases: "{neg_prompt}"''' if neg_prompt else ""),
         image=[encode_image(input)],
         size=f"4096x4096",
@@ -97,9 +97,12 @@ def ImageEditByPipe(image:Image.Image,prompt:str,neg_prompt:str):
         output = ImageEditPipe(**inputs)
         res = output.images[0]
     #
+    '''
     del output
     gc.collect()
     torch.cuda.empty_cache()
+    ImageEditPipe=None
+    '''
     #
     res=res.convert("RGB")
     return res
@@ -152,8 +155,10 @@ def ImageFixByAPI(images,prompt:str)->Image.Image:
     return image.convert("RGB").resize((w,h))               
 #############################################
 if __name__=="__main__":
-    img=Image.open(input("img:")).convert("RGB")
-    prompt=input("prompt:")
-    res=ImageEditByPipe(img,prompt,"")
-    res.save("debug/origin.png")
-    res.resize(img.size).save("debug/resize.png")
+    idx=0
+    while True:
+        img=Image.open(input("img:")).convert("RGB")
+        prompt=input("prompt:")
+        res=ImageEditByPipe(img,prompt,"")
+        res.save(f"debug/{idx}.png")
+        idx+=1

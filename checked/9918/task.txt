@@ -1,0 +1,1 @@
+[['Remove the white buildings', 'remove'], ['Remove some industrial structures', 'remove'], ['Add a tall electricity pylon on the left side', 'add'], ['Add an orange residential building on the right', 'add'], ['Reduce cloud coverage for a clearer sky', 'attribute_change'], ['Incorporate distant tree-covered hills behind the pylon', 'background_change']]

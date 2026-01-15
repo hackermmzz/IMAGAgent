@@ -1,5 +1,6 @@
 import base64
 from io import BytesIO
+import random
 import torch.nn as nn
 import torch
 from PIL import Image
@@ -137,6 +138,40 @@ def GetDescriptionForImage(image:Image.Image,tasks:list):
     prompt=AnswerImageByAPI([image],system_prompt,task_prompt)
     return prompt
 ############################################批量处理
+def Process2(dir:str):
+    all=[]
+    dirs=os.listdir(dir)
+    random.shuffle(dirs)
+    dirs=dirs[:30]
+    for folder in dirs:
+        tardir=f"{dir}/{folder}"
+        with open(f"data/vincie/{folder}/task.txt","r",encoding="utf-8")as f:
+            tasks=f.read()
+        tasks=ast.literal_eval(tasks)
+        tasks=[x[0] for x in tasks]
+        if len(tasks)>5:
+            tasks=tasks[:5]
+        origin=Image.open(f"data/vincie/{folder}/src.jpg").convert("RGB")
+        vincie_new=[Image.open(f"{tardir}/{i}.png") for i in range(len(tasks))]
+        total=[]
+        for i in range(len(tasks)):
+            prompt=GetDescriptionForImage(origin,[tasks[i]])
+            res=GetIndicators(origin,vincie_new[i],prompt)
+            total.append(res)
+            print(res)
+        all.append(total)
+    print(all)
+    sum=[[0.0,0.0,0.0] for x in range(6)]
+    for i in range(1,6):
+        target=[]
+        for x in all:
+            if len(x)<=i:
+                continue
+            target.append(x[i-1])
+        for x in target:
+            sum[i]=[sum[i][ii]+x[ii] for ii in range(3)]
+        sum[i]=[x/len(target) for x in sum[i]]
+    print(sum)
 def Process(dir:str):
     max_turn=3
     My=[[0,0,0]for _ in range(max_turn+1)]
@@ -166,6 +201,7 @@ def Process(dir:str):
             vincieRes=GetIndicators(origin,vincie[i],prompt)
             print(myRes,"   ",vincieRes," ",prompt)
             #计算我的总分
+            
             My[i+1]=[My[i+1][ii]+myRes[ii] for ii in range(len(myRes))]
             Vincie[i+1]=[Vincie[i+1][ii]+vincieRes[ii] for ii in range(len(vincieRes))]
             Turns[i+1]+=1
@@ -186,4 +222,5 @@ def Process(dir:str):
        print(Vincie[i],end=' ')
 ############################################
 if __name__=="__main__":
-    Process("Compare/")
+    #Process("Compare/")
+    Process2("../hq/debug/")

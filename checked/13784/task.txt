@@ -1,0 +1,1 @@
+[['remove the hand from the scene', 'remove'], ['remove the cutting board from the scene', 'remove'], ['add a bowl containing dragon fruit and mango cubes', 'add'], ['move the passion fruit halves onto the bowl', 'move'], ['add a papaya beside the bowl', 'add'], ['add a cherimoya beside the bowl', 'add']]

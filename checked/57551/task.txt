@@ -1,0 +1,1 @@
+[['remove the straw-like lamp from the table', 'remove'], ['add a black hat prominently', 'add'], ['move the bottles towards the right side', 'move'], ['remove some drawing instruments', 'remove'], ['organize the drawing instruments', 'modify'], ['adjust the angle of the image', 'perspective_shift'], ['adjust the lighting of the image', 'attribute_change']]

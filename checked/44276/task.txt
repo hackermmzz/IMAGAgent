@@ -1,0 +1,1 @@
+[['remove the second person', 'remove'], ['make the first person hold a phone', 'modify'], ['add a mug on the desk', 'add'], ['add an organizer on the desk', 'add'], ['add a phone on the desk', 'add'], ['slightly rearrange the objects to include a visible chair', 'modify']]

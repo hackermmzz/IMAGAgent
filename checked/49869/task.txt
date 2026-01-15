@@ -1,0 +1,1 @@
+[['Change the building layout', 'attribute_change'], ['Change the perspective of the image', 'perspective_shift'], ['Add a windmill to the scene', 'add'], ['Add a dome structure to the scene', 'add'], ['Change the background to expose the Aegean Sea', 'background_change'], ['Remove the bougainvillea flowers', 'remove'], ['Remove the terrace area', 'remove']]

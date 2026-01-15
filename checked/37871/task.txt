@@ -1,0 +1,1 @@
+[['Change the footwear of the person with white slip-on shoes to wedge heels', 'attribute_change'], ['Remove the pink suitcase', 'remove'], ['Remove the sandals', 'remove'], ['Add a person in jeans holding a large dark bag', 'add'], ['Add a bright red bag', 'add'], ['Add a piece of luggage with a metallic frame', 'add']]

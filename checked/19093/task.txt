@@ -1,0 +1,1 @@
+[['Move the person closer to the camera', 'move'], ["Change the person's clothing to a blue shirt and beige pants", 'attribute_change'], ['Crouch the person on the longboard', 'modify'], ['Add hay bales on the right side of the road', 'add'], ['Increase vegetation on both sides of the road', 'modify'], ['Adjust the sky to be partially cloudy', 'attribute_change']]

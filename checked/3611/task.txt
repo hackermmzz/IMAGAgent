@@ -1,0 +1,1 @@
+[['Change the image perspective to a closer view', 'perspective_shift'], ["Change motorcyclist's helmet color to red", 'attribute_change'], ['Remove inflatable structure', 'remove'], ['Reposition spectators', 'move'], ['Replace tires with ropes', 'replace'], ['Introduce shrubs', 'add']]

@@ -1,0 +1,1 @@
+[['Reposition the yellow ornament higher', 'move'], ['Blur the yellow ornament', 'modify'], ['Reposition the snowflake more central', 'move'], ['Reduce the visibility of the silver ornament', 'attribute_change'], ['Apply softer lighting', 'global_style_transfer'], ['Create a pastel and less clear composition', 'global_style_transfer']]

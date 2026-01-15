@@ -1,0 +1,1 @@
+[['Adjust camera angle to be more elevated', 'perspective_shift'], ['Shift beige building left', 'move'], ['Shift teal building right', 'move'], ['Reveal tree behind teal building', 'perspective_shift'], ['Reveal smaller structure behind teal building', 'perspective_shift'], ['Reduce wave prominence', 'attribute_change']]

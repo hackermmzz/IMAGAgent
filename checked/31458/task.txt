@@ -1,0 +1,1 @@
+[['Shift the dark-haired woman further along the platform', 'move'], ['Replace the woman in a gray jacket with a woman in a red jacket', 'replace'], ["Open the first tram's doors", 'modify'], ['Move the second tram back slightly', 'move'], ['Introduce a passing black car', 'add'], ['Add a flying bird overhead', 'add']]

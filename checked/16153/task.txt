@@ -1,0 +1,1 @@
+[['Shift the perspective to extend the view on the right', 'perspective_shift'], ['Remove the cathedral from the background', 'remove'], ['Add tall green trees along the riverbank', 'add'], ['Extend the river further to the right', 'attribute_change'], ['Add greenery along the riverbank', 'add'], ['Add reflection on the water', 'add']]

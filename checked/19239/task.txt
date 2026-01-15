@@ -1,0 +1,1 @@
+[['Remove the cardboard boxes', 'remove'], ['Change the floor tiles to a salon-style floor', 'background_change'], ['Add salon chairs', 'add'], ['Add a man in a jacket', 'add'], ['Add a desk lamp', 'add'], ['Add mugs', 'add']]

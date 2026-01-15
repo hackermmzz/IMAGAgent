@@ -1,21 +1,21 @@
 from LLM import *
 from VLM import *
 import threading
+import ast
 ################################
 #获取任务
 def GetTask(image,description:str,API=True):
     answer=AnswerImage([image],Expert1_Prompt,f"My task is:{description}",API)
     #对answer细分
     try:
-        lst=json.loads(answer)
+        lst=ast.literal_eval(answer)
+        #lst=json.loads(answer)
         if type(lst)!=list:
             raise Exception("type is not list")
-        elif len(lst)!=0 and type(lst[0])!=list:
-            raise Exception("type element is not list!")
         return lst
     except Exception as e:
         Debug("GetTask:",e," ",answer)
-        return GetTask(image,Expert1_Prompt,description)
+        return GetTask(image,description,API=API)
 #获取编辑后的全局打分
 def GetImageGlobalScore(source,target,description:str):
     res=GetImageScore([source,target],GlobalScore_Prompt,"The image is as above, and my editing instruction for this round is {}".format(description))
@@ -66,7 +66,7 @@ def GetSoureAndTargetArea(image:Image.Image,prompt:str):
     client=client1()
     response = client.chat.completions.create(
         # 指定您创建的方舟推理接入点 ID，此处已帮您修改为您的推理接入点 ID
-        model="qwen3-vl-plus",
+        model="qwen-flash",
         messages=[
                 {
                     "role":"system",
@@ -106,11 +106,15 @@ def GetSoureAndTargetArea(image:Image.Image,prompt:str):
 ##########################################
 if __name__=="__main__":
     basedir="data/vincie/"
-    foler=os.listdir(basedir)
+    foler=[]
+    with open("7.txt","r")as f:
+        for line in f:
+            foler.append(line.strip())
     import random
     random.shuffle(foler)
     with open("log.txt","a") as out:
         for x in foler:
+            print("current is {}".format(x))
             p=f"{basedir}/{x}"
             task=""
             with open(f"{p}/task.txt","r")as f:
@@ -118,8 +122,9 @@ if __name__=="__main__":
             src=Image.open(f"{p}/src.jpg").convert("RGB")
             task=GetTask(src,task,False)
             if len(task)>=4:
-                out.write(str(x))
+                out.write(str(x)+'\n')
+                out.flush()
                 with open(f"{p}/task.txt","w") as f:
                     f.write(str(task))
-            print(task)
+                print(task)
         

@@ -1,0 +1,1 @@
+[['Change the perspective to a wide landscape view', 'perspective_shift'], ['Add multiple young oak trees to the landscape', 'add'], ['Add grass to the landscape', 'add'], ['Add an open field to the landscape', 'add'], ['Add the sun in the background', 'add'], ['Enhance the sunlit atmosphere of the image', 'attribute_change']]

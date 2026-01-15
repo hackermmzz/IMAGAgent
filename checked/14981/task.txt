@@ -1,0 +1,1 @@
+[['Add a glass cup with red tea', 'add'], ["Change the glass cup's color to red", 'attribute_change'], ['Add a sugar-dusted croissant', 'add'], ['Add cookies', 'add'], ['Add red berry-themed decorations', 'add'], ['Sharpen the entire image', 'modify'], ['Make festive details in focus', 'attribute_change'], ['Make background lights in focus', 'attribute_change']]

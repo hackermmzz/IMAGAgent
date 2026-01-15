@@ -1,0 +1,1 @@
+[["Remove the gloves from the chef's hand", 'remove'], ["Remove the knife from the chef's hand", 'remove'], ['Add a person in the background wearing a yellow shirt and dark jeans', 'add'], ['Remove the meat from the cutting board', 'remove'], ['Seal the plastic container with meat', 'attribute_change'], ['Remove the meat from the small cylindrical container', 'remove']]

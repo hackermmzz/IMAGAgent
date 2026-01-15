@@ -1,0 +1,1 @@
+[['increase clarity of red candy apples', 'attribute_change'], ['add black and white striped stick to each red candy apple', 'add'], ['add black plastic spider around each red candy apple', 'add'], ['make the background in focus', 'attribute_change'], ['make the stand in focus', 'attribute_change'], ['adjust lighting to maintain consistent lighting', 'attribute_change']]

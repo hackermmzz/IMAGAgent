@@ -1,0 +1,1 @@
+[['Shift the perspective to show an adult in a dark green dress from the back', 'perspective_shift'], ['Remove the grey pillow', 'remove'], ['Remove the red toy horse', 'remove'], ['Remove the wooden table', 'remove'], ['Add a red round stool', 'add'], ['Add a wicker basket', 'add']]

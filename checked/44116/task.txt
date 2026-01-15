@@ -1,0 +1,1 @@
+[['Adjust the frame to show a broader street view', 'perspective_shift'], ['Remove specific individuals from the foreground', 'remove'], ['Increase visibility of food shops', 'attribute_change'], ['Increase visibility of stripes on awnings', 'attribute_change'], ['Enhance focus on backpacks', 'modify'], ['Enhance focus on crowd composition', 'modify']]

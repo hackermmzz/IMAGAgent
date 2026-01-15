@@ -1,0 +1,1 @@
+[['Change the nail color from light pink to purple', 'attribute_change'], ['Change the orientation of the soldering iron to point upwards', 'move'], ['Reposition hands', 'move'], ['Add a thin tool like a brush on the right', 'add'], ['Slightly adjust the metal cable loop', 'modify'], ['Introduce a brown object partially visible on the right side of the frame', 'add']]

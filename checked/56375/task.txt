@@ -1,0 +1,1 @@
+[['Shift the mountain peaks to be jagged', 'attribute_change'], ['Cluster the evergreen trees on the right', 'move'], ['Remove the river', 'remove'], ['Reduce the cloudiness', 'attribute_change'], ['Reposition the sunlight to the center', 'move'], ['Add a lens flare effect', 'add'], ["Adjust the image's lighting", 'attribute_change']]

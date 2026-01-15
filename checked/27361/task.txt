@@ -1,0 +1,1 @@
+[['Add a man in a blue shirt', 'add'], ['Add a child in a graphic t-shirt', 'add'], ['Add flags to the scene', 'add'], ['Increase the number of individuals holding portraits', 'add'], ['Adjust the crowd direction slightly', 'modify'], ['Increase the overall participation density', 'modify']]

@@ -1,0 +1,1 @@
+[['Increase brightness of the entire scene to simulate daytime', 'attribute_change'], ['Add sunlight effect to the scene', 'add'], ['Add cloud reflections on the water', 'add'], ['Increase brightness of boats', 'attribute_change'], ['Increase brightness of buildings', 'attribute_change'], ['Increase color saturation of the entire scene', 'attribute_change']]

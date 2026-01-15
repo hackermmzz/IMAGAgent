@@ -1,0 +1,1 @@
+[['Replace the houses with a more densely packed arrangement', 'replace'], ['Add modern buildings', 'add'], ['Add Victorian-style buildings', 'add'], ['Increase the height of the houses', 'attribute_change'], ['Increase the density of the houses', 'attribute_change'], ['Adjust the background trees to a more compact composition', 'modify']]

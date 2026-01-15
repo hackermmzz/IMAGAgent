@@ -1,0 +1,1 @@
+[['Add a middle-aged woman in a medical office', 'add'], ['Add a computer', 'add'], ['Add a microscope', 'add'], ['Add a medical image display', 'add'], ['Add a plant', 'add'], ['Change the background to a bright, busy medical office environment', 'background_change']]

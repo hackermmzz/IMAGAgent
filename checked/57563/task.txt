@@ -1,0 +1,1 @@
+[['remove the cars', 'remove'], ["reposition and slightly alter the pylon's structure", 'modify'], ['increase the distance view', 'perspective_shift'], ['make the trees clearer', 'modify'], ['add additional pylons', 'add'], ['change the fog from dense to light', 'attribute_change']]

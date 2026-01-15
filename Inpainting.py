@@ -1,4 +1,5 @@
 from diffusers import StableDiffusionInpaintPipeline
+import numpy as np
 import torch
 from transformers import CLIPVisionModelWithProjection
 from PIL import Image
@@ -46,17 +47,18 @@ def Inpainting(image:Image.Image,mask:Image.Image,prompt:str,negative_prompt_lis
             negative_prompt+=x+' '
     else:
         negative_prompt=None
-    #   
-    LoadInpaintingModel0()
-    global InpaintingPipe0
+    #  
+    global InpaintingPipe0 
+    if InpaintingPipe0 is None:
+        LoadInpaintingModel0()
     res = InpaintingPipe0(prompt=prompt, image=image, mask_image=mask,height=1024,width=1024,negative_prompt=negative_prompt).images[0]
     #卸载模型
+    '''
     del InpaintingPipe0
     gc.collect()
     torch.cuda.empty_cache()
-    #
     InpaintingPipe0=None
-    
+    '''
     return res.resize(image.size)
 
 def InpaintingByIpAdapter(image:Image.Image,mask:Image.Image,prompt:str,adapter_img:Image.Image,negative_prompt_list:list=None):
@@ -80,10 +82,15 @@ def InpaintingByIpAdapter(image:Image.Image,mask:Image.Image,prompt:str,adapter_
     return res.resize(image.size)
 #######################
 if __name__=="__main__":
-    img=Image.open(input("请输入图片:")).convert("RGB")
-    mask=Image.open(input("请输入mask:")).convert("L")
-    des=input("请输入提示词:")
-    res=Inpainting(img,mask,des)
-    res.save("output.png")
+    idx=0
     while True:
-        pass
+        img=Image.open(input("请输入图片:")).convert("RGB").resize((1024,1024))
+        mask = Image.new("L", (1024, 1024), 0)
+        draw_mask = np.array(mask)
+        draw_mask[:, :] = 255 
+        mask_image = Image.fromarray(draw_mask)
+        des=input("请输入提示词:")
+        res=Inpainting(img,mask,des)
+        res.save(f"{idx}.png")
+        idx+=1
+        

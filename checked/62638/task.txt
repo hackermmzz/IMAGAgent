@@ -1,0 +1,1 @@
+[['Turn the first deer to face the camera', 'modify'], ['Adjust other deer to face away from the camera', 'modify'], ['Add a signpost in the foreground', 'add'], ['Add rocks in the foreground', 'add'], ['Add more riverbank vegetation in the foreground', 'add'], ['Change the perspective of the scene', 'perspective_shift']]

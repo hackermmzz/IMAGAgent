@@ -1,0 +1,1 @@
+[['Change the focus of the image to the woman holding a piece of pizza', 'perspective_shift'], ['Make the greenery in the background more prominent', 'background_change'], ['Remove the pizza from the view', 'remove'], ['Remove the beer from the view', 'remove'], ['Remove the smartphone from the view', 'remove'], ['Remove the cutlery from the view', 'remove']]

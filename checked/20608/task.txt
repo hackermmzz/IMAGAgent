@@ -1,0 +1,1 @@
+[['Add a teenager to the image', 'add'], ['Make the teenager lying in bed', 'modify'], ['Make the teenager wearing headphones', 'attribute_change'], ['Make the teenager holding a smartphone', 'attribute_change'], ['Add a soccer ball', 'add'], ['Add decorative items on a shelf', 'add'], ['Change the plain brown background to a room setup', 'background_change']]

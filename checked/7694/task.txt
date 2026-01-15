@@ -1,0 +1,1 @@
+[['Adjust the framing to include more of the room', 'perspective_shift'], ['Add a large window to the room', 'add'], ['Add a black chair to the room', 'add'], ['Add part of another chair to the right', 'add'], ['Increase the lighting to reflect daylight through the window', 'attribute_change'], ["Include more of the ballerina's torso", 'modify']]

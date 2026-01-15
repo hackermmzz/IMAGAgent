@@ -1,0 +1,1 @@
+[['remove the tree and its branches', 'remove'], ['add a tilled soil patch', 'add'], ['add colorful gardening tools', 'add'], ['add mulch containers', 'add'], ['add a red tiller machine', 'add'], ['add a senior gardener with a straw hat', 'add'], ['move the senior gardener to the scene', 'move'], ['make the senior gardener actively use the tiller', 'modify']]

@@ -1,0 +1,1 @@
+[['remove the burnt log', 'remove'], ['remove smoke', 'remove'], ['modify rocks to be more prominent', 'modify'], ['modify scattered branches to be more prominent', 'modify'], ['attribute_change reduce ash coverage', 'attribute_change'], ['attribute_change increase visibility of grass in the background', 'attribute_change']]

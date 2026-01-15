@@ -1,0 +1,1 @@
+[['move the aircraft to land on a runway', 'move'], ["add smoke from the aircraft's wheels", 'add'], ['change perspective to show rear view of the aircraft', 'perspective_shift'], ['change background to include grass, trees, and hills', 'background_change'], ['change lighting to sunny', 'attribute_change'], ['add a fence in the foreground', 'add']]

@@ -16,7 +16,7 @@ import gc
 os.system("rm -rf debug/")
 os.system("mkdir debug")
 DEVICE = "cuda" if cuda.is_available() else "cpu"
-TEST_MODE=False	#测试模式将验证测试机
+TEST_MODE=True	#测试模式将验证测试机
 PARALLE_MODE=TEST_MODE and False  #并行测试所有的数据集
 TEST_CNT=65535
 DEBUG=True
@@ -30,7 +30,7 @@ GlobalItrThershold=3
 ClipScoreThreshold=0.21
 Enable_Local_LLM=False
 Enable_Local_VLM=True
-Enable_Local_ImageEdit=True
+Enable_Local_ImageEdit=False
 Enable_TaskPolish=False
 Enable_TextureFix=False
 Enabel_Agent=True
@@ -71,23 +71,21 @@ Let's say you're a professional and detailed image editing task subdivider, spec
    - "Make the child hold a teddy bear."
    - "Remove the potted plant on the table."
    - "Replace the wall painting with a landscape photo."
-5. **You need to output the type of editing instructions after fine segmentation, including one of the following operations:
-    {TaskType}.
 ### Format Requirements (Non-Negotiable):
 - You must only output the subdivided sub-tasks in an array [] format. Each sub-task is a separate string enclosed in double quotes, and commas are used to separate different sub-task strings.
 - Do not add any additional content outside the array (such as explanations, prompts, notes, or greetings). Even if the original task has only one sub-task, it must still be placed in the array.
 - The array format must be consistent with the example (neatly formatted, with each sub-task string on a new line for readability, but ensuring the syntax of the array is correct).
-- In a nutshell, you gave an answer in the format [[task0,type0],[task1,type1]....]
+- In a nutshell, you gave an answer in the format [task0,task1,....]
 Example:
 Question: change the colour of the teacup to black and have the person's right hand in a yay pose, change the setting to a green meadow, add a teapot, delete the clouds in the sky and replace them with rainbows
 Your answers:
 [
- ["The colour of the teacup is changed to black.","modify"],
- ["The person's right hand makes a yay pose.","modify"],
- ["The environment is changed to a green meadow","modify"],
- ["Add a teapot","add"],
- ["delete the clouds in the sky","remove"],
- ["add a rainbow in the sky","add"]
+ "The colour of the teacup is changed to black.",
+ "The person's right hand makes a yay pose.",
+ "The environment is changed to a green meadow",
+ "Add a teapot",
+ "delete the clouds in the sky",
+ "add a rainbow in the sky"
 ]
 '''
 ###################################利用反向提示词优化指令
@@ -392,7 +390,7 @@ def DebugSaveImage(image,fileName=None,dir=DEBUG_DIR):
         return
     if fileName==None:
         fileName=RandomImageFileName()
-    image.save(f"{dir}/{fileName}")
+    image.resize((512,512)).save(f"{dir}/{fileName}")
     
 def RandomImageFileName():
     timestamp = time.time()
@@ -404,7 +402,7 @@ def client0():
         # 此为默认路径，您可根据业务所在地域进行配置
         base_url="https://ark.cn-beijing.volces.com/api/v3",
         # 从环境变量中获取您的 API Key。此为默认方式，您可根据需要进行修改
-        api_key="91d86bec-d21e-4c87-b121-bbf249b50345",
+        api_key="83910c4e-2ccc-42a2-a863-cc4f5ef97f79",
         timeout=1800,
         # 设置重试次数
         max_retries=2,

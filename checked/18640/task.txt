@@ -1,0 +1,1 @@
+[['Replace the central large blue calculator icon with a cloud and arrows icon', 'replace'], ['Add a pen', 'add'], ['Add a silhouette of a person', 'add'], ['Adjust the position of the bar chart icon', 'move'], ['Adjust the position of the clock icon', 'move'], ['Reorganize the layout of smaller icons', 'modify']]

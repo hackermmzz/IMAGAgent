@@ -1,0 +1,1 @@
+[['Remove the double-decker bus', 'remove'], ['Remove the black car', 'remove'], ['Remove the man in the pink shirt from the bus', 'remove'], ['Add tourists with umbrellas to the square', 'add'], ['Add a man in a teal shirt and a woman walking beside him', 'add'], ['Slightly zoom in on the square, giving prominence to the crowd', 'modify']]

@@ -1,0 +1,1 @@
+[['Shift the perspective to focus on the archway', 'perspective_shift'], ['Remove the staircase', 'remove'], ['Remove the sign', 'remove'], ['Remove the person in the light blue shirt', 'remove'], ['Enhance the visibility of the stone carvings', 'attribute_change'], ['Enhance the visibility of the souvenir displays', 'attribute_change']]

@@ -1,0 +1,1 @@
+[['Add a bun on top of the beef patty', 'add'], ['Add tomato slices', 'add'], ['Reposition tomato slices', 'move'], ['Move the onion slice slightly', 'move'], ['Add a cucumber slice next to the patty', 'add'], ['Change the camera angle', 'perspective_shift'], ['Enhance the lighting', 'attribute_change']]

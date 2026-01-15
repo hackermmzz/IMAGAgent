@@ -1,0 +1,1 @@
+[['Add a green metallic pot beside the white cup', 'add'], ['Fill the cup with coffee', 'attribute_change'], ['Insert a spoon into the cup', 'add'], ['Adjust the position of coffee beans around the cup', 'move'], ['Change the background to red', 'background_change'], ['Adjust color and lighting to unify the scene', 'global_style_transfer']]

@@ -1,0 +1,1 @@
+[['move the stone to reveal its sunlit side', 'move'], ['decrease algae coverage visibility', 'attribute_change'], ['enhance clarity of small shells and water', 'modify'], ['ensure sandy bottom visibility', 'attribute_change'], ['add sunlight reflections', 'add'], ['adjust lighting to increase scene brightness', 'global_style_transfer']]

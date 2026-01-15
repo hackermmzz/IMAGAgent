@@ -1,0 +1,1 @@
+[['Move char1 to stand behind char2', 'move'], ['Modify posture of char2 to lean slightly towards char1', 'modify'], ['Move char3 to stand behind char1 and char2', 'move'], ['Move char4 closer to char5', 'move'], ['Modify char6 to complete the action', 'modify'], ['Modify char7 to lean forwards', 'modify']]

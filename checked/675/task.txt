@@ -1,0 +1,1 @@
+[['Shift the camera perspective to include more of the park', 'perspective_shift'], ['Add a wooden bench in the park area', 'add'], ['Add utility poles near the park area', 'add'], ['Remove the ambulance from the image', 'remove'], ['Reposition the parked cars closer to the park', 'move'], ['Reposition the mailbox near the park', 'move']]

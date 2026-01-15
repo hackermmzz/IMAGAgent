@@ -1,0 +1,1 @@
+[['replace the road with a winding dirt path', 'replace'], ['remove the red road sign', 'remove'], ['move the guardrail to curve more to the left', 'move'], ['increase foliage density on the left side', 'attribute_change'], ['remove distant mountains', 'remove'], ['add dense nearby greenery', 'add']]

@@ -1,0 +1,1 @@
+[['Remove the sunbeds with umbrellas from the beach.', 'remove'], ['Remove the small yellow boat from the ocean.', 'remove'], ['Add a pier extending from the beach into the ocean.', 'add'], ['Add several small boats in the water.', 'add'], ['Add a catamaran with a yellow sail in the water.', 'add'], ['Change the background to depict a densely built town.', 'background_change']]

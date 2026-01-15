@@ -1,0 +1,1 @@
+[['Change perspective to broad cityscape view', 'perspective_shift'], ['Remove detailed facade features of the cathedral', 'remove'], ['Add varied residential buildings to the cityscape', 'add'], ['Add commercial buildings to the cityscape', 'add'], ['Add a playground to the cityscape', 'add'], ['Add additional trees to the cityscape', 'add']]

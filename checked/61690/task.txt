@@ -1,0 +1,1 @@
+[['Shift perspective to a close-up of the couch area', 'perspective_shift'], ['Remove the table', 'remove'], ['Remove the chairs', 'remove'], ['Remove the bowl of apples', 'remove'], ['Remove the television stand', 'remove'], ['Remove the chandelier', 'remove']]

@@ -39,6 +39,9 @@ def ProcessImageEdit(img_path:str,prompt,dir:str):
     cost=Timer()
     tasks=prompt
     tasks=GetTask(ori_image,prompt)
+    tasks=[[x,""]for x in tasks]
+    if len(tasks)>=5:
+        tasks=tasks[:5]
     Debug("任务细分耗时:",cost())
     Debug("任务细分:",tasks)
     ##########################################写入文件
@@ -74,7 +77,7 @@ def ProcessImageEdit(img_path:str,prompt,dir:str):
         #获取任务处理
         output_img=ProcessTask(input_img,task,task_type,neg_prompts,epoch,global_itr_cnt,dir)
         Debug("指令执行耗时:",cost())
-        ###########负反馈
+        ###########反馈
         cost=Timer()
         res=NegativeFeedback(task,input_img,output_img,global_itr_cnt,dir)
         Debug("负反馈耗时:",cost())
@@ -140,7 +143,9 @@ def Run():
             print(e)
             return
     else:
-        data=PredictByMagicBrush()
+        #data=PredictByCase()
+        data=PredictByVincie()
+        #data=PredictByMagicBrush()
         #data=PredictByNanoBanana()
     #构建任务
     tasks=[]

@@ -1,0 +1,1 @@
+[['Enhance the detail and clarity of the merry Buddha statue', 'attribute_change'], ['Make the statues on the left clearer', 'attribute_change'], ['Add visible space and surface details to surrounding elements', 'add'], ['Adjust the camera angle for a broader view', 'perspective_shift'], ['Ensure a harmonious integration of the background elements', 'modify']]

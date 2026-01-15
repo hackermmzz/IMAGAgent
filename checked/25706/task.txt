@@ -1,0 +1,1 @@
+[['Change the perspective to a broader view of the tree', 'perspective_shift'], ['Add several golden roses to the image', 'add'], ['Add a star to the image', 'add'], ['Add a tassel-like ornament to the image', 'add'], ['Add more golden spheres to the image', 'add'], ['Add more brown bows to the image', 'add']]

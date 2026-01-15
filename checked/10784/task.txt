@@ -1,0 +1,1 @@
+[['Replace the woman in brown top with one in a black jacket', 'replace'], ['Replace the man in dark jacket with another man in grey jacket and jeans', 'replace'], ['Rearrange and increase the number of baskets', 'modify'], ['Rearrange fish displays', 'modify'], ['Change sunshade colors', 'attribute_change'], ['Alter the crowd composition', 'modify']]

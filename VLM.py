@@ -30,10 +30,7 @@ def AnswerImageByAPI(images:list,role_tip:str,question:str,client,model):
             if x is None:
                 return None
         client_=client()
-        response = client_.chat.completions.create(
-            # 指定您创建的方舟推理接入点 ID，此处已帮您修改为您的推理接入点 ID
-            model=model,
-            messages=[
+        messages=[
                 {
                     "role":"system",
                     "content": [
@@ -48,7 +45,11 @@ def AnswerImageByAPI(images:list,role_tip:str,question:str,client,model):
                     [ {"type": "image_url", "image_url": {"url": encode_image(image.resize((512,512)))}} for image in images]
                     ,
                 },
-            ],
+            ]
+        response = client_.chat.completions.create(
+            # 指定您创建的方舟推理接入点 ID，此处已帮您修改为您的推理接入点 ID
+            model=model,
+            messages=messages,
         )
         return (response.choices[0].message.content)
     except Exception as e:
@@ -69,9 +70,10 @@ def AnswerImageByPipe(images:list,role_tip:str,question:str,message=None):
         if beg1!=-1 and end1!=-1:
             think=data[beg1+len("<think>"):end1]
         return think,answer
-    LoadVLM()
-    #################
     global VLMModel,VLMProcessor
+    if VLMModel is None:
+        LoadVLM()
+    #################
     messages = [
         {
             "role":"system",
@@ -97,18 +99,22 @@ def AnswerImageByPipe(images:list,role_tip:str,question:str,message=None):
             return_dict=True,
             return_tensors="pt",
         ).to(DEVICE)
-        outputs = VLMModel.generate(**inputs, max_new_tokens=3000)
+        outputs = VLMModel.generate(**inputs, max_new_tokens=20000)
         outputs = VLMProcessor.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=False)
     #   
     think,answer=ExtractAnswer(outputs)
     Debug("AnswerImageByPipe深度思考:",think)
     #卸载VLM
+    '''
     del outputs
     del inputs
     del VLMModel 
     del VLMProcessor
     gc.collect()
     torch.cuda.empty_cache()
+    VLMModel=None
+    VLMProcessor=None
+    '''
     #
     return answer
 #####################################调用
@@ -117,10 +123,10 @@ def AnswerImage(images:list,role_tip:str,question:str,force_API=False):
         if Enable_Local_VLM and not force_API:
             return AnswerImageByPipe(images,role_tip,question)
         else:
-            return AnswerImageByAPI(images,role_tip,question,client1,"qwen3-vl-plus")
+            return AnswerImageByAPI(images,role_tip,question,client1,"qwen-flash")
     except Exception as e:
         Debug("AnswerImage:",e)
-        return AnswerImage(images,role_tip,question)
+        return AnswerImage(images,role_tip,question,force_API=force_API)
 ##########################################获取编辑指令操作的对象
 def GetTaskOperateObject(image:Image.Image,task:str):
     target_object=json.loads(AnswerImage([image],ObjectGet_Prompt,f"Now I give my edit task:{task}"))[0]
@@ -167,7 +173,7 @@ def GetImageScore(images:list,role_tip:str,question:str):
             Debug("GetImageScore:run:",e)
             return None
     tasks=[
-        partial(AnswerImageByAPI,client=client1,model="qwen3-vl-plus"),#调用基础的模型
+        partial(AnswerImageByAPI,client=client1,model="qwen-flash"),#调用基础的模型
         partial(AnswerImageByAPI,client=client0,model="doubao-seed-1-6-vision-250815"),
         partial(AnswerImageByAPI,client=client0,model="doubao-seed-1-6-250615"),
     ]
@@ -203,3 +209,9 @@ def GetImageScore(images:list,role_tip:str,question:str):
         target_positive_prompt.append(positive_prompt)
     #
     return total_score/len(useful),target_negative_prompt,target_positive_prompt
+
+
+if __name__=="__main__":
+    while True:
+        res=AnswerImageByPipe([],"你是一个ai助手",input("qu:"))
+        print(res)

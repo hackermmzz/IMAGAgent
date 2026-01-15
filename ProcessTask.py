@@ -247,8 +247,7 @@ def ProcessByAgent(image:Image.Image,task:str,task_type:str,neg_prompts:list,epo
     def Ask(image,question):
         msg=[{"type": "text", "text":question}]
         if image:
-            msg+=[{"type": "image", "url": encode_image(image)}]
-            #msg+=[{"type": "image_url", "image_url": {"url": encode_image(image)}}]
+            msg.append({"type": "image", "url": encode_image(image)})
         THREAD_OBJECT.messages.append({"role": "user","content":msg})
     def Answer():
         return AnswerImageByPipe([],"","",THREAD_OBJECT.messages)
@@ -263,8 +262,7 @@ def ProcessByAgent(image:Image.Image,task:str,task_type:str,neg_prompts:list,epo
             },
         )
         Debug("reason:",response.choices[0].message.reasoning_content)
-        return (response.choices[0].message.content)  '''
-    
+        return (response.choices[0].message.content)  '''   
     def EditImageDirectly(image,prompt,np=None):
         return Process_Directly(image,prompt,np,epoch,global_itr_cnt,dir)
     def EditImageByBox(image,prompt:str,np=None):
@@ -276,34 +274,43 @@ def ProcessByAgent(image:Image.Image,task:str,task_type:str,neg_prompts:list,epo
     def InpaintingByMaskAndIpAdapter(image:Image.Image,prompt:str,np=None):
         return Process_InpaintingByIpAdapter(image,prompt,np,epoch,global_itr_cnt,dir)
     #
+    Ask(None,f"This is the {global_itr_cnt} iteration of the {epoch} epoch.")
     if global_itr_cnt==1:
         #移除之前编辑的所有图片
         target=[]
         for x in THREAD_OBJECT.messages:
-            if x["type"]!="image":
-                target+=x
+            if "type" in x and x["type"]=="image":
+                continue
+            else:
+                target.append(x)
         THREAD_OBJECT.messages=target
         #插入提示词，告知这是新一轮的开始
-        Ask(None,"Here will be a new session and you need remember the editing operation before in case of editing operations prior to the external modification.Remeber the context and do the following task!")
         #
         Ask(image.resize((512,512)), f'''the instruction is:{task},and the original image is "image"''')
     else:
-        Ask(THREAD_OBJECT.preImg.resize((512,512)),"the negitive feedback of the edited image is :{neg_prompts}")
-    res=Answer()
-    THREAD_OBJECT.messages.append({"role": "assistant", "content": res})
-    call = ET.fromstring(res).text
-    Debug("This turn call is:",call)
-    namespace={**globals(),**locals()}
-    exec(f"edited_img={call}",namespace)
-    edited_img=namespace["edited_img"].copy().convert("RGB")
-    THREAD_OBJECT.preImg=edited_img
+        Ask(THREAD_OBJECT.preImg.resize((512,512)),f"the negitive feedback of the edited image is :{neg_prompts}")
+    edited_img=None
+    while True:
+        try:
+            res=Answer()
+            call = ET.fromstring(res).text
+            Debug("This turn call is:",call)
+            namespace={**globals(),**locals()}
+            exec(f"edited_img={call}",namespace)
+            edited_img=namespace["edited_img"].copy().convert("RGB")
+            
+            THREAD_OBJECT.preImg=edited_img
+            THREAD_OBJECT.messages.append({"role": "assistant", "content": [{"type":"text","text":res}]})
+            break
+        except Exception as e:
+            Debug("processTask:",e)
+            continue
     return edited_img
-
-
-
-
-
 ################################################################
 if __name__=="__main__":
-    image=Image.open("image.png").convert("RGB")
+    image=Image.open("checked/2821/src.jpg").convert("RGB")
+    idx=1
+    while True:
+        ProcessByAgent(image,input("task:"),"add",[],1,idx,"debug")
+        idx+=1
     Process_Inpainting(image,"add a cat with black and white color  on the sofa ",None,1,1,"debug")

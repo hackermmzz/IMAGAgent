@@ -1,0 +1,1 @@
+[['Change the perspective of the image to emphasize water and boats', 'perspective_shift'], ['Add a prominent large ship on the right', 'add'], ['Add a floating dock', 'add'], ['Add colorful buoys', 'add'], ['Decrease the visibility of the shoreline', 'modify'], ['Decrease the visibility of the buildings', 'modify'], ['Make the sky clearer', 'attribute_change']]

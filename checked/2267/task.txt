@@ -1,0 +1,1 @@
+[["zoom in on the roasted lamb's surface", 'perspective_shift'], ['remove the bones', 'remove'], ['remove the chives', 'remove'], ['remove the chili peppers', 'remove'], ['add herbs on the meat', 'add'], ["change the herbs' texture to glossy", 'attribute_change']]

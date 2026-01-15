@@ -27,7 +27,7 @@ def AnswerTextByAPI(role_tip:str,question:str):
     )
     completion = client.chat.completions.create(
         # 指定您创建的方舟推理接入点 ID，此处已帮您修改为您的推理接入点 ID
-        model="qwen3-max",
+        model="deepseek-v3.2",
         messages=[
             {"role":"system","content":f"{role_tip}"},
             {"role": "user", "content": f"{question}"},
@@ -37,13 +37,14 @@ def AnswerTextByAPI(role_tip:str,question:str):
 #########################################本地调用
 def AnswerTextByPipe(role_tip:str,question:str):
     ############加载模型
-    LoadLLM()
+    global LLMModel,LLMProcessor
+    if LLMModel is None:
+        LoadLLM()
     # 4. 定义对话内容
     messages=[
             {"role":"system","content":f"{role_tip}"},
             {"role": "user", "content": f"{question}"},
     ],
-    global LLMModel,LLMProcessor
     # 5. 处理输入（转为模型可识别的格式，并移到模型所在设备）
     inputs = LLMProcessor.apply_chat_template(
         messages,
@@ -74,12 +75,16 @@ def AnswerTextByPipe(role_tip:str,question:str):
     answer=response[idx1+8:]
     Debug("AnswerTextByPipe深度思考:",think)
     #卸载模型
+    '''
     del outputs
     del inputs
     del LLMModel 
     del LLMProcessor
     gc.collect()
     torch.cuda.empty_cache()
+    LLMModel=None
+    LLMProcessor=None
+    '''
     #
     return answer
 #########################################调用

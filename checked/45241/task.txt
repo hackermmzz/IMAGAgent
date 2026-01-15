@@ -1,0 +1,1 @@
+[['Shift the view to an open ocean scene', 'perspective_shift'], ['Remove palm tree trunks', 'remove'], ['Remove bushes', 'remove'], ['Remove concrete pathway', 'remove'], ['Add multiple boats on the sea', 'add'], ['Highlight the broader beach perspective', 'perspective_shift']]

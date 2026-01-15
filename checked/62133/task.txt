@@ -1,0 +1,1 @@
+[['remove the red chili pepper', 'remove'], ['add sliced cucumbers', 'add'], ['add an olive', 'add'], ['add cherry tomatoes', 'add'], ["adjust the arrangement of the plate's items", 'move'], ['enhance visibility of cannelloni fillings', 'attribute_change']]

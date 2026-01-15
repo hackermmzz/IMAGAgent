@@ -1,0 +1,1 @@
+[['Replace the black SUV with a large white truck', 'replace'], ['Replace the black sedan with a white hatchback', 'replace'], ['Add a grey car', 'add'], ['Add more visible trees', 'add'], ['Add sidewalks', 'add'], ['Adjust perspective to include the changes', 'perspective_shift']]

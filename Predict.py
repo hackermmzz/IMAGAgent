@@ -4,6 +4,29 @@ import random
 from concurrent.futures import ThreadPoolExecutor
 from functools import partial
 #########################使用vincie数据集测试
+def PredictByCase():
+    all=[]
+    for i in range(1,5):
+        dir=f"case"
+        with open(f"{dir}/task{i}.txt","r",encoding="utf-8") as f:
+            task=f.read()
+        all.append({"task":task,"input_img":f"{dir}/{i}.jpg","dir":f"debug/{i}"})
+    return all
+def PredictByVincie():
+    all=[]
+    with open("log.txt","r")as f:
+        for x in f:
+            all.append(int(x.strip()))
+    all=set(all)
+    all=list(all)
+    random.shuffle(all)
+    ret=[]
+    for x in all:
+        dir=f"data/vincie/{x}"
+        with open(f"{dir}/task.txt","r",encoding="utf-8") as f:
+            task=f.read()
+        ret.append({"task":task,"input_img":f"{dir}/src.jpg","dir":f"debug/{x}"})        
+    return ret
 def PredictByMagicBrush():
     #获取所有待测试的数据
     target={}
@@ -61,4 +84,5 @@ def PredictByNanoBanana():
     return ret
 #################################
 if __name__=="__main__":
-    PredictByMagicBrush()
+    res=PredictByVincie()
+    print(res)

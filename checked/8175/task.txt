@@ -1,0 +1,1 @@
+[['Shift the scene slightly to the left', 'perspective_shift'], ['Remove the woman in the white puffy jacket', 'remove'], ['Remove the woman in the beige coat', 'remove'], ['Add decorative plants into view', 'add'], ['Add a car into view', 'add'], ['Change the position of the man in the black quilted jacket to walk alongside a person in a beige coat', 'move']]
