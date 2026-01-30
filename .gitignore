@@ -178,7 +178,10 @@ data/
 trush/
 epoch/
 Compare/
-checked/*
-transformers/
 *.txt
-MTEBench/
+transformers/
+MTEditBench/
+checked/*
+Compare.py
+ComputeScore.py
+downloadDataset.py
