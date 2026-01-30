@@ -1,0 +1,1 @@
+['Remove the sunbeds with umbrellas from the beach.', 'Remove the small yellow boat from the ocean.', 'Add a pier extending from the beach into the ocean.', 'Add several small boats in the water.', 'Add a catamaran with a yellow sail in the water.', 'Change the background to depict a densely built town.']

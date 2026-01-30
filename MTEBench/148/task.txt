@@ -1,0 +1,1 @@
+['Remove rain from the image.', 'Change the ocean surface to a calm underwater view.', 'Adjust the water color to bright blue to simulate sunlight filtering.', 'Add bubbles to the water.', 'Add light refraction effects on the water surface.']

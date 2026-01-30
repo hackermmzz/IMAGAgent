@@ -1,0 +1,1 @@
+['remove the man in the gray jacket', 'remove the child in the blue jacket', 'remove the child in the red jacket', 'reduce the size of the soap bubbles', 'enhance the visibility of the stone walls', 'enhance the visibility of the trees']

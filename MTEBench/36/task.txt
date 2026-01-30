@@ -1,0 +1,1 @@
+['Change the color of the building to gray.', 'Add snowflakes', 'Remove the cars', 'Replace the trees with pine trees', 'Change the sky to a clear blue']

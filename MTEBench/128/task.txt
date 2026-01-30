@@ -1,0 +1,1 @@
+['Reposition the rough-textured black truffle to the foreground left position.', 'Reposition the smoother black truffle to the background right position.', 'Reposition the prominent oak leaf to the right foreground position.', 'Reposition the less visible oak leaf to the left position.']

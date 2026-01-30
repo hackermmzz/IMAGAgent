@@ -1,0 +1,1 @@
+['Switch camera perspective to focus on the elaborate white temple', 'Highlight the bridge leading to the temple', 'Reduce the visibility of yellow structures', 'Reduce the visibility of the large white building previously in focus']

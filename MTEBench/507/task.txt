@@ -1,0 +1,1 @@
+['Modify the ground to a sandy shoreline', 'Add clear water near the shoreline', 'Change the sky to an open sky', 'Add a small boat on the left side of the image', 'Change palm trees to a less dense formation', 'Add a person walking on the beach', 'Add distant mountains in the background']

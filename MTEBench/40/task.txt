@@ -1,0 +1,1 @@
+['Adjust the image crop to show a wider beach view.', "Change the girl's hand position so she doesn't wave while running.", 'Add two small round rescue boats near the shore water.', 'Reposition wooden fishing boats slightly for consistency.', 'Remove the man near the boats.']

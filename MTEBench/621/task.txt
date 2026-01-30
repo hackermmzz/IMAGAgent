@@ -1,0 +1,1 @@
+['Replace the red truck with a blue logistics truck.', 'Add a white bus in the center lane.', 'Add a car in the left lane.', 'Add a car in the center lane.', 'Add a black car in the left lane.', 'Change the weather to slightly overcast.']

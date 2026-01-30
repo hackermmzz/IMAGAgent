@@ -1,0 +1,1 @@
+['Rotate the frame orientation slightly to the right.', 'Adjust the position of the characters to match the frame rotation.', "Change the second character's hand gesture from a peace sign to resting near their face.", 'Add shelving as a background element.']

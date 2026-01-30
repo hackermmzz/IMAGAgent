@@ -1,0 +1,1 @@
+['Reduce the prominence of jagged mountain ridges', 'Increase the visibility of snow', 'Smooth out the terrain', 'Change the sky to partly cloudy with orange sunlight peeking through clouds']

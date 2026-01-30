@@ -1,0 +1,1 @@
+['remove the tablet', 'add eyeglasses to the woman', 'add earrings to the woman', 'move the woman slightly to the right', 'perspective_shift to crop closer to her upper body', 'enhance the lighting']

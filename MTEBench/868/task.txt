@@ -1,0 +1,1 @@
+['Enhance the sharpness of the office environment', 'Increase the brightness of the office environment', 'Enhance the sharpness of the desk objects (including cactus and cup)', 'Increase the brightness of the desk objects (including cactus and cup)', 'Enhance the sharpness of the city skyline view', 'Increase the brightness of the city skyline view']

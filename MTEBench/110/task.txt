@@ -1,0 +1,1 @@
+['Change the image perspective to a closer view', "Change motorcyclist's helmet color to red", 'Remove inflatable structure', 'Reposition spectators', 'Replace tires with ropes', 'Introduce shrubs']

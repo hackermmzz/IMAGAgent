@@ -1,0 +1,1 @@
+['Adjust the position of the candle slightly.', 'Alter the angle of the feather.', 'Reposition the compass slightly.', 'Change the angle of the magnifying glass.', 'Adjust the placement of the old book slightly.', 'Modify the angle of the globe.']

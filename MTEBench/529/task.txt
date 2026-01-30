@@ -1,0 +1,1 @@
+['Change the color of the umbrella to green and pink.', 'Add a rainbow in the sky above the stage.', 'Remove the red banner on the left side of the stage.', "Replace the text on the person's vest with 'TEAM 2025'.", 'Move the person holding the umbrella slightly to the right.', 'Change the background to a nighttime cityscape with neon lights.']

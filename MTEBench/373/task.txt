@@ -1,0 +1,1 @@
+['Change the sky to greyish-white.', 'Remove the snow-covered ground.', 'Remove all trees except the single spruce tree top.', 'Adjust the angle to focus on the single spruce tree top.']

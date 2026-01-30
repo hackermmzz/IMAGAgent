@@ -1,0 +1,1 @@
+['Expand the view of the mountain stream environment', 'Add more surrounding terrain to the environment', 'Add snow patches to the environment', 'Reorient the stream to run diagonally', 'Show more topography details', 'Change the landscape color tone to cooler']

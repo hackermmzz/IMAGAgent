@@ -1,0 +1,1 @@
+['Remove the couple from the image.', 'Remove the car from the image.', 'Add vegetation to the landscape view.', 'Add clouds to the sky.', 'Adjust the image brightness to bright daylight.']

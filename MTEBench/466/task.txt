@@ -1,0 +1,1 @@
+['Remove one piece of chicken from the grill', 'Eliminate visible flame beneath grill', 'Adjust focus to highlight remaining chicken piece', 'Adjust lighting to match smoldering coals']

@@ -1,0 +1,1 @@
+['Lower the altitude of the plane.', 'Change the perspective of the plane view to rear view.', 'Add a metallic barbed wire fence with warning signs in the foreground.', 'Modify the background sky to appear overcast.', 'Add a landscape view in the background.']

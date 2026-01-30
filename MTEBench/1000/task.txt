@@ -1,0 +1,1 @@
+['Remove the man from the frame', 'Take bread off the peel', 'Rearrange the bread on the table', 'Ensure the oven trays appear empty']

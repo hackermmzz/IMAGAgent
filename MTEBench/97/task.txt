@@ -1,0 +1,1 @@
+['Move the elephants closer to the water', "Lower the elephants' trunks to drink", 'Introduce a round stone structure in the water', 'Adjust lighting for depth and emphasis on the elephants']

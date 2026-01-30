@@ -1,0 +1,1 @@
+["Change the woman's red top and white skirt to a white top and red skirt.", 'Reposition the woman to be more centered in the image.', 'Replace the man in the blue shirt with a man in a purple shirt.', 'Add a white cup next to the black device on the kiosk.']

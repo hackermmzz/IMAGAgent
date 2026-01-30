@@ -1,0 +1,1 @@
+['move the boy to the left', 'make the boy run', 'move the girl to the left', 'make the girl run', 'remove the drums', 'remove the potted trees', 'expand the open space visibility']

@@ -1,0 +1,1 @@
+['Adjust the perspective to show a broader view of the Douro Valley', 'Add a river on the right side of the image', 'Remove the small structure with a red roof', 'Add a large shadow over the sunlit terraces for contrast']

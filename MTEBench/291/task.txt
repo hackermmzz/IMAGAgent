@@ -1,0 +1,1 @@
+["Change the man's position to face more towards the camera.", 'Add a green apron over his shirt.', 'Remove the spray bottle from view.', 'Adjust the angle to include a wooden door or frame in the background.']

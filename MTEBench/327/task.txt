@@ -1,0 +1,1 @@
+['Move the tractor forward.', 'Elevate the machinery attachment of the tractor.', 'Adjust lighting to emphasize sunlight from above.', 'Shift the camera angle to a lower framing.']

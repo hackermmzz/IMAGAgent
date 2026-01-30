@@ -1,0 +1,1 @@
+["Adjust the camera angle to show the woman's back and upper body", "Reveal the woman's hair", 'Reveal the upper part of the dress', 'Increase the amount of sunset light on the horizon']

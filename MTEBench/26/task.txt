@@ -1,0 +1,1 @@
+['Adjust the lighting of the water display to enhance its vibrancy.', 'Adjust the color balance of the water display to enhance its vibrancy.', 'Add purple hues to the water display.', 'Add pink hues to the water display.']

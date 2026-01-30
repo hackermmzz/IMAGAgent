@@ -1,0 +1,1 @@
+['Widen the view in the scene', 'Move the piano slightly to the left', 'Move the man slightly to the left', 'Increase shadow coverage', 'Adjust the camera angle to capture more of the ravine walls']

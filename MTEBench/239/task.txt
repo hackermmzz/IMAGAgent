@@ -1,0 +1,1 @@
+['Increase the concrete level in the mold', 'Activate the chute to pour concrete', 'Add a person in a blue jacket to the background', 'Reveal a red metal clamp on the frame', 'Brighten the scene slightly', 'Adjust the angle for a wider view']

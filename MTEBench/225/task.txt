@@ -1,0 +1,1 @@
+['Remove the person handling the clear plastic container.', 'Place the clear plastic container on the bench without its cap.', 'Remove the liquid from the container.', 'Remove the pipette from the scene.']

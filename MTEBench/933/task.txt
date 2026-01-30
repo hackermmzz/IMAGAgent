@@ -1,0 +1,1 @@
+['Rotate the person to face the ice block.', 'Have the person wear a beanie.', 'Incorporate more detailed markings on the ice.', 'Adjust the camera for a closer view of the sculpting process.']

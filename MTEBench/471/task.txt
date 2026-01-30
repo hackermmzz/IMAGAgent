@@ -1,0 +1,1 @@
+['Reduce the visibility of the green dragon costume.', 'Reduce the visibility of the orange dragon costume.', 'Reduce the visibility of the purple dragon costume.', 'Reduce the visibility of the hanging lanterns.', 'Enhance the visibility and detail of the red dragon costume.']

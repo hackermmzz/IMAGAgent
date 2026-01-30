@@ -1,0 +1,1 @@
+['Adjust the angle of the wedding arch.', 'Adjust the clarity of the wedding arch.', 'Decrease the sunlight intensity.', 'Enhance the clarity of the background forest ground.']

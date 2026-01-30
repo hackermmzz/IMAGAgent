@@ -1,0 +1,1 @@
+['Change the carousel horses to display different segments.', 'Change the backdrop to display different segments.', 'Replace the bright backdrop with a seasonal depiction.', 'Adjust the viewpoint to show another portion of the horse.']

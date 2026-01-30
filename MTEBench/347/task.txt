@@ -1,0 +1,1 @@
+["Change the woman's position from kneeling at the pool edge to swimming away from the camera in the pool.", 'Increase the brightness of the scene.', 'Add a radiator on the far wall.', 'Add a door on the right side.']

@@ -1,0 +1,1 @@
+['Replace the floral urn pattern tile with a black and yellow checkered geometric design tile.', 'Change the black abstract pattern on the white tile to a geometric pattern.', 'Add a tile with a black three-leaf pattern.', 'Replace the white tile with blue and red floral designs with a tile featuring a swirling white pattern.']

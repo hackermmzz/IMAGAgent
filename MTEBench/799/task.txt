@@ -1,0 +1,1 @@
+['Remove the foreground rocks.', 'Remove the shore area.', 'Expand the view to include the lake and mountains.', 'Enhance the reflection of the sky on the water.', 'Emphasize the misty distant landscape.']

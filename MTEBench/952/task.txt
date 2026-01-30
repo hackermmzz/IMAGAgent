@@ -1,0 +1,1 @@
+['Add more pedestrians to the scene', 'Add a couple standing on the right side of the scene', 'Increase the number of illuminated statues on poles', 'Increase the number of illuminated street lamps']

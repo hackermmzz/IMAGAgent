@@ -1,0 +1,1 @@
+['Remove the ground elements from the scene.', 'Remove the hot air balloons from the scene.', 'Enlarge the red, white, and blue balloon.', 'Position the checkerboard-patterned balloon higher.', 'Adjust the focus to be skyward.']

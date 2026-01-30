@@ -1,0 +1,1 @@
+['Move the person closer to the camera', "Change the person's clothing to a blue shirt and beige pants", 'Crouch the person on the longboard', 'Add hay bales on the right side of the road', 'Increase vegetation on both sides of the road', 'Adjust the sky to be partially cloudy']

@@ -1,0 +1,1 @@
+['Shift the view to an open ocean scene', 'Remove palm tree trunks', 'Remove bushes', 'Remove concrete pathway', 'Add multiple boats on the sea', 'Highlight the broader beach perspective']

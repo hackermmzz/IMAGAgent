@@ -1,0 +1,1 @@
+['Replace the woman in brown top with one in a black jacket', 'Replace the man in dark jacket with another man in grey jacket and jeans', 'Rearrange and increase the number of baskets', 'Rearrange fish displays', 'Change sunshade colors', 'Alter the crowd composition']

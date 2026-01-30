@@ -1,0 +1,1 @@
+['Remove certain small visible motorboats', 'Add a green motorboat', 'Rearrange the positions of the boats', 'Slightly reduce the number of visible smaller boats']

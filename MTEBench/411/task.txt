@@ -1,0 +1,1 @@
+['Zoom out to show a wider view of the airplane wing.', "Reveal more of the airplane wing's structure.", 'Display another part of the airplane in the background.', 'Show background details including environmental elements.']

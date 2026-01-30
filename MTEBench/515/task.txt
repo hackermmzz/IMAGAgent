@@ -1,0 +1,1 @@
+['Change the setting from an outdoor track scene to a funicular station entrance with station architecture.', 'Alter the appearance of the individuals in the funicular car.', 'Change the funicular number from 2 to 1.', 'Modify the background elements to include station entrance features.']

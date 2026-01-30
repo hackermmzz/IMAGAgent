@@ -1,0 +1,1 @@
+['Zoom in the frame', 'Reduce the number of black and white stones', 'Increase the size of the black stones', 'Enhance the visibility of the wind movement on the sandy surface']

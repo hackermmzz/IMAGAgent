@@ -1,0 +1,1 @@
+['Add a bun on top of the beef patty', 'Add tomato slices', 'Reposition tomato slices', 'Move the onion slice slightly', 'Add a cucumber slice next to the patty', 'Change the camera angle', 'Enhance the lighting']

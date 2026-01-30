@@ -1,0 +1,1 @@
+['Remove the blurred forearm from the foreground.', 'Make the brushes static on the table next to the peonies.', 'Set the scene to a stationary state without action.', 'Emphasize the arrangement of peonies, brushes, and palette on the table.']

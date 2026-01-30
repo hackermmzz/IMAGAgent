@@ -1,0 +1,1 @@
+['Adjust the waves to be closer to the shore.', 'Enhance the intensity of the waves.', "Deepen the water's color to appear more intense.", 'Change the camera angle to focus more on the waves.']

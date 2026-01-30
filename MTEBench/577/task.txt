@@ -1,0 +1,1 @@
+["Zoom in to focus on the woman's hand.", "Zoom in to focus on the man's chest.", "Add a man's chest next to the woman's hand.", "Add a man's hand on the woman's hand.", "Position the woman's hand on the man's chest.", 'Make the hand with a ring clearly visible.', 'Reduce the visibility of the background.']

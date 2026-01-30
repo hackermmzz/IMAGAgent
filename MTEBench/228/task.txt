@@ -1,0 +1,1 @@
+['Increase the brightness of the water', 'Enhance the dynamics of the waves to show more active crashing movement against the rocks', 'Increase the volume of the waves crashing against the rocks', 'Replace the sun reflection with a brighter sky', 'Increase the vibrancy of the scene']

@@ -1,0 +1,1 @@
+['Remove the motorcycle rider', 'Replace the silver car with a black car', 'Replace the single-decker bus with a distant red double-decker bus', 'Add a taxi cab at the far right']

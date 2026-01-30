@@ -1,0 +1,1 @@
+['Increase the overall brightness of the image', 'Decrease the darkness in the scene to reduce the rainy effect', 'Enhance the brightness of the fern plants', 'Enhance the brightness of the background trees']

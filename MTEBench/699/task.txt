@@ -1,0 +1,1 @@
+['move the runner further left', 'move the couple forward', 'move the jogger in the white top closer to the couple', 'move the person in pink closer to the viewer', 'enhance the density of grass and bushes', 'expand the view of the lake']

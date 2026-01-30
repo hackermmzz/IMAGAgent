@@ -1,0 +1,1 @@
+['Remove the grass and flowers from the foreground', 'Reposition the sun to the top center', 'Increase the glare of the sun', 'Add stronger lens flares', 'Increase the visibility of the lake', 'Increase the visibility of the building in the background']

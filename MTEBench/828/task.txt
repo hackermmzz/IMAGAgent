@@ -1,0 +1,1 @@
+["Replace office buildings and 'Jolis Photography studio' with multi-story residential buildings with balconies", 'Change the silver car in motion to a small gray car', 'Change the sky from overcast to clear', 'Add storefronts with red and orange awnings', 'Remove the SUV from the background', 'Add traffic light elements to the crossing']

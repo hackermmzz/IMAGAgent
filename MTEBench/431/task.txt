@@ -1,0 +1,1 @@
+['Remove the keyboard and pen tablet.', 'Reposition the person in red shirt to sit back.', 'Reposition the person in blue shirt to sit back.', 'Show more of the outdoor environment through the windows.']

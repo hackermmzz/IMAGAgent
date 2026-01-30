@@ -1,0 +1,1 @@
+['Move the first white duck to the center', "Change the first white duck's position to walking right with its head raised", 'Add foliage to obscure the second duck partially', 'Blur the third duck', 'Remove the fourth duck from the scene', 'Add more greenery on the left side of the scene', 'Reduce the visible fencing on the left side of the scene']

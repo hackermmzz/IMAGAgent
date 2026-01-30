@@ -1,0 +1,1 @@
+['Change the color of the jeans to red.', 'Change the flip-flops to sneakers.', 'Remove the car in the background.', 'Add a dog on the ground.', 'Change the background trees to a forest style.']

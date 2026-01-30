@@ -1,0 +1,1 @@
+['Adjust camera perspective to focus on a denser coral reef region.', 'Increase the density and layering of yellow corals.', 'Emphasize purple coral formations.', 'Make small fish more prominent among the corals.']

@@ -1,0 +1,1 @@
+['Add a jacket to the girl.', 'Add a wide-brimmed hat to the girl.', 'Add a backpack to the girl.', 'Change the scene to a forested area.', 'Make the girl walking away on the road.']

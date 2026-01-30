@@ -1,0 +1,1 @@
+["Adjust the scene's brightness to create a sunlit ambiance", 'Change the sky to clear blue', 'Add a large tree on the right side of the road', 'Add distant green hills in the background', 'Add a building in the background', 'Modify the road to an open landscape', 'Modify the foliage to an open landscape']

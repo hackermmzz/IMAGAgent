@@ -1,0 +1,1 @@
+['Remove the man standing in the foreground.', 'Remove the barely visible woman in the background.', 'Add a person walking up the escalator with black pants, brown shoes, and holding a colorful bag.', 'Clear the area in front of the escalator to unobstruct the view of the escalator.']

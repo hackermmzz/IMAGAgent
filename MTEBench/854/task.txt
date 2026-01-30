@@ -1,0 +1,1 @@
+['Increase the lighting of the palm trees to make them more vibrant.', "Increase the saturation of the palm trees' fronds to make them brighter.", 'Enhance the overall image brightness.', 'Enhance the overall image contrast.']

@@ -1,0 +1,1 @@
+['Expand the small ink plume to a large size.', "Change the ink plume's color to vibrant with multiple colors (such as blue, green, purple).", 'Add intricate shapes and patterns to the ink plume for complexity.', "Increase the ink plume's coverage to dominate the entire frame."]

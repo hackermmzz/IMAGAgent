@@ -1,0 +1,1 @@
+['Adjust the frame to show a broader street view', 'Remove specific individuals from the foreground', 'Increase visibility of food shops', 'Increase visibility of stripes on awnings', 'Enhance focus on backpacks', 'Enhance focus on crowd composition']

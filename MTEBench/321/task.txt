@@ -1,0 +1,1 @@
+["Change the car's color from blue to dark.", "Adjust the environment's brightness to be dimmer.", 'Add leaves on the ground.', 'Adjust the lighting to a more shaded appearance.']

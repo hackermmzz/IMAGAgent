@@ -1,0 +1,1 @@
+['Adjust the perspective to an aerial view.', 'Add a second vertical shell structure.', 'Significantly increase the sea grass density.', 'Alter the water clarity to appear more turbid.']

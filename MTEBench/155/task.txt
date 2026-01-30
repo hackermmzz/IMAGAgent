@@ -1,0 +1,1 @@
+['Change the perspective of the aircraft image from an underside close-up to a distant wide-angle view.', 'Add mountains in the background.', 'Add cloudy sky elements.', 'Add runway lights near the runway.', 'Add fencing near the runway.', "Adjust the aircraft's position to show it approaching the runway."]

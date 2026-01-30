@@ -1,0 +1,1 @@
+['Move the elderly couple slightly forward on the stage', "Change the man's angle to face more forward while holding the woman's hand", 'Reduce the number of visible people in the background', "Remove the object in the elderly man's other hand"]

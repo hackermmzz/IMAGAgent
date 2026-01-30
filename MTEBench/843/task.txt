@@ -1,0 +1,1 @@
+['Change the image to a wider landscape view with dense foliage in the foreground.', 'Add a red bridge in the background.', 'Add tall trees in the background.', 'Add a clear sky in the background.', 'Add distant buildings in the background.', 'Add power lines in the background.']

@@ -1,0 +1,1 @@
+['Move the fisherman in the blue shirt closer to the net.', 'Move the fisherman in the white shirt closer to the net.', 'Move the fisherman in the red shirt closer to the net.', 'Extend the net further into the ocean.']

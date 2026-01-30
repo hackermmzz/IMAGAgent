@@ -1,0 +1,1 @@
+['Change the focus from the palm tree trunk to the broader green foliage and palm leaves.', 'Apply a slight blur effect to the broader view of green foliage and palm leaves.', 'Remove the ant from the image.', 'Remove the palm tree trunk from the image.']

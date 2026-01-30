@@ -1,0 +1,1 @@
+['Replace the man from frame 1 with a woman wearing a black cowboy hat and dark jacket.', 'Change the white horse to a brown horse.', 'Position the horses moving away.', 'Add a city background with buildings.', 'Have the tan horse ridden by the man with a dark jacket.']

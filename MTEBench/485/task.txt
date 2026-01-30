@@ -1,0 +1,1 @@
+['Remove the man from the scene', 'Remove the woman from the scene', 'Remove the chairs from the scene', 'Remove the bag from the scene']

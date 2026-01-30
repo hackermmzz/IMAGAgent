@@ -1,0 +1,1 @@
+['Change the image perspective to a wide view showing the lake', 'Add trees surrounding the lake', 'Add rocks near the lake', 'Add additional groups of people at various distances from the first group']

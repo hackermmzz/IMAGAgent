@@ -1,0 +1,1 @@
+["Change char1's hat color to green", "Change char1's scarf style to be over shoulders", "Position char1's hands to lower hold on cup", "Change char2's hand action to sipping from a cup", 'Increase visibility of market area in background', 'Adjust character positions slightly']

@@ -1,0 +1,1 @@
+['Reframe the image to focus on the flat-roof building with solar panels', 'Remove the yellow tractor from the image', 'Remove the car from the image', 'Remove the truck from the image', 'Adjust the position of the flat-roof building to be more central', 'Reduce the prominence of the housing in the background']

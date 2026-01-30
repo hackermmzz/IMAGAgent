@@ -1,0 +1,1 @@
+['Activate the lathe equipment', 'Ensure the cutting tool is engaged with the workpiece', 'Initiate the spraying of coolant fluid onto the workpiece', 'Render the spindle head in motion']

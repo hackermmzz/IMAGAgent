@@ -1,0 +1,1 @@
+['Reorient the woman to face away from the camera.', 'Change the beach surface from rocky to sandy.', 'Remove urban elements from the background.', 'Enhance the natural scenery in the background with hazier lighting.']

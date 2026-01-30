@@ -1,0 +1,1 @@
+["zoom in on the roasted lamb's surface", 'remove the bones', 'remove the chives', 'remove the chili peppers', 'add herbs on the meat', "change the herbs' texture to glossy"]

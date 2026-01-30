@@ -1,0 +1,1 @@
+['Remove the individuals walking down the staircase.', 'Increase crowd interaction at the bottom.', 'Adjust crowd dynamics to display greater engagement.', 'Rearrange standing postures and orientations of the crowd at the base of the pagoda.']

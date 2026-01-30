@@ -1,0 +1,1 @@
+['Enhance the lighting in the underwater scene', 'Enhance the clarity in the underwater scene', "Reveal the woman's braided hair", "Ensure the visibility of the woman's white dress", 'Ensure the visibility of the man with tattooed arms', 'Ensure the visibility of underwater bubbles']

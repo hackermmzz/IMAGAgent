@@ -1,0 +1,1 @@
+['Shift the camera angle to focus more on the fountain and its surroundings', 'Add a person in a red shirt and black cap', 'Add a person with an updo hairstyle', 'Remove the person in black with short curly hair']

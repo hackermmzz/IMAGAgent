@@ -1,0 +1,1 @@
+['Add another halved cherry tomato on the plate.', 'Remove the whole cherry tomato.', 'Remove the glass bowl with pepper.', 'Remove the egg pasta noodles from the scene.', 'Adjust the focus and cropping to center more on the plate of spaghetti.']

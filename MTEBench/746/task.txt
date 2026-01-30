@@ -1,0 +1,1 @@
+['Shift the angle of view slightly to the right', 'Reduce the visibility of the beige building with a red roof', 'Show more of the adjacent light-colored modern building facade', 'Maintain focus on the church tower', 'Ensure the spire remains visible', 'Ensure roof details remain visible']

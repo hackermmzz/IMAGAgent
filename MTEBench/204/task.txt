@@ -1,0 +1,1 @@
+['Remove the truck', 'Move the white car further away', 'Add more cars in the distance', 'Replace the sound barrier on the right with thick green trees']

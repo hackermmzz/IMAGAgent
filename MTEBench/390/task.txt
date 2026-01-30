@@ -1,0 +1,1 @@
+['Adjust the perspective to bring the presser foot into view', 'Emphasize the needle area', 'Alter hand placement to account for changed fabric position', 'Focus on the mechanical interaction between the hand, fabric, and sewing machine']

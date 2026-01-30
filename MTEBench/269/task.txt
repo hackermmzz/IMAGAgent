@@ -1,0 +1,1 @@
+['Add a glass cup with red tea', "Change the glass cup's color to red", 'Add a sugar-dusted croissant', 'Add cookies', 'Add red berry-themed decorations', 'Sharpen the entire image', 'Make festive details in focus', 'Make background lights in focus']

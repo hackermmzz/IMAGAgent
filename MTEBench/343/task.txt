@@ -1,0 +1,1 @@
+['Change the perspective of the landscape.', 'Smooth out the rock formations in the foreground.', 'Increase cloud presence in the sky.', 'Add distant mountainous terrain in the background.']

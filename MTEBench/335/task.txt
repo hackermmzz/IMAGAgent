@@ -1,0 +1,1 @@
+['Slightly turn the third character towards the camera.', 'Slightly turn the fourth character towards the camera.', 'Blur the face of the third character.', 'Blur the face of the fourth character.']

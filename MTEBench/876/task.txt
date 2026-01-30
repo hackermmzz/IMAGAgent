@@ -1,0 +1,1 @@
+['Zoom into the dense green foliage of the mangrove forest.', 'Remove the view of the water.', 'Remove any visible structures.', 'Enhance the leafy texture and greenery of the foliage.']

@@ -1,0 +1,1 @@
+['Change the person’s uniform to a dark jacket.', 'Change the pen to a writing pad.', 'Add a binder to the desk.', 'Rearrange the papers on the desk.', 'Brighten the lighting in the scene.']

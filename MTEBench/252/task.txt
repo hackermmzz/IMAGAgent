@@ -1,0 +1,1 @@
+['Adjust the orientation of the grass to appear more upright.', 'Adjust the density of the grass to appear more lush.', 'Shift the sunlight distribution to be more even.', 'Enhance the sparkle of the dew.']

@@ -1,0 +1,1 @@
+['Add a man wearing a red sleeveless shirt, gray shorts, blue gloves, and a helmet beside the woman', 'Add a black bicycle next to the existing purple bicycle', 'Make the man lean towards the woman', 'Make the woman lean towards the man']

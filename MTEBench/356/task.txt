@@ -1,0 +1,1 @@
+['Increase the density of red roses', 'Remove the pink roses', 'Remove the yellow roses', 'Enhance the color saturation of red rose bushes to make them more prominent', 'Crop the image to focus on the roses and purple flowers']

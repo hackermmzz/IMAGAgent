@@ -1,0 +1,1 @@
+['Adjust the focus of the side mirror to enhance reflection clarity.', 'Make the traffic lights more distinct.', 'Make the street lamps more distinct.', 'Reduce the density of raindrops on the mirror.']

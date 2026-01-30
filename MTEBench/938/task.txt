@@ -1,0 +1,1 @@
+['Change the image perspective to a vertical over-the-top view.', 'Focus the view on a specific city intersection.', 'Enhance the visibility of building rooftops.', 'Enhance the visibility of urban layout details.']

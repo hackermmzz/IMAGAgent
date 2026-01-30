@@ -1,0 +1,1 @@
+['Add two more holes to the wall to make four drilled holes.', 'Add a person with an arm visible in the frame.', 'Make the person hold a screwdriver.', 'Add a black holder bracket to the wall.', 'Attach the holder bracket to the wall at the location of the four drilled holes.']

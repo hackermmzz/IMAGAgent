@@ -1,0 +1,1 @@
+['Shift the palm leaves to the right.', 'Increase blurring on the palm leaves.', 'Increase blurring on the water fountain.', 'Adjust overall focus for a softer appearance.']

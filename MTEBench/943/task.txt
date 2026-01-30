@@ -1,0 +1,1 @@
+['Close the lid of the moisture analyzer.', "Remove the person's hand.", 'Remove the spoon.', 'Remove the yellow substance.', 'Change the screen display to 0.0%.', 'Adjust the lighting to a warm tone.']

@@ -1,0 +1,1 @@
+['Increase brightness of the entire scene to simulate daytime', 'Add sunlight effect to the scene', 'Add cloud reflections on the water', 'Increase brightness of boats', 'Increase brightness of buildings', 'Increase color saturation of the entire scene']

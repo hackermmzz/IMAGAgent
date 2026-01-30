@@ -1,0 +1,1 @@
+['Shift the position of the dancers towards the left slightly.', 'Increase the number of dancers visible.', 'Have the lead young girl slightly change her pose.', 'Adjust the positioning of banners and the crowd very subtly.']

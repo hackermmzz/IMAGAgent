@@ -1,0 +1,1 @@
+['Zoom in on the white fish nigiri', 'Enhance the detail and texture of the sushi', 'Focus less on the whole platter', 'Focus more on one piece of sushi', 'Move the bamboo mat closer', 'Move the chopsticks closer']

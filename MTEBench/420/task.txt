@@ -1,0 +1,1 @@
+['Replace the orange cheese wedge with a white cheese wedge showing a grid pattern.', 'Reposition the orange cheese wedge to be partially visible behind the white cheese wedge.', 'Replace the garlic with a red chili pepper.', 'Remove the green leafy vegetable.']

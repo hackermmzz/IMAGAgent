@@ -1,0 +1,1 @@
+['Zoom in on the cargo area.', 'Remove the container ship from the image.', 'Enhance the prominence of yellow cranes.', 'Enhance the prominence of shipping containers.', 'Adjust the density of shipping containers to make them appear more densely packed.']

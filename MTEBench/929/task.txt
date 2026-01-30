@@ -1,0 +1,1 @@
+['remove the straw-like lamp from the table', 'add a black hat prominently', 'move the bottles towards the right side', 'remove some drawing instruments', 'organize the drawing instruments', 'adjust the angle of the image', 'adjust the lighting of the image']

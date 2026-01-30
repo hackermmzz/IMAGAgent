@@ -1,0 +1,1 @@
+['Change the perspective of the scene to show more surroundings', 'Add traditional buildings with orange roofs to the scene', 'Remove the visible red wall from the scene', 'Remove certain individuals from the scene', 'Increase the crowd size in the scene']

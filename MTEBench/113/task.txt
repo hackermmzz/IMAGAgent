@@ -1,0 +1,1 @@
+['Change the color of the shirt to red', 'Change the color of the grass to blue', 'Add a flower near the person', 'Remove the arm visible on the left']

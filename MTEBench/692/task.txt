@@ -1,0 +1,1 @@
+['Enhance the warmth and contrast of the scene', 'Deepen the colors of the clouds', 'Move the sun lower on the horizon', "Increase the sun's glow", 'Make the sunlight reflection on the water more vivid', 'Deepen the tree shadows']

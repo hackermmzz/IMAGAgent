@@ -1,0 +1,1 @@
+['Shift the camera angle slightly to the right', 'Remove the yellow buoy', 'Remove the person near the yellow buoy', 'Make the person on the slide slid down']

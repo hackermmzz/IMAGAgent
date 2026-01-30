@@ -1,0 +1,1 @@
+['Remove pedestrians from the intersection', "Add a moving 'Metro' bus", 'Change the traffic light to green for vehicles', 'Update vehicle positions accordingly']

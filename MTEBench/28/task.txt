@@ -1,0 +1,1 @@
+['Replace the tall modern skyscraper with a historical tower structure.', 'Replace the modern glass building with an industrial warehouse.', 'Adjust the overall lighting to a warm sunrise glow, increasing warm color tones.', 'Highlight the spire of the historical tower with warm light.', 'Highlight the brick texture of the industrial warehouse with warm light.']

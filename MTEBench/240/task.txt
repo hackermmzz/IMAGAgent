@@ -1,0 +1,1 @@
+['Remove the blue plush toy from in front of the baby.', "Adjust the baby's posture to lie calmly.", 'Add an adult holding the baby.', 'Add grass to the background.']

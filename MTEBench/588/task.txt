@@ -1,0 +1,1 @@
+['Rearrange the positions of some fish.', 'Make a few fish appear brighter grey.', 'Obscure the tank floor visibility.', 'Adjust the overall scene brightness to cooler grey tones.']

@@ -1,0 +1,1 @@
+['Change the direction of the left eye to look straight at the camera.', 'Change the direction of the right eye to look straight at the camera.', 'Adjust the pupil size of the left eye.', 'Adjust the iris visibility of the left eye.', 'Adjust the pupil size of the right eye.', 'Adjust the iris visibility of the right eye.']

@@ -1,0 +1,1 @@
+['Reposition the pile of barley grains to the center.', 'Increase the size of the pile of barley grains.', 'Blur the barley stalks in the background.', 'Adjust the focus to highlight the pile of barley grains.']

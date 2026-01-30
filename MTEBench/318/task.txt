@@ -1,0 +1,1 @@
+['Replace the empty skillet with a plate', 'Add two slices of cooked pork on the plate', 'Add lettuce on the plate', 'Add tomato slices on the plate', 'Add a pickle on the plate', 'Add a decorative knife next to the plate', 'Add a decorative fork next to the plate']

@@ -1,0 +1,1 @@
+['Enhance the visibility and textural definition of macrophages', 'Enhance the visibility and textural definition of dendric cells', 'Adjust the orientation of smaller red blood cells', 'Adjust the density of smaller red blood cells']

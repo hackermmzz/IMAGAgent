@@ -1,0 +1,1 @@
+['Reposition the woman to face slightly more toward the camera.', "Style the girl's hair into two small buns.", 'Remove the small picture frame from the table.', 'Slightly move the smartphone.']

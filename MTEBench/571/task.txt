@@ -1,0 +1,1 @@
+['Remove some snail shells to leave only one visible snail shell.', 'Reduce the number of plant branches.', 'Emphasize the branch with the single snail shell.', 'Shift focus to the single snail shell and its branch.']

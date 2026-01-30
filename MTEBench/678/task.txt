@@ -1,0 +1,1 @@
+['Adjust the arrangement of flowers slightly.', 'Adjust the perspective of the image slightly.', 'Shift the flower density slightly.', 'Shift the leaf density slightly.']

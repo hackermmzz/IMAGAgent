@@ -1,0 +1,1 @@
+['Add an additional tree on the left side of the image', 'Widen the image frame to include more open sky', "Reveal more branches by adjusting the image's composition", 'Ensure the sunlight continues to shine through the branches']

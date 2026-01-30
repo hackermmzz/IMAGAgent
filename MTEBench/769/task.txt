@@ -1,0 +1,1 @@
+['Remove the man in the gray coat and bag.', 'Add a man in a dark coat descending the stairs.', 'Remove the person in a black coat ascending the right stairs.', 'Replace the person in a black coat ascending the right stairs with a person in a light-colored coat.', 'Add more individuals grouped near the top of the stairs.']

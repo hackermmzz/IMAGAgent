@@ -1,0 +1,1 @@
+['Replace the natural ingredients with colored Easter eggs.', "Change the small jars labeled 'blueberries' and 'spinach' to mason jars labeled 'turmeric' and 'red cabbage'.", 'Remove spinach leaves.', 'Remove beets.']

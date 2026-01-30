@@ -1,0 +1,1 @@
+['Reduce the brightness of the image.', 'Add a barley field in the foreground.', 'Add mountains in the background.', 'Increase the clarity of the scene.']

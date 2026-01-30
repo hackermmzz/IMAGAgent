@@ -1,0 +1,1 @@
+['Enhance the sharpness and focus of the image.', 'Adjust the clarity of the confetti.', 'Adjust the clarity of the ribbons.', 'Remove blur from the confetti.', 'Remove blur from the ribbons.', 'Enhance the vividness of the colors.', 'Enhance the reflections on the confetti and ribbons.']

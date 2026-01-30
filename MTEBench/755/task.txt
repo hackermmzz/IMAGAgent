@@ -1,0 +1,1 @@
+['Move the girl from sitting on the cubes to moving away on the padded surface.', 'Increase the brightness of the play environment to make it brighter.', 'Highlight the netting structure in the play environment.', 'Decrease the prominence of the cubes by adjusting their visibility.']

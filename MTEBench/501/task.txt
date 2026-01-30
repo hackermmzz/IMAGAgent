@@ -1,0 +1,1 @@
+['Remove the large central red berry.', 'Add a green leaf to the top right.', 'Include a small insect or object floating at the bottom left.', 'Adjust the position of dark berries to reveal more open water space in the center.']

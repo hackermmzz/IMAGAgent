@@ -1,0 +1,1 @@
+['Replace the cream cake slice with a segment of orange.', 'Replace the orange fruit slice with a red fruit slice.', 'Add a halved red grape.', 'Add a yellow-orange fruit slice.', 'Add a whole dark purple grape.']

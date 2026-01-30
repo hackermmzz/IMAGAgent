@@ -1,0 +1,1 @@
+['Move the rooster into the grassy area', 'Surround the rooster with green foliage', 'Increase the density of pink flowers in the grassy area', 'Eliminate the dirt path']

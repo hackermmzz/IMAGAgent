@@ -1,0 +1,1 @@
+['Remove the cardboard boxes', 'Change the floor tiles to a salon-style floor', 'Add salon chairs', 'Add a man in a jacket', 'Add a desk lamp', 'Add mugs']

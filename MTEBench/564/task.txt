@@ -1,0 +1,1 @@
+['Add a train with blue and orange stripes in the background.', 'Adjust the position of the suitcase to be beside the woman.', 'Add another individual walking on the platform.', 'Add a yellow safety line on the platform.']

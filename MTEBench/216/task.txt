@@ -1,0 +1,1 @@
+['remove buildings', 'add sheep grazing in the rural area', 'add colorful shops', 'add a railway track across the bottom', 'remove construction sites', 'add more greenery']

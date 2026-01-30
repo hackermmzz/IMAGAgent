@@ -1,0 +1,1 @@
+['remove the cars', "reposition and slightly alter the pylon's structure", 'increase the distance view', 'make the trees clearer', 'add additional pylons', 'change the fog from dense to light']

@@ -1,0 +1,1 @@
+['Change the face paint color of the person on the right to black', "Make the person's right hand hold a book", 'Change the environment to a green meadow', 'Add a teapot', 'Delete the lights in the sky', 'Add rainbows in the sky']

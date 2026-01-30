@@ -1,0 +1,1 @@
+['Add curtains and a window to the room to create a living room setting.', "Slightly shorten the woman's hair length.", 'Reposition the woman to face the window.', 'Ensure all objects in the scene are fully visible.', 'Adjust lighting to provide natural lighting in the scene.']

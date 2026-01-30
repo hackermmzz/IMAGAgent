@@ -1,0 +1,1 @@
+['Add a car with visible brake lights on the street.', 'Add a pedestrian walking on the street.', 'Increase the illumination of the street lamps.', 'Enhance the visibility of the building in the background.']

@@ -1,0 +1,1 @@
+['Zoom in on the main building to focus on its details', 'Add a palm tree to the scenery', 'Add a shelter-like structure to the scenery', 'Add slight cloud cover to the sky while preserving grass and tree elements']

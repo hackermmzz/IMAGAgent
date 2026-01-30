@@ -1,0 +1,1 @@
+['Add sunglasses to the woman', 'Adjust her left hand to touch her hair', 'Shift the background to an urban setting with buildings', 'Change the lighting to a side-lit warm tone']

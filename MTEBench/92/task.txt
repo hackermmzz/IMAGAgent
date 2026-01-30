@@ -1,0 +1,1 @@
+['Reduce the color saturation of the sunset area.', 'Reduce the brightness of the sunset area.', 'Increase the cloud density.', 'Adjust the overall image brightness to a lower level for a more subdued evening setting.']

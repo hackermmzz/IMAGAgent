@@ -1,0 +1,1 @@
+['Change perspective to broad cityscape view', 'Remove detailed facade features of the cathedral', 'Add varied residential buildings to the cityscape', 'Add commercial buildings to the cityscape', 'Add a playground to the cityscape', 'Add additional trees to the cityscape']

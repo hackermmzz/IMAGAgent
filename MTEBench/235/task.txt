@@ -1,0 +1,1 @@
+['Adjust the ripples on the white section of the flag to create a variation in shape.', 'Change the orientation of the green stripe on the flag to a slight tilt.', 'Modify the ripples on the black section with yellow lions to have a different wave pattern.', 'Adjust the overall orientation of the flag to a slight angle.']

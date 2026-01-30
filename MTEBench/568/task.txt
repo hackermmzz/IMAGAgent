@@ -1,0 +1,1 @@
+['Add more grey-covered greenhouses.', 'Add power lines crossing the scene.', 'Add grey covers to exposed green fields to reduce their visibility.', 'Remove the small building with a red roof.']

@@ -1,0 +1,1 @@
+['Add a man kneeling near the tarp.', 'Add a man squatting near the tarp.', 'Add a man standing near the tarp.', 'Expand the scene background to include more setting details.']

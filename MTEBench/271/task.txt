@@ -1,0 +1,1 @@
+['Remove the glass vase with dried twigs from the windowsill.', 'Remove the pot with white flowers from the windowsill.', 'Remove the purple flowers with white tips from the windowsill.', 'Replace the outdoor scene beyond the window with a snow - covered outdoor scene.']

@@ -1,0 +1,1 @@
+['Change the man in the white shirt assisting a child to a boy standing alone at the top of the structure.', 'Remove the man in the white shirt from the playground scene.', 'Adjust the shadows in the playground to indicate a lively environment.', 'Change the background to include more trees and playground activity.']

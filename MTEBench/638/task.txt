@@ -1,0 +1,1 @@
+['Move the man further down the walkway.', "Change the man's shirt from red to green.", 'Re-position the benches further down the path.', 'Reduce the number of visible birds.']

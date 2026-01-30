@@ -1,0 +1,1 @@
+['Move the first fishing vessel to the left group position', 'Move the second fishing vessel to the left group position', 'Move the third fishing vessel to the left group position', 'Move the fourth fishing vessel to the right group position', 'Move the fifth fishing vessel to the right group position']

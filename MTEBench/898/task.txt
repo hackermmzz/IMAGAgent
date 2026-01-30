@@ -1,0 +1,1 @@
+['Add more white foam to the waves.', 'Make the waves appear closer to the shore.', 'Increase the brightness of the water.', 'Enhance the reflectivity of the water to emphasize sunlit reflections.']

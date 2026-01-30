@@ -1,0 +1,1 @@
+['Change the scene to a densely packed urban view focusing on buildings, removing the pier and water body background.', 'Add a circular dome structure to the urban scene.', 'Emphasize rooftop details by adjusting focus and contrast.', 'Adjust the lighting to be brighter to highlight architectural details.']

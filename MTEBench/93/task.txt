@@ -1,0 +1,1 @@
+['Change the color of the rings to gold.', 'Add a diamond on the ring box.', "Change the rose's color to pink.", "Remove the ring box's interior."]

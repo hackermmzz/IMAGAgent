@@ -1,0 +1,1 @@
+["Change the character's position from lying to sitting.", "Adjust the character's orientation to face the window.", 'Modify the curtains to reveal the outdoor scene.', 'Enhance the natural lighting in the image.', 'Make the doctor use a stethoscope.']

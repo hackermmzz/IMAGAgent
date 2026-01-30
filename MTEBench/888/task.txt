@@ -1,0 +1,1 @@
+['Add a green metallic pot beside the white cup', 'Fill the cup with coffee', 'Insert a spoon into the cup', 'Adjust the position of coffee beans around the cup', 'Change the background to red', 'Adjust color and lighting to unify the scene']

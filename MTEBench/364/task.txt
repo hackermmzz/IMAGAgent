@@ -1,0 +1,1 @@
+['Change the perspective to a wide-angle view.', 'Add a snow-covered field.', 'Add tire tracks on the snow-covered field.', 'Add a line of hoarfrost-covered trees in the distance.', 'Change the sky to a partly cloudy sky.']

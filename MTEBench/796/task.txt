@@ -1,0 +1,1 @@
+["Adjust the image focus to prioritize the characters' positions over the devices.", "Turn the woman's head partially away from the camera.", "Add a pink hairpin to the young girl's hair.", 'Remove the visibility of electronic devices (laptop and mobile phones) from the image.']

@@ -1,0 +1,1 @@
+['Increase the smoke density from the smokestack.', 'Adjust the lighting to depict a later time of day.', 'Create more pronounced shadows.', 'Enhance the reflections in the river.']

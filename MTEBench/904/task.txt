@@ -1,0 +1,1 @@
+['Shift the perspective slightly.', 'Change the color of white, red, and blue button lights to orange.', 'Add additional visible control elements.', 'Adjust the lighting to create a warmer and dimmer ambiance.']

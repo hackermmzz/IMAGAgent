@@ -1,0 +1,1 @@
+['Make the girl disappear.', 'Shift the man slightly to the left.', 'Change the woman from standing to bending down.', 'Adjust the stage lighting to make it more prominent.']

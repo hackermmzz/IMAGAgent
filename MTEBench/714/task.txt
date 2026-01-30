@@ -1,0 +1,1 @@
+['Adjust the position of the sushi piece.', 'Adjust the position of the wasabi.', 'Adjust the position of the soy sauce dish.', 'Make the person in the mustard-yellow sweater have a minor pose change.']

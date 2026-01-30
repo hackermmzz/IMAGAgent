@@ -1,0 +1,1 @@
+['Reduce the size of the warrior.', 'Create a silhouette effect for the warrior.', 'Reduce the size of the horse.', 'Create a silhouette effect for the horse.', 'Change the environment to a dusty field.']

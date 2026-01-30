@@ -1,0 +1,1 @@
+['Increase foreground lighting to reveal details of people and their activities.', 'Add lighting to the central archway.', 'Remove the vehicle silhouette.', 'Add bushes near the building.']

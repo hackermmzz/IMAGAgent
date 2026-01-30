@@ -1,0 +1,1 @@
+["Adjust the image's sharpness to reveal clear details of the camera lens", 'Adjust the focus to make the concentric rings of the camera lens clear', 'Enhance the visibility of the camera lens elements', 'Increase the visibility of reflections on the camera lens']

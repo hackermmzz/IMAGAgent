@@ -1,0 +1,1 @@
+['Add a third worker', "Change the third worker's pants to dark pants", 'Add reflective boots to the third worker', 'Add an additional shovel to the third worker', 'Make the third worker actively engaged in moving the asphalt pile']

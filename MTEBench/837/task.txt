@@ -1,0 +1,1 @@
+['Adjust the image perspective from frontal view to side profile', 'Show the upper torso and head in the side profile view', 'Add long hair to the person', 'Add a black hat to the person']

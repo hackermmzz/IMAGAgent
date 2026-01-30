@@ -1,0 +1,1 @@
+['Shift the perspective angle to the right slightly to include more buildings.', 'Shift the perspective angle to the right slightly to include more greenhouses.', 'Shift the perspective angle to the right slightly to include more road view.', 'Ensure the church tower remains visible.', 'Ensure the distant hills remain visible.']

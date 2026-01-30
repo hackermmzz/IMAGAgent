@@ -1,0 +1,1 @@
+['Replace the guitar with a twisted cable.', 'Remove the microphone.', 'Increase the blur of the image slightly.', 'Adjust the background tone to earthy and neutral.']

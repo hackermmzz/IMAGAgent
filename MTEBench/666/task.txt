@@ -1,0 +1,1 @@
+['Adjust camera perspective from close-up to wide-angle view.', 'Reveal broader view of the surrounding cityscape.', 'Reveal broader view of the harbor and docked ships.', 'Add distant mountains in the background landscape.']

@@ -1,0 +1,1 @@
+['Change the environment to an indoor cave scene', 'Add hanging lanterns in the cave scene', 'Replace one tourist with an older man', 'Replace another tourist with a person wearing a white suit', 'Modify the rocky backdrop to an indoor cave interior']

@@ -1,0 +1,1 @@
+['Change the flat raindrop-covered surface into a curved surface resembling a car roof.', 'Adjust the perspective of the image.', 'Add more details to the background of the image.', 'Add hints of surrounding foliage in the background.']

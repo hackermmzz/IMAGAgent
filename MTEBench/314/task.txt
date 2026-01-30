@@ -1,0 +1,1 @@
+['Crop the image to focus closely on the woman.', 'Emphasize the tattooed arm by increasing its visibility.', 'Emphasize the red bathing suit by increasing its contrast.', 'Minimize foliage in the background by reducing its opacity.', 'Minimize people in the background by reducing their visibility.']

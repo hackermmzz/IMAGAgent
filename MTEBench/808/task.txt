@@ -1,0 +1,1 @@
+['Add a car on the highway', 'Reduce the amount of surrounding greenery', 'Shift the position of the clouds in the sky', 'Adjust the lighting to make the road and car colors more vivid']

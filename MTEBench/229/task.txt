@@ -1,0 +1,1 @@
+["Adjust the woman's orientation to face the side.", 'Change the smoke color to a vivid red.', 'Adjust the smoke angle.', 'Depict more open space in the background.']

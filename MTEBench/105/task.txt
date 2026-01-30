@@ -1,0 +1,1 @@
+['remove the tree and its branches', 'add a tilled soil patch', 'add colorful gardening tools', 'add mulch containers', 'add a red tiller machine', 'add a senior gardener with a straw hat', 'move the senior gardener to the scene', 'make the senior gardener actively use the tiller']

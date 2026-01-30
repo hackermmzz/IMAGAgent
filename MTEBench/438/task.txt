@@ -1,0 +1,1 @@
+['Remove the garden area including trees and plants near the house.', 'Remove the cars on the driveway.', 'Replace the house and immediate surrounding area with agricultural fields.', 'Add distant houses and tree lines in the background.']

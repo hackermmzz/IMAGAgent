@@ -1,0 +1,1 @@
+['Remove the person cooking pancakes.', 'Replace the removed person with a person preparing food.', 'Remove the grill and stacks of pancakes.', 'Replace the grill and stacks of pancakes with an array of packaged snacks and colorful cups of jelly desserts.', 'Adjust items on the stall to create a vibrant snack display.']

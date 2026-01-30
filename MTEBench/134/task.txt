@@ -1,0 +1,1 @@
+['Change the color of the water to blue.', 'Add a boat to the water.', 'Remove the tall glass building on the left.', 'Replace the sky with a sunset sky.', 'Add a fountain near the bridge.']

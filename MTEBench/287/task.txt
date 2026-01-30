@@ -1,0 +1,1 @@
+['remove the roller skater', 'remove the BMX biker', 'remove the audience', 'add individuals standing at the top of the ramp', 'remove the fence', 'adjust lighting to create a quieter atmosphere']

@@ -1,0 +1,1 @@
+['Adjust the overall lighting to simulate a different time of day.', 'Modify the shadows on the rocks to create varied depth.', 'Adjust the highlights on the rocks to enhance texture.', 'Modify the shadows on the water ripples to add varied texture.', 'Adjust the highlights on the water ripples to increase depth.']

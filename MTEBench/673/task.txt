@@ -1,0 +1,1 @@
+['Zoom into the detailed stonework on a carved foot structure', 'Remove all characters from the image', 'Remove the stone table from the image', 'Enhance texture and contrast of the stonework']

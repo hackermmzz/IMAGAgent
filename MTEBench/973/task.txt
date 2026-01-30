@@ -1,0 +1,1 @@
+['Move the black trousers player from left to right', 'Remove the blue jersey player', 'Bring the white jerseys players closer', 'Remove a hockey stick', 'Add more players with similar socks', 'Change the background to include an advertisement']

@@ -1,0 +1,1 @@
+['Remove the cars from the street', 'Change the perspective to eliminate shadows', 'Add a lamp post near the sidewalk', 'Add a garden area near the sidewalk', 'Modify the layout of the buildings to create a clearer view', 'Change the background to reveal a clear view of the sea']

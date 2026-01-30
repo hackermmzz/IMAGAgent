@@ -1,0 +1,1 @@
+['Change the background to an outdoor-like setting with leafy background', 'Remove the extra pitcher', 'Change the glass clarity to clearer', 'Adjust ambient lighting to vibrant', 'Remove extra fruits from the bottle', 'Remove table clutter from the table']

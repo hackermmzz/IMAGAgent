@@ -1,0 +1,1 @@
+['Reduce flower density', 'Adjust focus to soften the overall scene', 'Ensure flower distribution is even across the frame', 'Modify depth of field for consistent soft focus']

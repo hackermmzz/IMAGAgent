@@ -1,0 +1,1 @@
+['Add people to the upper section of the stairs', 'Add people to the middle section of the stairs', 'Modify the spacing of people in the upper section to be denser', 'Modify the spacing of people in the middle section to be denser', 'Move people upwards in the upper section', 'Move people closer together in the middle section']

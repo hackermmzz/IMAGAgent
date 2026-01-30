@@ -1,0 +1,1 @@
+['Adjust the position of the leftmost sausage slice.', 'Adjust the orientation of the second sausage slice.', 'Adjust the position of the third sausage slice.', 'Adjust the orientation of the fourth sausage slice.']

@@ -1,0 +1,1 @@
+["Change the egg mixture's state to uniformly set.", 'Smooth the texture of the egg mixture.', 'Reduce the number of visible herbs in the egg mixture.', 'Reduce the number of visible bubbles in the egg mixture.']

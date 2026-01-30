@@ -1,0 +1,1 @@
+['Reposition the motorcycle to a frontal approaching position.', 'Remove the passenger from the motorcycle.', 'Add a black vehicle in the foreground as the viewpoint.', 'Add additional buildings in the background to enhance environment details.']

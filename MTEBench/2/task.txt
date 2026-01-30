@@ -1,0 +1,1 @@
+['Remove all clothes from the wooden surface', 'Remove the camera from the wooden surface', 'Remove the wallet from the wooden surface', 'Remove the documents from the wooden surface', 'Add a map inside the suitcase', 'Add travel documents inside the suitcase']

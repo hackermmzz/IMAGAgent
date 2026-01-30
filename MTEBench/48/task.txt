@@ -1,0 +1,1 @@
+['Remove the second pigeon from the left', 'Move the first pigeon closer to the fountain edge', 'Rotate the third pigeon slightly clockwise', 'Adjust the position of the fourth pigeon towards the center', 'Alter the orientation of the rightmost pigeon to face left']

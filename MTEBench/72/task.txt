@@ -1,0 +1,1 @@
+['Zoom in on the bouquet.', 'Enhance focus on the purple flowers.', 'Reduce visibility of background white flowers.', 'Adjust the angle to highlight flower petals.']

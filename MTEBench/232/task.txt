@@ -1,0 +1,1 @@
+["Change the second character's dress to a dark red long sleeve top.", 'Remove the third character from the frame.', 'Position the balloons towards the center of the image.', 'Reduce the number of visible champagne glasses from three to two.']

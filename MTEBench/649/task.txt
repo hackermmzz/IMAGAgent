@@ -1,0 +1,1 @@
+['Increase the brightness of the flames.', 'Increase the contrast of the flames.', 'Increase the brightness of the ashes.', 'Increase the contrast of the ashes.', 'Increase the brightness of the smoke.', 'Increase the contrast of the smoke.']

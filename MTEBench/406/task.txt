@@ -1,0 +1,1 @@
+['Adjust the position of worker 1', 'Adjust the posture of worker 1', 'Adjust the position of worker 2', 'Adjust the posture of worker 2', 'Adjust the position of worker 3', 'Adjust the posture of worker 3', 'Change the placement of the red object', 'Change the placement of the wooden panels', 'Clarify the new character on the right']

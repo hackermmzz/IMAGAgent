@@ -1,0 +1,1 @@
+['remove the bus stop', 'remove the billboard', 'remove the characters', 'add road markers with red tops', 'add utility poles', 'improve vegetation clarity', 'enhance roadside openness and clearer views of fields and trees']

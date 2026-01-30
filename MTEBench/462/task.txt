@@ -1,0 +1,1 @@
+["Shift camera angle to focus on fortress ruins' walls extending outwards", 'Reveal vast flat landscape with bodies of water in the distance', 'Remove figures from the frame', "Alter point of view to emphasize surrounding environment over the fortress's main tower"]

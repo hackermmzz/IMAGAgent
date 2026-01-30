@@ -1,0 +1,1 @@
+['Change the outfit of the foreground cyclist to blue and white.', 'Make the foreground cyclist steer into the curve of the track.', 'Add dust to the track area to increase dust presence.', 'Remove the spectators.', 'Add dust around the background cyclists to obscure them.']

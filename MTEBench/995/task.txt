@@ -1,0 +1,1 @@
+["Adjust the shape of the Brazilian flag to match the second image's shape.", "Adjust the fold pattern of the Brazilian flag to match the second image's fold pattern.", "Adjust the position of the Brazilian flag to match the second image's position.", "Adjust the wave pattern of the Brazilian flag to match the second image's wave pattern."]

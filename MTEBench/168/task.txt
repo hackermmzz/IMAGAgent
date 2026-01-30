@@ -1,0 +1,1 @@
+['Move the person in the white shirt closer to the center.', 'Make the person in the white shirt hold a camera as if capturing a moment.', 'Add a person in a red tank top standing and facing away from the camera.', 'Increase the dynamic interaction among people and tomatoes.']

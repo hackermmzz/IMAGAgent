@@ -1,0 +1,1 @@
+['remove the man', 'remove the stack of logs', 'remove the metal pipe', 'remove the hanging lamp', 'modify the tent wall to show seams and grommets', 'modify the metal framework at top right corner']

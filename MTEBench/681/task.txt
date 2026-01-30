@@ -1,0 +1,1 @@
+['Reposition the eyeballs to be more distant and spread out.', 'Reduce the density of eyeballs near the viewer.', 'Enhance the misty atmospheric effect.', 'De-emphasize the close-up foreground elements.']

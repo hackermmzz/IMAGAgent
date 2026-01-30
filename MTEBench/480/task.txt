@@ -1,0 +1,1 @@
+['Move the umbrellas closer to the temple entrance', 'Enlarge the umbrellas', 'Add more people at the temple base walking towards the right', 'Change the red jacket to a red shirt', 'Adjust the camera angle slightly']

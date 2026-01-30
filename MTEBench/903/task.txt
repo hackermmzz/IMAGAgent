@@ -1,0 +1,1 @@
+['Replace the rocky and grassy foreground with a lush green forest.', 'Add a city in the distance.', 'Add a village in the distance.', "Adjust the sky to match the original sky's appearance."]

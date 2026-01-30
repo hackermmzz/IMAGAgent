@@ -1,0 +1,1 @@
+['Increase the density of clouds in the sky', 'Darken the clouds in the sky', 'Spread the clouds more widely across the sky', 'Reduce the visibility of the blue sky area', 'Diffuse the sunlight', 'Transform the scene to a more overcast and stormy appearance']

@@ -1,0 +1,1 @@
+['Remove the wooden desk', 'Remove the papers', 'Remove the black chair', 'Introduce a computer monitor', 'Introduce a detailed map on the wall', 'Introduce colored pens', 'Introduce a red water bottle']

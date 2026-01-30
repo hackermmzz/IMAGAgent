@@ -1,0 +1,1 @@
+['Move the girl further into the field', "Change the girl's orientation to face away from the camera", 'Adjust the camera angle to encompass more of the field', 'Enhance the cloudiness of the sky']

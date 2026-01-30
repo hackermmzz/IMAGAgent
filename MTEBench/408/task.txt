@@ -1,0 +1,1 @@
+['Adjust camera angle and position to capture a wider harbor view.', 'Increase the number of boats and adjust their arrangement.', 'Change the orientation of the buildings.', 'Add background mountains.', 'Transform the sky to a heavily clouded overcast state.']

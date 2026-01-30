@@ -1,0 +1,1 @@
+['Remove the hand', 'Remove the sparkler', "Make the flower's petals appear burnt", 'Add smoke rising from the top of the flower']

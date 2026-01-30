@@ -1,0 +1,1 @@
+['Change the perspective to a broader view of the tree', 'Add several golden roses to the image', 'Add a star to the image', 'Add a tassel-like ornament to the image', 'Add more golden spheres to the image', 'Add more brown bows to the image']

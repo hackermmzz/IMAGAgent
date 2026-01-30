@@ -1,0 +1,1 @@
+['Adjust the brightness of the wooden bridge', 'Adjust the brightness of the surrounding foliage', 'Adjust the contrast of the wooden bridge', 'Adjust the contrast of the surrounding foliage', 'Adjust the sharpness of the wooden bridge', 'Adjust the sharpness of the surrounding foliage']

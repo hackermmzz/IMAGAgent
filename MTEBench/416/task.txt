@@ -1,0 +1,1 @@
+['remove the shadow on the left cliff', 'extend the flat desert surface', 'increase the overall brightness', 'reduce shadows', 'enhance clarity of distant mountains', 'add a bright sky']

@@ -1,0 +1,1 @@
+['Increase the brightness of the image', 'Enhance water clarity', 'Add small fish near the corals', 'Enhance contrast and sharpness of the corals']

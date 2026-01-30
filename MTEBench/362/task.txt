@@ -1,0 +1,1 @@
+['Adjust the reflection of the digital compass instrument to match the second image.', 'Adjust the clarity of the digital compass instrument to match the second image.', 'Adjust the reflection of the nautical chart to match the second image.', 'Adjust the clarity of the nautical chart to match the second image.']

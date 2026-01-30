@@ -1,0 +1,1 @@
+['Remove the woman riding', 'Remove the girl riding', 'Add a person in dark attire riding a bicycle from the left', 'Remove the pedestrian in a white shirt', 'Change the traffic light display to 68 seconds', 'Replace the background car with a red moving car', 'Remove some pedestrians', 'Remove some vehicles']

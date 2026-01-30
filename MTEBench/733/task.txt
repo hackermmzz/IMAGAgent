@@ -1,0 +1,1 @@
+['Add a person in a dark suit carrying a bag to the platform.', 'Add a person in a red coat with a large suitcase to the platform.', 'Add a person with a hoodie to the platform.', 'Add several suitcases and bags on the platform.', 'Increase the lighting of the scene.', 'Brighten the overall scene.']

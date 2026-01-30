@@ -1,0 +1,1 @@
+['Change the tripod arrangement.', 'Add boxes and digital signage to the background.', 'Introduce a man in a green shirt.', 'Introduce a man in a black shirt and cap.', 'Remove the white item from the woman’s hand.', 'Shift the focus slightly to the right to capture a broader view.']

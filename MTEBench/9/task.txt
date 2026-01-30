@@ -1,0 +1,1 @@
+['remove the white cylindrical object', 'remove the red pencil', 'modify the transparent block to move to center with blue outline and red diagonal line', 'remove the green background and red outline', 'replace the green background with transparent view and add new markings', 'change to top-down view']

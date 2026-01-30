@@ -1,0 +1,1 @@
+['Change the color of the pillows to blue.', "Make the person's hand hold a remote control.", 'Remove the small wooden table.', 'Replace the wall with a forest background.', 'Add a cat on the bed.']

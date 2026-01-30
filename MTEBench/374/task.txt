@@ -1,0 +1,1 @@
+['Add a woman seated in front of the convertible.', 'Make the child give a thumbs-up gesture.', 'Make the woman give a thumbs-up gesture.', "Change the child's position from sitting to standing."]

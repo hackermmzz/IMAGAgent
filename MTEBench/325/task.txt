@@ -1,0 +1,1 @@
+['Add additional factory buildings around the main structure', 'Add grassy areas in the foreground', 'Add trees in the landscape', 'Add foreground structures']

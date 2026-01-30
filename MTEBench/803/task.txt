@@ -1,0 +1,1 @@
+['Rotate the camera to the right.', 'Make the entertainer hold pink juggling sticks with rainbow gloves.', 'Add a person holding a stuffed toy to the bench.', 'Increase the number of people sitting.']

@@ -1,0 +1,1 @@
+['Rotate the camera angle to show the man from the back.', 'Show more of the pool area in the image.', 'Add a building in the background.', 'Add a pool ladder near the pool.']

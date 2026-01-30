@@ -1,0 +1,1 @@
+['Move the man with a red shirt closer to the temple entrance.', 'Add more tourists with umbrellas in the plaza.', 'Remove the child from the original scene.', 'Remove the woman in a green dress from the original scene.', 'Add a girl with a ponytail wearing a floral shirt beside the man in the red shirt.']

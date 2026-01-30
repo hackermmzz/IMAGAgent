@@ -1,0 +1,1 @@
+['Reposition the frontmost goose to face forward.', 'Reposition the second goose to face forward.', 'Reposition the third goose to face forward.', 'Align the two background geese closer together.', 'Adjust the interaction between the two background geese by positioning them closer.', 'Adjust the partial visibility of the geese to create a more dynamic scene.']

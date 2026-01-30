@@ -1,0 +1,1 @@
+['Adjust the image focus to individuals in traditional attire.', 'Decrease visibility of ritual items.', 'Highlight traditional clothing of individuals.', 'Show traditional adornments on individuals.']

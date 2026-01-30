@@ -1,0 +1,1 @@
+['Reposition the front shark slightly forward to show movement.', 'Make the front shark open its mouth.', 'Enhance the rock texture in the background.', 'Enhance contrast of coral formations in the background.']

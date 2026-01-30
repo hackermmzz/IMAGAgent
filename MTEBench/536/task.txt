@@ -1,0 +1,1 @@
+['Change the posture of the man on the left to an active paddling position.', 'Change the posture of the man on the right to an active paddling position.', 'Align the direction of the boat to face forward.', 'Add a distant red-roofed structure in the background.']

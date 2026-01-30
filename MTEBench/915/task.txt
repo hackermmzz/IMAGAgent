@@ -1,0 +1,1 @@
+['Adjust focus to emphasize the foreground peanut fields', 'Add a reflective water body in the bottom left corner', "Sharpen the hills' details for sharper appearance", 'Soften the atmospheric haze for a softer effect']

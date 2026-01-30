@@ -1,0 +1,1 @@
+['Add a person wearing a red shirt cutting the roasted duck', 'Move the oval tray under the roasted duck', 'Slice the roasted duck', 'Place duck pieces on the white paper plate']

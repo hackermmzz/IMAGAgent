@@ -1,0 +1,1 @@
+['Shift perspective slightly to the right.', 'Reduce wave activity to make the sea calmer.', 'Adjust characters near shore to fit the new perspective.', 'Add a person sitting in shallow water.']

@@ -1,0 +1,1 @@
+['Change the perspective to focus more on the left slope of the hill', 'Move the burnt logs and tree stumps to new positions on the left slope', 'Enhance the visibility of the green hills in the background by adjusting brightness and contrast', "Modify the terrain's appearance to create a flatter look"]

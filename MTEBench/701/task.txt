@@ -1,0 +1,1 @@
+["Change the child's position to standing", 'Change the toy the child is holding to a different toy', "Change the woman's position from kneeling to sitting", 'Move the rocking horse slightly to the center', 'Add a large potted plant on the side of the room']

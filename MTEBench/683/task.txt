@@ -1,0 +1,1 @@
+["Change the river's flow from turbulent to calmer.", "Change the river's appearance from frothy to smoother and reflective.", 'Add snow-covered trees in the background.', 'Add a distant bridge in the background.']

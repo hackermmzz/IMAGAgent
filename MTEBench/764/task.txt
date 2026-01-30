@@ -1,0 +1,1 @@
+['Reposition the prominent wind turbine to the center of the image.', 'Slightly adjust the position of distant turbines for a tighter composition.', 'Remove the visible road from the layout.', 'Slightly adjust the image contrast to give a brighter appearance.']

@@ -1,0 +1,1 @@
+['Adjust the angle of the image to show less of the girl.', 'Adjust the focus to emphasize the window and surrounding structure.', 'Reduce the visibility of the girl by lowering her opacity.', 'Enhance the details of reflections on the window.', "Increase the prominence of the window's framing structure."]

@@ -1,0 +1,1 @@
+['Reposition the left bird to be more above water', 'Reposition the middle bird to be more above water', 'Reposition the right bird to be more above water', 'Change the color of the central bird to gray and brown, face left', 'Enhance the visibility of the interaction dynamics among the birds']

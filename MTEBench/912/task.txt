@@ -1,0 +1,1 @@
+['Increase the jelly level in the first glass to make it appear almost full', 'Increase the jelly level in the second glass to make it appear almost full', 'Add a wooden surface underneath the glasses', 'Adjust the orientation to a front-facing view']

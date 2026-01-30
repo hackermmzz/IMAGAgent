@@ -1,0 +1,1 @@
+['Change the building layout', 'Change the perspective of the image', 'Add a windmill to the scene', 'Add a dome structure to the scene', 'Change the background to expose the Aegean Sea', 'Remove the bougainvillea flowers', 'Remove the terrace area']

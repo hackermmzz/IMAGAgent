@@ -1,0 +1,1 @@
+['Adjust the camera angle to focus more on the upper architectural details of the ancient building.', 'Highlight the pediment.', 'Highlight the decorative finials.', 'Remove the ground-level pathway.', 'Remove the building on the left.', 'Remove the car.']

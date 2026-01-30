@@ -1,0 +1,1 @@
+["Adjust the perspective to show more of the building's upper floors.", 'Add a third window with a balcony to the green facade.', 'Make the top railings visible.', 'Remove the tree branch from the bottom right corner.', 'Change the sky to clear blue.', 'Adjust the brightness to create a bright daylight atmosphere.']

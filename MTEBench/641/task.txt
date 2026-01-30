@@ -1,0 +1,1 @@
+['Add a truck traveling along the curved mountain road', 'Increase the vegetation to be lush and dense', 'Make the mountains appear greener', 'Add clouds over the mountains']

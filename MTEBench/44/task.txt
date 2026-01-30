@@ -1,0 +1,1 @@
+['Darken the overall lighting of the image.', 'Change the clouds to a more dramatic, overcast appearance.', 'Lengthen the visible portion of the foreground boat.', 'Remove the second boat.', 'Alter the perspective to reduce emphasis on the bridge and change building visibility in the background.', 'Add a row of trees in the background.']

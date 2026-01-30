@@ -1,0 +1,1 @@
+['Add mounds of rice garnished with herbs', 'Reposition the grilled meat to include a bone', 'Add more pomegranate seeds', 'Add more tomato slices', 'Add green herbs', 'Remove the garlic']

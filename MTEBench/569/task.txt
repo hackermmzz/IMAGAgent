@@ -1,0 +1,1 @@
+["Remove the gloves from the chef's hand", "Remove the knife from the chef's hand", 'Add a person in the background wearing a yellow shirt and dark jeans', 'Remove the meat from the cutting board', 'Seal the plastic container with meat', 'Remove the meat from the small cylindrical container']

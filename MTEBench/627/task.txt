@@ -1,0 +1,1 @@
+['Add boats in the lake', 'Create ripples on the water surface', 'Enhance the vibrancy of the water', 'Add movement effects to the boats']

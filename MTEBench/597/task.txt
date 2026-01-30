@@ -1,0 +1,1 @@
+['Remove the leafy plant on the left side of the image.', 'Zoom in on the orchids.', 'Increase the number of orchids.', 'Increase the detail of the orchids.', "Increase the color emphasis of the orchids' purple petals.", "Increase the color emphasis of the orchids' yellow centers."]

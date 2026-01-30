@@ -1,0 +1,1 @@
+['Add a young man dressed as a leprechaun on the orange background.', 'Change the jacket of the young man to green.', 'Add a hat to the young man.', 'Add a long beard to the young man.']

@@ -1,0 +1,1 @@
+['Shift the camera angle to a close-up of the steak centered on the plate', 'Remove the red sauce from the small dish', 'Remove the red peppers from the small dish', 'Add cutlery to the setting', 'Place small sauce droplets around the rim of the plate']

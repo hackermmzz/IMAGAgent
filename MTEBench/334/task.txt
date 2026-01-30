@@ -1,0 +1,1 @@
+['add a whole onion to the table', 'add a bulb of garlic to the table', 'add a wooden bowl with toasted baguette slices to the table', 'add a cloth with orange stripes to the table', 'remove the ornate spoon from the table', 'remove scattered salt from the table', 'remove peppercorns from the table']

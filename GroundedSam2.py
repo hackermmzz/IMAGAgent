@@ -43,7 +43,8 @@ def CLIPScore(image, prompt:str):
     similarity=(similarity+1)/2
     return similarity
 ######################################################抠图
-def GroundingDINO_SAM2(image,text_prompt:str,crop_box=None):
+def GroundingDINO_SAM2(image,prompt:str,crop_box=None):
+    text_prompt=prompt
     crop_box=crop_box if crop_box else (0,0,image.size[0],image.size[1])
     original=image.copy()
     image=image.crop((crop_box[0],crop_box[1],crop_box[2],crop_box[3]))
@@ -206,5 +207,6 @@ if __name__=="__main__":
         path=input("path:")
         prompt=input("prompt:")
         res=GroundingDINO_SAM2(Image.open(path).convert("RGB"),prompt)
-        res=res["cutOut_img"]
-        res.save("output.png")
+        for x in res:
+            print(res[x])
+            

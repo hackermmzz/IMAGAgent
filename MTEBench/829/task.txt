@@ -1,0 +1,1 @@
+['Reposition char1 slightly to the left and lean towards the workstation', 'Reposition char2 slightly to the left and lean towards the workstation', 'Introduce char3 standing to the right of char1 and char2', 'Slightly rearrange the equipment on the floor']

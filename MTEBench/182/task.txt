@@ -1,0 +1,1 @@
+['Move the yellow taxi further down the road', 'Remove the red car with a sunroof', 'Add a new black truck with yellow markings', 'Add a new white sedan', 'Adjust the position of other vehicles to match the second frame', 'Adjust the count of other vehicles to match the second frame', 'Improve the visibility of road markings']

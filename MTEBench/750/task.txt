@@ -1,0 +1,1 @@
+['Change the color of the food item to brown.', "Make the baby's hand hold a toy.", 'Change the background to a blue sky with clouds.', 'Add a balloon.', 'Delete the red surface in the background.', 'Replace the blue clothing with a green one.']

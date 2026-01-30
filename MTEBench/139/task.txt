@@ -1,0 +1,1 @@
+['Make the smoothie more prominent in focus', 'Move the smoothie to front center', 'Add a spoon inside the smoothie', 'Add a banana with a bit of its peel showing beside the smoothie', 'Add a measuring spoon with chia seeds', 'Add a measuring cup with white liquid (probable coconut milk)', 'Remove the recipe note paper']

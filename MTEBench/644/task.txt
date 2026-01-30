@@ -1,0 +1,1 @@
+['Adjust the arrangement of the leaves slightly.', 'Change the focus to the central area of the leaves.', 'Adjust the density of the leaves in the foreground.', 'Alter the light reflection on the leaves to make them shinier.', 'Adjust the depth of field to blur the background leaves.']

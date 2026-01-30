@@ -1,0 +1,1 @@
+['Adjust the angle of the violin to show a slight change in orientation.', 'Adjust the focus on the hand to show a slight change.', 'Adjust the angle of the hand holding the violin.', 'Adjust the focus to transition from the first to the second frame.']

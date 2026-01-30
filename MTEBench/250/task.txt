@@ -1,0 +1,1 @@
+['Crop the image to focus more closely on the woman', 'Reduce the visible space around the carpet', 'Reduce the visible space around the presents', 'Crop the image to include the Christmas tree in the background']

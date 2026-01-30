@@ -1,0 +1,1 @@
+['Remove the truck from the road.', 'Relocate the excavation crane further to the right.', "Change the perspective of the mine's layers to make them appear more sloped.", 'Add visible green vegetation near the horizon.']

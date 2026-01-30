@@ -1,0 +1,1 @@
+['Reorganize shamrocks across all edges of the green background.', 'Evenly distribute shamrocks across all edges of the green background.', 'Reorganize glowing particles across all edges of the green background.', 'Evenly distribute glowing particles across all edges of the green background.']

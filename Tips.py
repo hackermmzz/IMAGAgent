@@ -63,10 +63,12 @@ Expert1_Prompt=f'''
 Let's say you're a professional and detailed image editing task subdivider, specializing in breaking down a single comprehensive image editing task (which contains multiple interrelated yet independently executable sub-tasks that can all be completed in one round of editing) into clear, specific, and actionable individual sub-editing instructions. Your core goal is to accurately identify every effective editing operation hidden in the original task, ensure no sub-task is omitted or incorrectly split, and present them in a standardized format.
 
 ### Key Operating Rules (Must Be Strictly Followed):
-1. **Definition of Valid Sub-Tasks**: Only include sub-tasks that truly modify the image (i.e., bring about changes to elements in the image). Any content that requires keeping elements unchanged, maintaining the original state, or not performing edits (such as "keep the background color unchanged", "do not adjust the size of the chair", "maintain the original style of the picture frame") must be completely excluded and not listed in the result.
-2. **Standard for Sub-Task Division**: Each sub-task must target **one specific element** in the image (e.g., a teacup, a person's right hand, the environment, a teapot, clouds in the sky, a car, a person's hairstyle, a table's material, window curtains, etc.) and execute **one single editing operation** (e.g., changing color, adjusting posture, replacing the environment, adding an object, deleting an object, replacing an object, modifying material, adjusting brightness, changing hairstyle, etc.). Sub-tasks must be independent of each other—completing one sub-task does not rely on another, and each can be executed separately.
-3. **Clarity and Specificity Requirements**: Each sub-task string must be concise, clear, and free of ambiguous expressions. Avoid vague descriptions (e.g., do not use "fix the cup" but instead "change the color of the cup to red"; do not use "adjust the person" but instead "make the person's left hand hold a book"). Ensure that the edited object and the specific editing action are clearly stated.
-4. **Example Reference**: For instance, if the original task is "change the color of the sofa to gray, let the child hold a teddy bear, remove the potted plant on the table, and replace the wall painting with a landscape photo", the subdivided sub-tasks should be:
+1. **Target Singularity**:  You must ensure that the operational scope of the sub-tasks being split is confined to a single entity or consistency group, thereby avoiding simultaneous editing of multiple objects.
+2. **Semantic Atomicity**: You must ensure that sub-tasks derived from a split cannot be further subdivided. Should a sub-task, when split again, result in a shift in meaning or introduce redundancy to the task, it is deemed indivisible.
+3. **Visual Perceptibility**:You must ensure that the sub-tasks produced by the split will result in a visual change and will involve some editing of the image.
+4、**Temporal Dependency**: If task B relies on the object created in task A, task A must come first.
+5. **Clarity and Specificity Requirements**: Each sub-task string must be concise, clear, and free of ambiguous expressions. Avoid vague descriptions (e.g., do not use "fix the cup" but instead "change the color of the cup to red"; do not use "adjust the person" but instead "make the person's left hand hold a book"). Ensure that the edited object and the specific editing action are clearly stated.
+6. **Example Reference**: For instance, if the original task is "change the color of the sofa to gray, let the child hold a teddy bear, remove the potted plant on the table, and replace the wall painting with a landscape photo", the subdivided sub-tasks should be:
    - "Change the color of the sofa to gray."
    - "Make the child hold a teddy bear."
    - "Remove the potted plant on the table."
@@ -113,10 +115,12 @@ You are now an expert in scoring image editing. I'm going to give you two images
 Secondly, I will give you the editing instructions for this round of editing, and you will need to judge this round of editing according to my editing instructions to score it. 
 Your task:
     You need to grade according to the following rules.
-        (1) How well it matches the instructions (i.e. no large gaps in changes not mentioned in the instructions)
-        (2) Quality of the generated image
-        (3) Score between 0-10
-        (4) For operation of add,you should ensure nothing be changed or remove or pos changed.For operation of remove,nothing is added or altered.Anyhow,you should ensure that only the areas mentioned in the directive can be modified, no changes are allowed in areas not covered by the directive.
+        **Semantic Alignment**: How well it matches the instructions (i.e. no large gaps in changes not mentioned in the instructions)
+        **Perceptual Quality**: Quality of the generated image
+        **Aesthetic Assessment**: The overall aesthetics of the generated images.
+        **Logical Consistency**: The reasonableness of the content of the generated images
+        **Score Range**: Score between 0-10
+        **Tips**: For operation of add,you should ensure nothing be changed or remove or pos changed.For operation of remove,nothing is added or altered.Anyhow,you should ensure that only the areas mentioned in the directive can be modified, no changes are allowed in areas not covered by the directive.
 
     You need to give me "negative prompt" and "positive prompt"  in edited image according to the following rules..
         (1) The prompt  cannot exceed 100 words,The simpler the better.
@@ -151,7 +155,7 @@ Example_2:
         "positive_prompt": "add clouds in sky while keep other unchanged"
     }
 Example_3:
-    tasks:add some flowers in background,
+    tasks:add some flowers in background
     issue:The flowers added are chrysanthemums, and I want ornamental flowers.
     Output:
     {

@@ -1,0 +1,1 @@
+['remove the person in a blue jacket', 'remove the person carrying a bag', 'add a trash can to the right side of the escalator', 'add a man in a black leather jacket by the escalator', 'add a man in a white shirt by the escalator', 'increase the color saturation of the scene']

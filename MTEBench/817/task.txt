@@ -1,0 +1,1 @@
+['Shift the mountain peaks to be jagged', 'Cluster the evergreen trees on the right', 'Remove the river', 'Reduce the cloudiness', 'Reposition the sunlight to the center', 'Add a lens flare effect', "Adjust the image's lighting"]

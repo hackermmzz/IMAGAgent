@@ -1,0 +1,1 @@
+['Position the larger crocodile to face slightly towards the smaller crocodile', 'Position the smaller crocodile to face more directly towards the larger crocodile', 'Move both crocodiles closer together', 'Adjust camera angle and focus to provide a closer view of the two main crocodiles, excluding the background crocodile']

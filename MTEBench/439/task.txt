@@ -1,0 +1,1 @@
+['move the stone to reveal its sunlit side', 'decrease algae coverage visibility', 'enhance clarity of small shells and water', 'ensure sandy bottom visibility', 'add sunlight reflections', 'adjust lighting to increase scene brightness']

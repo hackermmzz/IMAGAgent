@@ -1,0 +1,1 @@
+['Increase the density of green leaves', 'Increase the vibrancy of green leaves', 'Maintain the density of red leaves (keep some red leaves unchanged)', 'Enhance the brightness of the image', 'Increase the color vibrancy of the image']

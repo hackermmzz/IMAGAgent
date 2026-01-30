@@ -1,0 +1,1 @@
+['Replace village structures with grazing cattle', 'Add a vehicle to the landscape', 'Add large trees in the rural area', 'Expand the vineyard sections']

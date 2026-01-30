@@ -1,0 +1,1 @@
+['Remove the man with a blue backpack', 'Remove the woman with brown hair', 'Remove the child in a red jacket', 'Add a woman carrying a blue shopping bag', 'Add a man in a white shirt and dark shorts', 'Add a woman with a child in a black dress', 'Slightly dim the atmosphere to reflect cloudy weather']

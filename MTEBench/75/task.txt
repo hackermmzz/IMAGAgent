@@ -1,0 +1,1 @@
+['Remove the small animal with red fur and a bushy tail.', 'Add a black lantern-like object on the garden step.', 'Add a bush with red flowers to the background.', 'Add a green-leaf tree to the side.']

@@ -1,0 +1,1 @@
+['Adjust the lighting to be slightly dimmer in the second frame.', 'Lower the raised hand in the first frame.', "Shift some audience members' positions slightly.", 'Move or remove camera equipment for consistent background.']

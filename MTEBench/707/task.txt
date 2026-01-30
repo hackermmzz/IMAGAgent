@@ -1,0 +1,1 @@
+['Change the perspective of the image to emphasize water and boats', 'Add a prominent large ship on the right', 'Add a floating dock', 'Add colorful buoys', 'Decrease the visibility of the shoreline', 'Decrease the visibility of the buildings', 'Make the sky clearer']

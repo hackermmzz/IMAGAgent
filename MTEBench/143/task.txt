@@ -1,0 +1,1 @@
+['Change the perspective of the scene to show a new angle of the post-apocalyptic city.', 'Increase the amount of debris in the street.', 'Enhance the details of the building ruins.', 'Adjust the rock in the foreground to reflect the new perspective.']

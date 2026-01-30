@@ -1,0 +1,1 @@
+["Change the color of the Oriental Pearl Tower's lower sphere to red.", 'Add a flag in the sky.', 'Remove the blue sculpture.', 'Change the background sky to night.', 'Replace the trees with palm trees.']

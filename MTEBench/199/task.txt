@@ -1,0 +1,1 @@
+['Remove the white van', 'Remove the blue tent', 'Add an electronic screen on a pole', 'Add a person wearing a lime green raincoat', 'Add a person holding a red and white umbrella', 'Add a person in a yellow safety vest', 'Change the background to traditional European buildings']

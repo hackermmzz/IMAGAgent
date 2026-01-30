@@ -1,0 +1,1 @@
+['Add a black sleeve to the man', "Make the man's arm more visible", 'Adjust the position of the hand slightly', 'Adjust the position of the scissors slightly']

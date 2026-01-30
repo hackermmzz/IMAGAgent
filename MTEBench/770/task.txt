@@ -1,0 +1,1 @@
+['Shift the perspective to focus on the archway', 'Remove the staircase', 'Remove the sign', 'Remove the person in the light blue shirt', 'Enhance the visibility of the stone carvings', 'Enhance the visibility of the souvenir displays']

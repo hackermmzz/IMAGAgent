@@ -1,0 +1,1 @@
+['Replace the spices behind the steak with a red thin chili pepper.', 'Add a sprig of rosemary next to the steak.', 'Focus the foreground on the added elements.', 'Enhance the texture details of the steak.']

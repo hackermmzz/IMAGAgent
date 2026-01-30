@@ -1,0 +1,1 @@
+['Darken the sky to nighttime.', 'Add clouds to the sky.', 'Increase the brightness of artificial lighting from buildings.', 'Add more lit windows to the buildings across the river.']

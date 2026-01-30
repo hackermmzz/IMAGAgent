@@ -1,0 +1,1 @@
+['Replace the black SUV with a large white truck', 'Replace the black sedan with a white hatchback', 'Add a grey car', 'Add more visible trees', 'Add sidewalks', 'Adjust perspective to include the changes']

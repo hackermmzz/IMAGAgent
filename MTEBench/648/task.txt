@@ -1,0 +1,1 @@
+['Reposition the camera to capture more of the shore and seaside buildings', 'Remove the small boat from the scene', 'Add an array of buildings on the hillside', 'Increase the presence of clouds in the sky']

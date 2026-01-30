@@ -1,0 +1,1 @@
+['Change the color of the glass to red', "Add a flower to the woman's hair", 'Remove the ashtray', "Change the couch's pattern to solid color"]

@@ -1,0 +1,1 @@
+['Increase the density of clouds', 'Increase the coverage of clouds', 'Lower the clouds closer to the ground', 'Obscure the landscape details more prominently']

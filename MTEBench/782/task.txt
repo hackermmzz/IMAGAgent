@@ -1,0 +1,1 @@
+["Expand the view to include more of the tree's structure", 'Expand the view to include more of the surrounding environment', 'Increase the lighting prominence on the leaves', 'Enhance the visibility of background bushes and grass']

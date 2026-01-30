@@ -1,0 +1,1 @@
+['Change the background to an urban square with buildings', 'Move the blue-shirt character slightly to the left', 'Replace the person playing guitar with a character wearing a dark shirt and shorts', 'Move the musical action next to other people', 'Add a group of people sitting on the ledge', 'Add black speakers on the ledge', 'Add a hat on the ground']

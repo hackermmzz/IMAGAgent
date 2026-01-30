@@ -1,0 +1,1 @@
+["The person's backpack is replaced with a red backpack.", "The person's shirt color is changed to white.", 'The background building is replaced with a forest.', 'Add a bicycle on the left side of the path.', 'Move the person 2 meters to the right.', "Change the person's posture to look forward instead of at the phone."]

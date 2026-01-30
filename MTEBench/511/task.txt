@@ -1,0 +1,1 @@
+['Adjust the perspective to increase the area of open fields', 'Adjust the perspective to reduce the area of dense forest', 'Darken the cloud cover', 'Expand the cloud cover']

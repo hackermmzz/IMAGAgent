@@ -1,0 +1,1 @@
+['Add small blue spherical objects to the white liquid surface', 'Make the small blue spherical objects partially submerged in the white liquid', 'Create small splashes around the blue spherical objects', 'Add reflections of the blue spherical objects on the white liquid surface']

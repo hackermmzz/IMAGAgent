@@ -1,0 +1,1 @@
+["Reveal char2's face", 'Make char2 visibly cry', 'Have char2 hold their forehead with their left hand', "Have char1 touch char2's forehead"]

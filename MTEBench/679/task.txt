@@ -1,0 +1,1 @@
+['Add a teenager to the image', 'Make the teenager lying in bed', 'Make the teenager wearing headphones', 'Make the teenager holding a smartphone', 'Add a soccer ball', 'Add decorative items on a shelf', 'Change the plain brown background to a room setup']

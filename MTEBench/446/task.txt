@@ -1,0 +1,1 @@
+['Adjust the position of the person in the center to the left side of the image.', 'Change the clothing of the person in the middle to a blue dress.', 'Add a new character near the top left corner.', 'Modify the posture of the person on the right to stand with arms crossed.', 'Adjust the position of the group of people in the background to the right side.']

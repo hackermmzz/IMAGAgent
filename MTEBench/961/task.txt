@@ -1,0 +1,1 @@
+['Remove the people riding motorbikes with sidecars', 'Remove the parked red van', 'Add a parked motorbike prominently in the foreground', 'Add a group of people walking down the street']

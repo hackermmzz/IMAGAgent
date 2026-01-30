@@ -1,0 +1,1 @@
+['Remove the participant wearing red shorts.', 'Move the participant in red/black shorts to the left side of the image.', 'Alter the position of the participant in black shirt and white shorts to stand near the trees.', 'Remove the participant in blue shorts (leftmost).']

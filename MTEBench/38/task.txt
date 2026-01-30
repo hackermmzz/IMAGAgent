@@ -1,0 +1,1 @@
+['Reduce the snow coverage on the mountains.', 'Reduce the snow coverage on the rocks.', 'Enhance the visibility of greenery and emerging vegetation.', 'Ensure the stream remains constant.']

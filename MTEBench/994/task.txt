@@ -1,0 +1,1 @@
+['Adjust the camera angle to provide a slightly altered aerial view of the city street.', 'Change the orientation of the pink building to match the second frame.', 'Change the position of cars on the main street to match the second frame.', 'Adjust the position of the white building to match the second frame.']

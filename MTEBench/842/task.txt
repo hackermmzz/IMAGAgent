@@ -1,0 +1,1 @@
+['Remove the golden sack.', 'Remove the teddy bear.', 'Remove the toy vehicle.', 'Make the person dressed as Santa seated holding a golden ornament with a baby on their lap.', 'Change the background to a brick wall.', 'Adjust the Christmas tree for a more intimate setting.']

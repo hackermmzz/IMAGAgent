@@ -1,0 +1,1 @@
+['Refine the focus on the woman.', "Make the woman's position more centrally framed.", 'Reduce the clarity of foreground plants.', 'Balance the lighting across the scene to reduce blur.']

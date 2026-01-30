@@ -1,0 +1,1 @@
+['Remove balloons from the scene', 'Remove the bench from the scene', 'Add a child with a light green shirt', 'Adjust the orientation of the child in the blue shirt', 'Add a child with a turquoise shirt near the river', 'Increase contrast of the entire image']

@@ -1,0 +1,1 @@
+['Add a metal ladle into the soup scene.', 'Make the ladle scoop a portion of the soup.', "Add a crab stick to the ladle's contents.", "Add leafy greens to the ladle's contents.", "Add an onion slice to the ladle's contents."]

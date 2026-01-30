@@ -1,0 +1,1 @@
+['Add red bell pepper slices into the colander.', 'Add yellow bell pepper slices into the colander.', 'Add green bell pepper slices into the colander.', 'Introduce a pouring stream of water into the colander.']

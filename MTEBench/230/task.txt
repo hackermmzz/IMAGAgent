@@ -1,0 +1,1 @@
+['Transform the distant cityscape view into a rooftop construction site view', 'Remove the bridge', 'Remove the high-rise buildings', 'Remove the Russian flag', 'Add detailed scaffolding in the foreground', 'Add a flat roof surface in the foreground', 'Add distant city buildings in the background']

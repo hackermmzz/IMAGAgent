@@ -1,0 +1,1 @@
+["Adjust the woman's head direction to face more towards the left.", "Make the woman's hair appear to be blowing more in the wind.", 'Prevent the man from looking back at the camera.', 'Slightly shift the camera angle to the right.', 'Adjust the lighting consistency across the image.']

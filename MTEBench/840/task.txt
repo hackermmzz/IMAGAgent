@@ -1,0 +1,1 @@
+['Add a sun at the horizon', 'Reduce cloud visibility', 'Increase the warmth of the environment', 'Enhance illumination of the landscape', 'Enhance illumination of the rooftops', 'Enhance illumination of the surroundings']

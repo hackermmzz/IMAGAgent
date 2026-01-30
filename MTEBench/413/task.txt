@@ -1,0 +1,1 @@
+['Zoom in on the metal surfaces and components', 'Increase brightness of the image', 'Enhance focus on the metal surfaces', 'Enhance texture details of the metal surfaces', 'Highlight wear signs on the metal surfaces', 'Enhance clarity of Cyrillic text']

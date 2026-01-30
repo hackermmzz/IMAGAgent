@@ -1,0 +1,1 @@
+['Adjust the camera angle upwards to show more stone columns', 'Display more rock carvings in the image', 'Add blue sky in the background', 'Shift focus from ground shadows to the facade height']

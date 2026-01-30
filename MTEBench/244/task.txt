@@ -1,0 +1,1 @@
+['Add multiple cars parked on the left side of the road', 'Add multiple cars parked on the right side of the road', 'Add a person near a car', 'Adjust the perspective to center the view on the road', 'Remove the rock formations and parking sign', 'Replace the background with a wide road scene']

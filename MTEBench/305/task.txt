@@ -1,0 +1,1 @@
+["Change the person's action from slicing to arranging slices of the chicken roll.", 'Place the sliced chicken roll on a plate.', 'Add yellow sauce to the plate with the chicken roll slices.', 'Add cherry tomatoes to the plate with the chicken roll slices.', 'Add cheese to the plate with the chicken roll slices.']

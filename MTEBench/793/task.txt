@@ -1,0 +1,1 @@
+['Replace the man in a white shirt with a man in a pink shirt and black shorts.', 'Replace the woman in a purple top with a woman in a red top and striped skirt.', 'Replace the woman wearing glasses with a floral blouse with a woman in a white top and floral pattern.', 'Replace the man in a black top with two men in dark tops.', 'Remove the child in a pink top.']

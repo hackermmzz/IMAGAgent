@@ -1,0 +1,1 @@
+['Change the camera angle to center the basket view.', 'Adjust the focus to center the basket.', 'Reposition the pears to a different arrangement within the basket.', 'Reposition the apples to a different arrangement within the basket.', 'Alter the perspective to show a slightly altered view of the basket.', 'Alter the depth of field to enhance the centered view.']

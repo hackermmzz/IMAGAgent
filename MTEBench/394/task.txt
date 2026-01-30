@@ -1,0 +1,1 @@
+['Enhance the contrast of the gold texture.', 'Increase the color saturation of the gold texture.', 'Enhance the prominence of the dark areas.', 'Increase the vibrancy of the entire scene.', 'Enhance the luminescence of the entire scene.']

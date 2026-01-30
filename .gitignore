@@ -178,4 +178,5 @@ data/
 trush/
 epoch/
 Compare/
+checked/*
 transformers/

@@ -1,0 +1,1 @@
+['Adjust the wave pattern of the flag to make the red stripe more central.', 'Adjust the wave pattern of the flag to make the yellow stripe more central.', 'Enhance the prominence of the red stripe.', 'Enhance the prominence of the yellow stripe.']

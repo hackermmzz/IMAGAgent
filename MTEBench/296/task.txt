@@ -1,0 +1,1 @@
+["Change the man's pose to face forward.", "Make the man's arms extended while aiming the firearm.", "Adjust the firearm's direction to point forward.", 'Slightly reduce the smoke to clarify the background.']

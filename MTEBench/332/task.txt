@@ -1,0 +1,1 @@
+['Add a visible layer of tomato to the burger.', 'Add a thin slice of meat to the burger.', 'Add another cherry tomato beside the first cherry tomato.', 'Improve the focus and clarity of the scene.', 'Adjust the angle to better display the burger and ingredients.']

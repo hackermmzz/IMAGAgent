@@ -1,0 +1,1 @@
+['Remove multiple foreground leaves', 'Focus on a single large green leaf', 'Change the background to blue sky', 'Make surrounding trees frame the scene']

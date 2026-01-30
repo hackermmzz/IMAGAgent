@@ -1,0 +1,1 @@
+['Change the camera angle to an upward perspective', 'Change her arm position to a running pose', 'Add a street lamp to the left side', 'Add more foliage along the fence']

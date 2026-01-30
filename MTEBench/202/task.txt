@@ -1,0 +1,1 @@
+['Remove the child wearing the red striped sweater.', 'Remove the adult holding colorful toys.', 'Hide the colorful toys from the scene.', 'Focus on the child wearing the floral pattern sweater.']

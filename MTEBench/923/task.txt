@@ -1,0 +1,1 @@
+['Rearrange the red liquid bottle to be more prominent.', 'Reduce or remove one of the syringes.', 'Reposition the bottle filled with clear liquid.', 'Add a blue plastic cup-like object to the surgical setup.']

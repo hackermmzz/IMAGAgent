@@ -1,0 +1,1 @@
+['Replace the upper spires with brickwork.', 'Replace the upper stone facade with brickwork.', 'Add vegetation to the lower area of the church.', 'Change the lower stone facade to brick texture.']

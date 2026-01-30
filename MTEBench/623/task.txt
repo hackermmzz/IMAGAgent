@@ -1,0 +1,1 @@
+['Remove the woman from the scene', "Adjust the man's position to face away from the camera", "Add a bouquet of flowers to the man's hand", 'Adjust the camera angle and lighting to capture him walking along the forest path']

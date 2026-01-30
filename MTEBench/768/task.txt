@@ -1,0 +1,1 @@
+['remove the woman in the green jacket', 'remove the woman with long hair', 'add a person in a gray jacket', 'add a child in a colorful outfit', 'add more Christmas trees', 'alter decorations of additional Christmas trees', 'change the background to an outdoor park setting with buildings']

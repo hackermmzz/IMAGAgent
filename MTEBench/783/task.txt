@@ -1,0 +1,1 @@
+['Remove the man on the bicycle with a cart', 'Remove the person in green cycling', 'Remove the green taxi', 'Remove the tricycle with a cart', 'Remove the person on the small bike', 'Shift camera focus to highlight the road section with white car and red-white traffic barriers', 'Add a red delivery box on a bike leaning into the left side of the frame']

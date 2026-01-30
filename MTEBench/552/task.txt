@@ -1,0 +1,1 @@
+['Remove one meatball', 'Remove one onion strip', 'Reposition the rosemary sprigs slightly', 'Adjust the focus for clarity']

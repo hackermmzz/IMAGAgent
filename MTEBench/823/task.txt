@@ -1,0 +1,1 @@
+['Adjust the position of the motorcyclist to depict a dynamic drift.', "Activate the bike's headlight.", 'Tilt the motorcycle to the side to initiate the drift.', "Add a dust trail in the environment to enhance the bike's movement interaction."]

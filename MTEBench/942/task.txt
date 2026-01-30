@@ -1,0 +1,1 @@
+["Adjust the perspective of the drone shot to emphasize the cottage's wooden walls.", 'Adjust the perspective to highlight the completely collapsed roof of the cottage.', 'Increase the visibility of rock and log elements in the foreground.', 'Decrease the visibility of surrounding cut branches.']

@@ -1,0 +1,1 @@
+['Change the focus area from the dancing feet to the upper bodies of two girls.', 'Alter the viewpoint to show the upper bodies of the two girls.', 'Change the dress of one girl to a white dress.', 'Change the dress of the other girl to a red dress with white polka dots.', 'Adjust the lighting to a warm-lit restaurant environment.', 'Ensure the girls maintain a dancing posture.']

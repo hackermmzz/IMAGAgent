@@ -1,0 +1,1 @@
+['Remove the person with the tattooed arm.', 'Replace the removed person with a man wearing a grey shirt holding red tongs.', 'Add a sesame seed bun on the grill.', 'Add a white bun on the grill.', 'Adjust the camera angle to slightly off-center to showcase more of the grilling surface.']

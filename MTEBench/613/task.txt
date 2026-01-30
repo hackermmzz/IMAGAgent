@@ -1,0 +1,1 @@
+['Remove the window from view', 'Expand the scene to show more of the log wall', 'Show the corner of the house with an overhanging roof', 'Add a rusty metallic object hanging']

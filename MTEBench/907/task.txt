@@ -1,0 +1,1 @@
+['Replace the lemon with an orange in the fruit arrangement.', 'Move the orange slice further back in the arrangement.', 'Adjust the grapes to be more centered in the arrangement.', 'Increase the visibility of the banana in the image.', 'Shift the camera angle slightly to the left for a new perspective.']

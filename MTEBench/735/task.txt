@@ -1,0 +1,1 @@
+['Zoom out the camera to reveal the entire churchyard scene', 'Add the stone cross to the scene', 'Add gravestones to the scene', 'Add the surrounding rural landscape to the scene', 'Add a clear sky to the scene']

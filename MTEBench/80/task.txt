@@ -1,0 +1,1 @@
+['Bring the two characters closer together.', 'Neaten the hair of the first character.', 'Neaten the hair of the second character.', 'Adjust the lighting to a warmer tone in the second frame.']

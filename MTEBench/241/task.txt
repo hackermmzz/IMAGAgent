@@ -1,0 +1,1 @@
+['Move the boat slightly to the right', 'Move the left person slightly to the right', 'Move the right person slightly to the right', 'Adjust the position of the trees slightly to the right', 'Adjust the position of the water slightly to the right']

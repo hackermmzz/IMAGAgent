@@ -1,0 +1,1 @@
+['Change the perspective to a wider angle view.', 'Show the legs of two women wearing black shorts.', "Add a green band to one of the women's black shorts.", 'Maintain focus on the wooden floor.']

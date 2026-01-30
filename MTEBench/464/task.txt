@@ -1,0 +1,1 @@
+['Reveal the upper body of the statue', "Add a snake near the statue's upper body", 'Adjust the perspective to transition from lower to upper view', 'Remove the lamp posts from the image']

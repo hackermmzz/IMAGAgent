@@ -1,0 +1,1 @@
+['Add a person wearing a pink hat and face mask sitting on the bus', 'Add a person wearing a camouflage jacket sitting on the bus', 'Add telephone poles along the road', 'Add more greenery along the road']

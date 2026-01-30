@@ -1,0 +1,1 @@
+['Remove the red motorbike.', 'Remove the black car.', 'Add a person on a black bicycle carrying a metal rack.', 'Replace the white taxi with a small sedan.', 'Increase the number of motorbikes to create a more dispersed traffic flow.']

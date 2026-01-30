@@ -1,0 +1,1 @@
+["Adjust the man's orientation to be more forward.", "Change the man's action from using a fork to eating with hands.", 'Organize the food items on the table.', 'Make the food appear partially consumed.']

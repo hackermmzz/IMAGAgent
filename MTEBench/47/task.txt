@@ -1,0 +1,1 @@
+['remove the rock archway', 'adjust the view to show more left-side coastline and reveal additional rock formations', 'downscale the house in the background', 'reposition the house in the background', 'add a small sandy area on the left', 'change the angle to display the sandy area']

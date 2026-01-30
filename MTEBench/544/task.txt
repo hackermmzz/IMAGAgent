@@ -1,0 +1,1 @@
+['Move the woman closer to the girl.', 'Add a man wearing a light blue t-shirt and jeans on the right.', "Adjust the camels' necks to be slightly higher.", 'Increase the number of people in the background with more movement.']

@@ -1,0 +1,1 @@
+['Move the camera closer to the man.', 'Move the camera angle to the side of the man.', 'Highlight the landscape more prominently.', 'Highlight the clouds more prominently.']

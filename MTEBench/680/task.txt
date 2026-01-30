@@ -1,0 +1,1 @@
+['Expand the image to show a wider waterfall scene with more rocks and water streams.', 'Add snow on some rocks in the scene.', 'Add multiple water streams to the waterfall.', 'Adjust the perspective of the image to reflect a wider waterfall area.']

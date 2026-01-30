@@ -1,0 +1,1 @@
+['Sharpen the image.', 'Change the brightness of the image.', 'Add a light effect in the center of the image.', 'Remove the blurred background elements.', 'Change the color of the central circular element to black.']

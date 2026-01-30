@@ -1,0 +1,1 @@
+['Rotate the view to the side profile of the person', 'Add glasses to the person', 'Add gloves to the person', 'Add a caliper in the hands examining the vehicle part', 'Enhance lighting to focus on examination activities', 'Add a lit light source', 'Make surrounding tools on the shelf more defined']

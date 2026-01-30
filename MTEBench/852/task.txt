@@ -1,0 +1,1 @@
+["Change the dog's position from sniffing to standing upright and facing right.", 'Add residential buildings with detailed trees to the background.', 'Create footprints on the snowy ground.', 'Adjust the scene depth to capture more background.']

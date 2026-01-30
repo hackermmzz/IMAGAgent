@@ -1,0 +1,1 @@
+['Shift focus to the blue flowers in the foreground.', 'Increase the vividness of the blue flowers.', 'Enhance the prominence of the blue flowers.', 'Enlarge the yellow daisies in the background.', 'Clarify the yellow daisies in the background.']

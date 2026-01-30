@@ -1,0 +1,1 @@
+['Reposition the man closer to the girl', 'Reposition the girl closer to the man', "Adjust the girl's head position to face more forward", "Adjust the man's head position to slightly turn"]

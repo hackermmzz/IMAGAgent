@@ -1,0 +1,1 @@
+["Adjust the woman's head orientation to be slightly more towards the sky.", "Bring the girl's face closer to the woman.", 'Slightly even out the lighting.', 'Alter the depth of field for better focus on both characters.']

@@ -1,0 +1,1 @@
+['Add a dark blue and green globe to the center of the scene.', 'Add a black open laptop in front of the globe.', 'Add a black tablet with a blank screen to the left of the laptop.', 'Add a black tablet with a blank screen to the right of the laptop.']

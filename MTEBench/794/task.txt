@@ -1,0 +1,1 @@
+['Rearrange the pieces of chocolate closer to the cup and remove one piece.', 'Move the pine cone near the lace mat on the left side of the image.', 'Extend the lace mat to cover more area of the saucer.', 'Add two textile decorative hearts at the bottom left corner of the image.', 'Add a knife at the top behind the cup.', 'Remove the spoon from the image.']

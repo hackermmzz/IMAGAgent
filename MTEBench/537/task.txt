@@ -1,0 +1,1 @@
+['Delete the lone dolphin on the left.', 'Delete the distant group of dolphins on the right.', 'Add three dolphins to the central group to increase their number to six.', 'Adjust the positions of the dolphins in the central group to make them tighter.']

@@ -1,0 +1,1 @@
+['Remove the mini pizza with sauce from the black plate.', 'Remove the mini pizza with olives from the black plate.', 'Remove the glass of orange juice.', 'Position the hand to hold the glass of dark beverage.']

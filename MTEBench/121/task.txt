@@ -1,0 +1,1 @@
+['Replace the woman in the red coat with a man in a suit on the left.', 'Remove the man taking a photo on the right.', 'Add two men walking together in the center.', 'Adjust perspective to bring the basilica closer.']

@@ -1,0 +1,1 @@
+["Add a person's hands interacting with a cantaloupe in the pile", "Add a watch to one of the person's hands", 'Move some cantaloupes aside in the pile', 'Add shelves and signs in the background']

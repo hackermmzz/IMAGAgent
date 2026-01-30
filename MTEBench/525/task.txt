@@ -1,0 +1,1 @@
+['Shift the perspective to show an adult in a dark green dress from the back', 'Remove the grey pillow', 'Remove the red toy horse', 'Remove the wooden table', 'Add a red round stool', 'Add a wicker basket']

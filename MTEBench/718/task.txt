@@ -1,0 +1,1 @@
+['Adjust the position of the child in the red shirt.', 'Adjust the arm gestures of the child in the grey hoodie.', 'Add a man in a grey t-shirt interacting with children.', 'Rearrange the items in the background slightly and group them.']

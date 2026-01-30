@@ -1,0 +1,1 @@
+['Change the image perspective to a wide-angle view to showcase the entire train aisle', 'Add multiple rows of red train seats along the aisle', 'Add multiple rows of blue train seats along the aisle', 'Add metallic handrails between the rows of seats', 'Add overhead luggage racks above the seats']

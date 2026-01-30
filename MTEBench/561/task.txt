@@ -1,0 +1,1 @@
+['Remove the fish roe container.', 'Remove the cucumber slices.', 'Remove the metallic spoon.', 'Remove any butter or cream from the frame.', 'Add a dab of green paste on top of the salmon slices.', 'Add a red item next to the salmon slices.']

@@ -1,0 +1,1 @@
+['Position the white plate fully within the frame.', 'Add a serving of salad made of green vegetables and peas.', 'Garnish around the salad with leafy greens.', 'Lay chives across the top of the salad.']

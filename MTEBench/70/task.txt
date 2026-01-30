@@ -1,0 +1,1 @@
+['Change the perspective of the scene to shift focus towards the right side of the street.', 'Reduce the number of people on the left sidewalk.', 'Add a motorbike with a driver close to the camera.', 'Replace the white van with a blue van further down the street.', 'Increase the number of parked motorbikes on the right.']

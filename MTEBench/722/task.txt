@@ -1,0 +1,1 @@
+['Change the color of the hot stones to silver.', 'Add a flower on the towel.', 'Replace the background with a spa environment.', "Remove the towel's wrinkles.", 'Adjust the brightness of the stones.']
