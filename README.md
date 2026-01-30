@@ -17,6 +17,7 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 ## Demo Results
 ### Multi-Turn Editing Comparison (MagicBrush)
 ![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent.git/master/case/MagicBrushCompare.jpg)
+
 ### Multi-Turn Editing Comparison (MTEditBench)
 | Editing Turns | Instruction Description | Baselines (GPT-4o/VINCIE/OmniGen) | IMAGAgent |
 |---------------|-------------------------|-----------------------------------|-----------|
