@@ -1,1 +1,0 @@
-[['rotate existing pencils to vertical orientation', 'move'], ['add visible seam to each pencil', 'modify'], ['add a yellow pencil', 'add'], ['add a blue pencil', 'add'], ['adjust lighting for stronger reflections', 'attribute_change'], ['add two more pencils', 'add']]

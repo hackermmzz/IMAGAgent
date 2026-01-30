@@ -1,1 +1,0 @@
-[['Change the scene from daytime to early evening light', 'global_style_transfer'], ['Reposition the characters in the center and foreground', 'move'], ['Add new characters in the center and foreground', 'add'], ['Slightly reposition the decorative figure', 'move'], ['Increase the crowd density', 'add'], ['Enhance the brightness of the neon signs', 'attribute_change']]

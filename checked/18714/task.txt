@@ -1,1 +1,0 @@
-[['Add a river in front of the landmark', 'add'], ['Add a bridge crossing the river', 'add'], ['Add river banks along the river', 'add'], ['Add boats on the river', 'add'], ['Add vehicles on the bridge', 'add'], ['Modify the scene to increase depth and detail', 'modify']]

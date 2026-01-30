@@ -1,1 +1,0 @@
-[['remove the roller skater', 'remove'], ['remove the BMX biker', 'remove'], ['remove the audience', 'remove'], ['add individuals standing at the top of the ramp', 'add'], ['remove the fence', 'remove'], ['adjust lighting to create a quieter atmosphere', 'attribute_change']]

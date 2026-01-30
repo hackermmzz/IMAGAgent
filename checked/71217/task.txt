@@ -1,1 +1,0 @@
-[["reveal the soldier's face", 'modify'], ["add a digital watch to the soldier's wrist", 'add'], ['add an assault rifle next to the soldier', 'add'], ['add a walkie-talkie near the soldier', 'add'], ['adjust the lighting to enhance visibility', 'attribute_change'], ['modify the camera angle for clarity', 'perspective_shift']]

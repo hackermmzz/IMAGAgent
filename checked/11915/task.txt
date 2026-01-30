@@ -1,1 +1,0 @@
-[['Change the background to an outdoor-like setting with leafy background', 'background_change'], ['Remove the extra pitcher', 'remove'], ['Change the glass clarity to clearer', 'attribute_change'], ['Adjust ambient lighting to vibrant', 'attribute_change'], ['Remove extra fruits from the bottle', 'remove'], ['Remove table clutter from the table', 'remove']]

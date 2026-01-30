@@ -1,1 +1,0 @@
-[["Change the woman's walking direction from left to right", 'move'], ['Remove the pot of flowers', 'remove'], ['Remove the radiator', 'remove'], ['Remove the curtain', 'remove'], ['Add a red sofa to the background', 'add'], ['Add an upholstered chair to the background', 'add']]

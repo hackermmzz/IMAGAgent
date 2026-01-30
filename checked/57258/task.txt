@@ -1,1 +1,0 @@
-[['move the boy to the left', 'move'], ['make the boy run', 'modify'], ['move the girl to the left', 'move'], ['make the girl run', 'modify'], ['remove the drums', 'remove'], ['remove the potted trees', 'remove'], ['expand the open space visibility', 'modify']]

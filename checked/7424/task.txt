@@ -1,1 +1,0 @@
-[["Change the man's shirt to red", 'attribute_change'], ["Change the man's pants to black", 'attribute_change'], ["Add a white cap on the man's head", 'add'], ["Adjust the man's standing posture to an upright walking stance", 'modify'], ['Reposition the ball slightly forward', 'move'], ['Transform the background from a golf course into a lush vineyard', 'background_change']]

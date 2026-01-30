@@ -1,1 +1,0 @@
-[['add a whole orange', 'add'], ['add a whole lime', 'add'], ['move the orange slices to a new arrangement', 'move'], ['move the lemon slices to a new arrangement', 'move'], ['move the lime slice to a new arrangement', 'move'], ['move the mint leaves to a new arrangement', 'move']]

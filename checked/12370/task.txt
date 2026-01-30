@@ -1,1 +1,0 @@
-[['Change the perspective of the image to a closer view of specific individuals', 'perspective_shift'], ['Make the image more blurred', 'attribute_change'], ['Remove the child in the green shirt', 'remove'], ['Remove the child in the red shirt', 'remove'], ['Add a new child in the left position', 'add'], ['Add a new child in the right position', 'add']]

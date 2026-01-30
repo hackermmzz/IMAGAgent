@@ -1,1 +1,0 @@
-[['remove the person in a blue jacket', 'remove'], ['remove the person carrying a bag', 'remove'], ['add a trash can to the right side of the escalator', 'add'], ['add a man in a black leather jacket by the escalator', 'add'], ['add a man in a white shirt by the escalator', 'add'], ['increase the color saturation of the scene', 'attribute_change']]

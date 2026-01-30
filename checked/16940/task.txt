@@ -1,1 +1,0 @@
-[['remove the man', 'remove'], ['remove the stack of logs', 'remove'], ['remove the metal pipe', 'remove'], ['remove the hanging lamp', 'remove'], ['modify the tent wall to show seams and grommets', 'modify'], ['modify the metal framework at top right corner', 'modify']]

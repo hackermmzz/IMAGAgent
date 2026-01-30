@@ -1,1 +1,0 @@
-[['Add more yellow taxis near the center of the street.', 'add'], ['Remove some blue buses to reduce their number.', 'remove'], ['Add red vehicles to the street.', 'add'], ['Add a white bus to the left lane.', 'add'], ['Increase the number of trees on the left side of the street.', 'add'], ['Modify pedestrian clustering in upper quadrant sidewalks to be denser.', 'modify']]

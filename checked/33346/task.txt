@@ -1,1 +1,0 @@
-[['Lighten the ink colors', 'attribute_change'], ['Disperse the ink colors', 'modify'], ['Lighten the background', 'attribute_change'], ['Increase the brightness of the image', 'attribute_change'], ['Decrease the color saturation of the image', 'attribute_change'], ['Make the image have a softer and airier style', 'global_style_transfer']]

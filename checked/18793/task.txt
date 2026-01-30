@@ -1,1 +1,0 @@
-[['remove the cows from the scene', 'remove'], ['add potted plants along the riverbank', 'add'], ['remove some people', 'remove'], ['remove some boats', 'remove'], ['remove the temple building', 'remove'], ['perspective_shift : Change the perspective to a more zoomed-out view focusing on the river', 'perspective_shift']]

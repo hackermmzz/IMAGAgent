@@ -1,1 +1,0 @@
-[['Add people in the city square near the building', 'add'], ['Add cars on the streets near the building', 'add'], ['Add signage in the city square', 'add'], ['Add street lights along the streets near the building', 'add'], ['Adjust perspective to a lower and wider angle', 'perspective_shift'], ['Change the background to a broader city square view', 'background_change']]

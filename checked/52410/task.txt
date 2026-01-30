@@ -1,1 +1,0 @@
-[['Move the man to face the table', 'move'], ['Remove the backpack from the man', 'remove'], ['Add sunglasses to the man', 'add'], ["Add a cream-colored scarf over the man's shoulders", 'add'], ['Move the woman nearer to the table facing the man', 'move'], ['Add a wine glass on the table', 'add']]

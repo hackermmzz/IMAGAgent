@@ -1,1 +1,0 @@
-[['Remove the mother and child', 'remove'], ['Remove the animals', 'remove'], ['Remove the earthly figures', 'remove'], ['Add celestial angels', 'add'], ['Add a central star', 'add'], ['Change the background to golden', 'background_change']]

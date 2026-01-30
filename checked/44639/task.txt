@@ -1,1 +1,0 @@
-[['Remove some colorful serpentine ribbons', 'remove'], ['Move colorful serpentine ribbons to increase spacing between them', 'move'], ['Remove yellow serpentine ribbons', 'remove'], ['Remove pink serpentine ribbons', 'remove'], ['Enhance visibility of individual ribbons', 'attribute_change'], ["Modify ribbons' movement to appear more dynamic", 'modify']]

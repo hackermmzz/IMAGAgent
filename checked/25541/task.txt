@@ -1,1 +1,0 @@
-[['Remove balloons from the scene', 'remove'], ['Remove the bench from the scene', 'remove'], ['Add a child with a light green shirt', 'add'], ['Adjust the orientation of the child in the blue shirt', 'modify'], ['Add a child with a turquoise shirt near the river', 'add'], ['Increase contrast of the entire image', 'attribute_change']]

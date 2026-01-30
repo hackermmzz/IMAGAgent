@@ -1,1 +1,0 @@
-[['Zoom in on mozzarella cheese', 'perspective_shift'], ['Show partial tomato near mozzarella', 'attribute_change'], ['Show partial olive near mozzarella', 'attribute_change'], ['Show partial bread near mozzarella', 'attribute_change'], ['Remove cucumber slices', 'remove'], ['Remove green herbs', 'remove']]

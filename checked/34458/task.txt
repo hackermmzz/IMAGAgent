@@ -1,1 +1,0 @@
-[['Increase the size of the central leaf', 'attribute_change'], ['Move the central leaf to the right', 'move'], ['Add a leaf with varying size and position', 'add'], ['Add a leaf with varying size and position', 'add'], ['Blur a leaf for depth', 'modify'], ['Blur a leaf for motion', 'modify']]

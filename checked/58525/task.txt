@@ -1,1 +1,0 @@
-[['Reorient meat pieces to emphasize texture', 'move'], ['Enhance brightness of the greens', 'attribute_change'], ['Enhance curliness of the greens', 'modify'], ['Intensify red of tomatoes', 'attribute_change'], ['Adjust lighting of the salad to suggest movement', 'attribute_change'], ['Adjust spatial layout of the salad to suggest movement', 'move']]

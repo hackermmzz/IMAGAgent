@@ -1,1 +1,0 @@
-[['Remove the cars from the street', 'remove'], ['Change the perspective to eliminate shadows', 'perspective_shift'], ['Add a lamp post near the sidewalk', 'add'], ['Add a garden area near the sidewalk', 'add'], ['Modify the layout of the buildings to create a clearer view', 'modify'], ['Change the background to reveal a clear view of the sea', 'background_change']]

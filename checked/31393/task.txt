@@ -1,1 +1,0 @@
-[['move the sun higher in the sky', 'move'], ["lighten the sun's color", 'attribute_change'], ['adjust the lighting to be less warm', 'attribute_change'], ['lighten the terrain textures', 'attribute_change'], ['make the water more visible with less reflection', 'attribute_change'], ['improve overall scene clarity', 'attribute_change']]

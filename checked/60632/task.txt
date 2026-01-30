@@ -1,1 +1,0 @@
-[['remove the knitted sweater ornament', 'remove'], ['remove the glossy ball ornament', 'remove'], ['remove the red wooden heart ornament', 'remove'], ['add a woven heart ornament', 'add'], ['add a Santa Claus figure ornament', 'add'], ['add a snowflake ornament', 'add'], ['adjust the background to be softer with warmer lighting', 'background_change']]

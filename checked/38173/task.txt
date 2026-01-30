@@ -1,1 +1,0 @@
-[['Add people walking and running on the promenade', 'add'], ['Add a bridge structure over the river', 'add'], ['Add detailed promenade railing along the river', 'add'], ['Add greenery (trees, plants) along the promenade and buildings', 'add'], ['Increase the image brightness', 'attribute_change'], ['Modify the environment to an active riverside promenade scene', 'modify']]

@@ -1,1 +1,0 @@
-[['brighten the scene', 'attribute_change'], ['add folded napkins', 'add'], ['add wine glasses', 'add'], ['add additional table elements', 'add'], ['add chairs', 'add'], ['add decorative background features', 'add']]

@@ -1,1 +1,0 @@
-[['Replace the man’s hard hat with a cap', 'replace'], ['Move the person in red jacket further right', 'move'], ['Change the red jacket to black', 'attribute_change'], ['Add more stone slabs', 'add'], ['Move the wheelbarrow slightly to the left', 'move'], ['Adjust the position of the level tool', 'move']]

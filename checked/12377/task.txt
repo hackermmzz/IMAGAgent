@@ -1,1 +1,0 @@
-[['remove the man in the gray jacket', 'remove'], ['remove the child in the blue jacket', 'remove'], ['remove the child in the red jacket', 'remove'], ['reduce the size of the soap bubbles', 'attribute_change'], ['enhance the visibility of the stone walls', 'attribute_change'], ['enhance the visibility of the trees', 'attribute_change']]

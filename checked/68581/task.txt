@@ -1,1 +1,0 @@
-[['Change the perspective of the image to a wider angle', 'perspective_shift'], ["Modify the young female's posture to lie on the grass", 'modify'], ['Add a person wearing a hat in the background', 'add'], ['Change the background to reveal more cityscape', 'background_change']]

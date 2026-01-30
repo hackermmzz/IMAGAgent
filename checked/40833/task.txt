@@ -1,1 +1,0 @@
-[['Zoom in on the white fish nigiri', 'perspective_shift'], ['Enhance the detail and texture of the sushi', 'attribute_change'], ['Focus less on the whole platter', 'perspective_shift'], ['Focus more on one piece of sushi', 'perspective_shift'], ['Move the bamboo mat closer', 'move'], ['Move the chopsticks closer', 'move']]

@@ -1,1 +1,0 @@
-[['Remove all clothes from the wooden surface', 'remove'], ['Remove the camera from the wooden surface', 'remove'], ['Remove the wallet from the wooden surface', 'remove'], ['Remove the documents from the wooden surface', 'remove'], ['Add a map inside the suitcase', 'add'], ['Add travel documents inside the suitcase', 'add']]

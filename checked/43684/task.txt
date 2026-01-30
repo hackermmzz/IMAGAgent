@@ -1,1 +1,0 @@
-[["Change char1's hat color to green", 'attribute_change'], ["Change char1's scarf style to be over shoulders", 'modify'], ["Position char1's hands to lower hold on cup", 'modify'], ["Change char2's hand action to sipping from a cup", 'modify'], ['Increase visibility of market area in background', 'attribute_change'], ['Adjust character positions slightly', 'move']]

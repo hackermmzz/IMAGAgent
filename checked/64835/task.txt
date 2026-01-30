@@ -1,1 +1,0 @@
-[["Move the woman's position closer to the left", 'move'], ['Remove the apron from the woman', 'remove'], ["Make the man's head oriented to the left", 'move'], ["Make the man's head closer to the camera", 'move'], ['Remove the visible scissors', 'remove'], ['Add a green plant to the left side of the frame', 'add']]

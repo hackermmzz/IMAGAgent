@@ -1,1 +1,0 @@
-[['move the runner further left', 'move'], ['move the couple forward', 'move'], ['move the jogger in the white top closer to the couple', 'move'], ['move the person in pink closer to the viewer', 'move'], ['enhance the density of grass and bushes', 'attribute_change'], ['expand the view of the lake', 'background_change']]

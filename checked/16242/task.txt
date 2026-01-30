@@ -1,1 +1,0 @@
-[['Remove two yellow mushrooms', 'remove'], ['Reposition three yellow mushrooms to new positions', 'move'], ['Add a large pine cone in the foreground', 'add'], ['Add a green plant in the foreground', 'add'], ['Increase the visible greenery in the forest environment', 'attribute_change'], ['Increase the vibrancy of the forest environment', 'attribute_change']]

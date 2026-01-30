@@ -1,1 +1,0 @@
-[['move the skiing boy closer', 'move'], ["change the skiing boy's jacket to red", 'attribute_change'], ['make the skiing boy actively ski', 'modify'], ['add a skier in dark clothing behind the skiing boy', 'add'], ['enhance visibility of ski tracks', 'modify'], ['enhance visibility of other skiers', 'modify']]

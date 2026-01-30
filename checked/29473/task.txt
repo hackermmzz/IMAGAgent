@@ -1,1 +1,0 @@
-[['remove the shadow on the left cliff', 'remove'], ['extend the flat desert surface', 'modify'], ['increase the overall brightness', 'attribute_change'], ['reduce shadows', 'attribute_change'], ['enhance clarity of distant mountains', 'attribute_change'], ['add a bright sky', 'add']]

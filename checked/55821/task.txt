@@ -1,1 +1,0 @@
-[['Change the perspective to show a broader view of the sushi platter', 'perspective_shift'], ['Add more sushi rolls', 'add'], ['Add a second soy sauce dispenser', 'add'], ['Add more wasabi pieces', 'add'], ['Enhance the lighting of the scene', 'attribute_change'], ['Change the angle of the image to a slightly different position', 'perspective_shift']]

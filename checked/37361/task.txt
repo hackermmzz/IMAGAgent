@@ -1,1 +1,0 @@
-[['Replace the man in the white shirt with a man in a dark blue shirt.', 'replace'], ['Add an open laptop on the table.', 'add'], ['Add a small green potted plant on the table.', 'add'], ['Remove the closed folder from the table.', 'remove'], ['Remove the papers from the table.', 'remove'], ['Adjust the seating position of the woman in blue.', 'move']]

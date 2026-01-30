@@ -1,1 +1,0 @@
-[['modify : change the action of the pigeon in the center from pecking to walking'], ['move : move the pigeon in the center to the right'], ['move : move one pigeon further away from the viewer'], ['remove : remove two pigeons'], ['add : add a shoe on the left edge of the image'], ['perspective_shift : change the perspective to show a wider view of the scene']]

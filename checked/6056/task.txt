@@ -1,1 +1,0 @@
-[["Move the platter with the roasted chicken from the woman's hands to the table", 'move'], ['Add a plate of pasta on the table', 'add'], ['Add a loaf of bread on the table', 'add'], ['Add a bottle of beverage on the table', 'add'], ['Add a child sitting at the table', 'add'], ['Focus the scene on the entire table setting', 'perspective_shift']]

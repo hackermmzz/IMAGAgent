@@ -1,1 +1,0 @@
-[['Move the basket of toys to the left', 'move'], ['Bring the red toy teapot closer to the porridge bowl', 'move'], ['Remove the apple-like object from the table', 'remove'], ['Remove the stone from the table', 'remove'], ['Brighten the overall lighting', 'attribute_change'], ['Adjust the camera view to show more of the child from the front', 'perspective_shift']]

@@ -1,1 +1,0 @@
-[['Remove the grass and flowers from the foreground', 'remove'], ['Reposition the sun to the top center', 'move'], ['Increase the glare of the sun', 'attribute_change'], ['Add stronger lens flares', 'add'], ['Increase the visibility of the lake', 'attribute_change'], ['Increase the visibility of the building in the background', 'attribute_change']]

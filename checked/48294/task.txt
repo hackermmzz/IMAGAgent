@@ -1,1 +1,0 @@
-[['Replace the bagel with a plate of onion rings', 'replace'], ['Replace the burger with a basket of fries', 'replace'], ['Replace the creamy sauce with a bowl of ketchup', 'replace'], ['Remove scattered cherry tomatoes and fries', 'remove'], ['Add a red and white napkin in the background', 'add'], ['Add salt to the table', 'add']]

@@ -1,1 +1,0 @@
-[['remove the isolated performer', 'remove'], ['add vibrant participants holding flags', 'add'], ['add additional decorations', 'add'], ['increase crowd interaction', 'modify'], ['make participants wave flags', 'modify'], ['increase crowd size', 'add']]

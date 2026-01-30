@@ -1,1 +1,0 @@
-[['adjust the lighting to transition from sunset to dusk', 'modify'], ['remove the bright sunlight glare from the left side', 'remove'], ['add clouds to the sky', 'add'], ["change the sky's color to twilight hue", 'attribute_change'], ['increase the number of sailboats in the river', 'add'], ['give the scene a cooler nighttime appearance', 'modify']]

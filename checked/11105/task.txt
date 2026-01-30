@@ -1,1 +1,0 @@
-[['remove the tablet', 'remove'], ['add eyeglasses to the woman', 'add'], ['add earrings to the woman', 'add'], ['move the woman slightly to the right', 'move'], ['perspective_shift to crop closer to her upper body', 'perspective_shift'], ['enhance the lighting', 'attribute_change']]
