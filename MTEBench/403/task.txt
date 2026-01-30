@@ -1,1 +1,0 @@
-['Darken the sky to reflect a night atmosphere.', 'Increase the lighting in the windows of the buildings.', 'Enhance the artificial lighting along the street and in the cafe area.', 'Accentuate the reflections of lights in the canal water.']

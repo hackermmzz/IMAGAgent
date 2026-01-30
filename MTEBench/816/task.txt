@@ -1,1 +1,0 @@
-['Shift camera angle to a closer view of the restaurant interior.', 'Adjust lighting to create a cozier feel.', 'Remove the character wearing a white shirt.', 'Replace the removed character with visible furniture inside the restaurant.']

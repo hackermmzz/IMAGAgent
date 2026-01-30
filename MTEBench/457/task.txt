@@ -1,1 +1,0 @@
-['Add a male figure to the green screen background.', "Change the male's cap to blue.", "Change the male's shirt to blue plaid.", "Add a red toolbox to the male's right hand.", "Add a wrench to the male's left hand."]

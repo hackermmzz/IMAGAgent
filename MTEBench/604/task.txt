@@ -1,1 +1,0 @@
-['Change the hand position from holding a food container to adjusting the pot lid.', 'Add two logs of wood onto the kitchen surface.', 'Partially close the pot lid.', 'Move the ladle onto the kitchen surface.', 'Position the porridge closer to the frame edge.']

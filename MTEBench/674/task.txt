@@ -1,1 +1,0 @@
-['Move the motorcyclist from the center to the left corner.', 'Remove the person in the purple shirt.', 'Remove the person in the striped shirt.', 'Enhance the brightness of the market street.', 'Adjust the frame composition to include more of the right background.']

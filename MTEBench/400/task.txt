@@ -1,1 +1,0 @@
-['Zoom out to capture a broader view of the aquarium.', 'Add a second fish behind the first fish.', "Modify the first fish's position and orientation to face more frontally.", 'Ensure dynamic water particles are visible in the scene.']

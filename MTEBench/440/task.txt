@@ -1,1 +1,0 @@
-['Change the color of the sand to yellow.', 'Add a palm tree to the beach.', 'Remove the clouds in the sky.', 'Replace the ocean with a turquoise lake.']

@@ -1,1 +1,0 @@
-['Adjust the hue of the mussels to create a more uniform color appearance.', 'Adjust the saturation of the mussels to make them more muted.', 'Reduce the contrast of the mussels.', 'Soften the lighting of the mussels in the second frame.']

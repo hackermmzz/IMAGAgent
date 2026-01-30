@@ -1,1 +1,0 @@
-["Change the peacock's tail feathers to be fully fanned out.", 'Replace the wooden log with a stone pedestal.', 'Add a second peacock standing beside the first one.', 'Remove the large green leaf on the right side of the image.', 'Change the background vegetation density to appear more sparse.', "Adjust the peacock's head to face directly toward the camera."]

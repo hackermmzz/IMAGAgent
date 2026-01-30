@@ -1,1 +1,0 @@
-['Reposition the upper helicopter to the left and front in the frame.', 'Reposition the lower helicopter to the left and front in the frame.', 'Adjust the facing direction of the upper helicopter.', 'Adjust the facing direction of the lower helicopter.', 'Enhance the cloud coverage in the sky.', 'Adjust the overall lighting to create an overcast atmosphere.']

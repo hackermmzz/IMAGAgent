@@ -1,1 +1,0 @@
-['Alter the blade orientation of the first wind turbine.', 'Alter the blade orientation of the second wind turbine.', 'Increase cloud texture in the blue sky.', 'Enhance the motion effect of the turbine blades.']

@@ -1,1 +1,0 @@
-["Increase the scene's brightness.", 'Add a stronger backlight behind the person.', 'Emphasize sunlight by increasing highlights in the upper left area.', "Enhance the scene's overall luminosity."]

@@ -1,1 +1,0 @@
-['Remove the airplane from the image.', 'Reposition the sun to the center of the frame.', 'Add subtly visible barbed wire at the bottom edge of the frame.', 'Increase the brightness of the sky to make it brighter.']

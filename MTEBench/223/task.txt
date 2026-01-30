@@ -1,1 +1,0 @@
-["Adjust the character's position to be bending over facing the camera.", 'Add long white socks with red stripes to the character.', 'Change the perspective to point upward from the bottom of the stairs.', 'Enhance lighting to depict clear, sunny weather.']

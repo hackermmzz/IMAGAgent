@@ -1,1 +1,0 @@
-['Add a family member to the left side of the frame', 'Add a family member to the right side of the frame', 'Change the background to a wicker sofa', 'Remove the laptop from the scene', 'Remove the credit card from the scene']

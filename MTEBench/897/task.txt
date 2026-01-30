@@ -1,1 +1,0 @@
-['Reduce the lens flare effect.', 'Reduce the intensity of the sunlight effect.', 'Adjust the illumination of the azalea flowers to be softer.', 'Adjust the illumination of the surrounding foliage to be softer.']

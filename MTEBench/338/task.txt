@@ -1,1 +1,0 @@
-['Change the perspective to a top-down angle.', 'Remove the windows.', 'Remove the lattice ceiling.', 'Add a long walkway with people walking.', 'Increase the human presence.']

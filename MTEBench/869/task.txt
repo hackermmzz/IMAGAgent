@@ -1,1 +1,0 @@
-["Change the motorcycle rider's pants to bright pink", 'Move the motorcycle rider to the foreground on a motorcycle with license plate 54-H2 0403', 'Add a yellow bag to the person with the light blue headscarf', 'Move the person wearing beige pants into the background riding a motorcycle', 'Add more pedestrians to the scene', 'Add more motorcycles to the scene']

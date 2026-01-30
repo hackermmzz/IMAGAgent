@@ -1,1 +1,0 @@
-['Add a large white sailboat to the harbor scene.', 'Add various small powered boats to the harbor scene.', 'Introduce cars parked on the pier.', 'Adjust the lighting to create a unified dusk harbor scene.']

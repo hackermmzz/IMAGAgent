@@ -1,1 +1,0 @@
-['Change the perspective of the image to a wider view of the street.', 'Add more vehicles like buses to the street.', 'Adjust the position of trams further along the track.', 'Add more pedestrians crossing the street.']

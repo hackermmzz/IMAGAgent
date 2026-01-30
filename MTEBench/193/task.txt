@@ -1,1 +1,0 @@
-['Consolidate the large ice sheet on the right.', 'Adjust the position of the ice chunks downstream to reflect their flow.', 'Ensure consistent lighting across the image.', 'Convey the movement of time in the river flow between frames.']

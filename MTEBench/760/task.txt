@@ -1,1 +1,0 @@
-['Change the footwear of the person with white slip-on shoes to wedge heels', 'Remove the pink suitcase', 'Remove the sandals', 'Add a person in jeans holding a large dark bag', 'Add a bright red bag', 'Add a piece of luggage with a metallic frame']

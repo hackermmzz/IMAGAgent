@@ -1,1 +1,0 @@
-['Remove the person from the image.', 'Change the color of the horse to black.', 'Change the color of the fence to green.', 'Reposition the horse to stand alone by the fence as in the second frame.']

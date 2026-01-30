@@ -1,1 +1,0 @@
-['Adjust the perspective of the image to show a wider scene.', 'Add multiple stones laid out in a sequence in the scene.', 'Add trees in the background.', 'Add a wall in the background.']

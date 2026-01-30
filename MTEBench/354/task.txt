@@ -1,1 +1,0 @@
-['Adjust the orientation of the characters.', 'Add a gesture of sending air kisses to the character with the red bandana.', 'Remove the cap from the character with long dark hair.', 'Add a pole-like object to the right part of the frame.']

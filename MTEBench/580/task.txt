@@ -1,1 +1,0 @@
-['Remove the third horse.', 'Remove the fourth horse.', 'Move the first horse to the left position.', 'Move the second horse to the middle position.', 'Move the fifth horse to the right position.']

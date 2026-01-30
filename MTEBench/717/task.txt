@@ -1,1 +1,0 @@
-["Move the box of chocolates from the woman's hands to the coffee table.", "Add a new male character on the woman's left who is holding a cup to his mouth.", 'Make the existing male character on the right holding and drinking from a cup.', 'Remove the cups from the saucers on the table and place them in the hands of the men.']

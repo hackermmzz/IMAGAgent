@@ -1,1 +1,0 @@
-["Increase clarity of individuals' positions and faces", 'Reduce motion blur of individuals to show them standing', 'Enhance lighting on the decorations', "Add brighter holiday lights to the mall's wall and archway"]

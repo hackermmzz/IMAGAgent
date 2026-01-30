@@ -1,1 +1,0 @@
-['Position the man in the yellow shirt closer to another man.', 'Make the woman in a polka dot dress hold a red bag.', 'Make the woman with a green top hold an offering plate.', 'Add more incense sticks to the altar.', 'Enhance the vibrancy of the candles.', 'Change the woman in a pink top to a woman in a blue top.', 'Increase the prominence of incense smoke.']

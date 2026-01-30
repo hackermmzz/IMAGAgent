@@ -1,1 +1,0 @@
-['Change the color of the top to blue.', 'Change the hairstyle to curly.', 'Add a necklace around the neck.', 'Remove the background.']

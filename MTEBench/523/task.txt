@@ -1,1 +1,0 @@
-['Remove a slice of the red cake from its original position.', 'Place the removed slice of red cake prominently at the front of the image.', 'Adjust the perspective of the remaining cake layers to show the cut portion and the remaining cake structure.', 'Apply a slight blur effect to the background area of the image.']

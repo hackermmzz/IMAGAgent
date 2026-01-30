@@ -1,1 +1,0 @@
-['Reposition the yellow ornament higher', 'Blur the yellow ornament', 'Reposition the snowflake more central', 'Reduce the visibility of the silver ornament', 'Apply softer lighting', 'Create a pastel and less clear composition']

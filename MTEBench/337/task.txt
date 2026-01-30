@@ -1,1 +1,0 @@
-['move the aircraft to land on a runway', "add smoke from the aircraft's wheels", 'change perspective to show rear view of the aircraft', 'change background to include grass, trees, and hills', 'change lighting to sunny', 'add a fence in the foreground']

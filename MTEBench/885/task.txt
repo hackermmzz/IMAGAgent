@@ -1,1 +1,0 @@
-['Move the turtle backward.', "Rotate the turtle's direction upwards.", 'Reposition the first black bird closer to the right of the turtle.', 'Make the first black bird face toward the turtle.', 'Reposition the second black bird further away from the turtle.', 'Make the second black bird face toward the turtle.', 'Move the egg mound more toward the left side of the scene.']

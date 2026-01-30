@@ -1,1 +1,0 @@
-['Change the terrain from hilly to flatter.', 'Change the dry grassland to rocky terrain.', 'Change the vegetation to autumn-colored trees.', 'Change the muddy road to a smoother road surface.']

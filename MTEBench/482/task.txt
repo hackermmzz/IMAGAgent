@@ -1,1 +1,0 @@
-['Shift the perspective of the image to the right', 'Add a train on the far-right track heading away', 'Adjust the railway tracks to curve to the right', 'Increase the visibility of greenery, particularly on the left side']

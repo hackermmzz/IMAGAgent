@@ -1,1 +1,0 @@
-['Change the viewpoint to show the rear side of the car.', 'Add a woman walking away on a country road.', 'Change the environment to a green, open country road setting.', "Add sky reflections on the car's surface."]

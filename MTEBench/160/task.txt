@@ -1,1 +1,0 @@
-['Modify the ink pattern structure to be dispersed.', 'Make the ink pattern softer.', 'Increase color interaction among ink colors.', 'Ensure ink colors are distributed evenly throughout the image.']

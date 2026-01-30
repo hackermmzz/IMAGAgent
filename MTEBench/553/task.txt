@@ -1,1 +1,0 @@
-['replace the road with a winding dirt path', 'remove the red road sign', 'move the guardrail to curve more to the left', 'increase foliage density on the left side', 'remove distant mountains', 'add dense nearby greenery']

@@ -1,1 +1,0 @@
-['Modify the camera angle to a side view showing faces', 'Change the hair length of the first character', 'Change the attire color of the second character to blue', 'Change the attire color of the third character to green', 'Add pink exercise mats under each character', 'Adjust the environmental light to suggest a different position within twilight']

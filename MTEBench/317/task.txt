@@ -1,1 +1,0 @@
-['Change the nail color from light pink to purple', 'Change the orientation of the soldering iron to point upwards', 'Reposition hands', 'Add a thin tool like a brush on the right', 'Slightly adjust the metal cable loop', 'Introduce a brown object partially visible on the right side of the frame']

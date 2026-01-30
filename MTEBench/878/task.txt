@@ -1,1 +1,0 @@
-['Add a man wearing a black t-shirt, shorts, and a cap', 'Add a light blue bicycle', 'Make the man push the bicycle', 'Position the man and bicycle on the pavement in front of the building']

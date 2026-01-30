@@ -1,1 +1,0 @@
-['Remove the knitted blanket and yarn from the image', 'Add a wooden table', 'Add a gray vase with evergreen on the wooden table', 'Add a beige vase on the wooden table', 'Add a pinecone on the wooden table', 'Add an ornament on the wooden table', "Add a '31 December' calendar on the wooden table", 'Add a small Christmas tree in the background']

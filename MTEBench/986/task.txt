@@ -1,1 +1,0 @@
-['Zoom in closely on the red double-decker bus', 'Reduce focus on surrounding vehicles', 'Reduce focus on surrounding trees', 'Reduce focus on surrounding buildings']

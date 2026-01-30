@@ -1,1 +1,0 @@
-["Reposition the man's arm from an extended forward position to a retracted position.", "Adjust the woman's position to face slightly towards the others.", 'Move the child slightly further away from the table.', 'Gather some of the trinkets into a plastic bag.']

@@ -1,1 +1,0 @@
-['Move the silver car slightly forward.', 'Introduce a yellow bus ahead of the silver car.', 'Add lane markings with directional arrows on the road.', 'Adjust the position of the overhead road signs closer to the viewer.']

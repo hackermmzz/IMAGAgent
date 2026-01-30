@@ -1,1 +1,0 @@
-['Add a new person holding a ladle and a white plate of stew.', 'Add a transparent glass of beverage to the table.', 'Add a yellow cup to the table.', 'Add an additional orange bowl to the table.', 'Reposition the person in the pink t-shirt slightly.']

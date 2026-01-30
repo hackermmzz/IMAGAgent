@@ -1,1 +1,0 @@
-["Adjust the bird's wing position to be fully stretched.", 'Remove the clouds.', 'Remove the leaves.', "Enhance the sky's brightness and saturation for a clearer blue background."]

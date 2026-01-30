@@ -1,1 +1,0 @@
-['Reduce the number of ceramic tile stacks to create wider pathways.', 'Remove the trailer truck.', 'Reveal more of the green foliage on the far left.', 'Adjust lighting to highlight the empty spaces between stacks.']

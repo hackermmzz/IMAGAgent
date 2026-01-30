@@ -1,1 +1,0 @@
-['Adjust camera angle to capture more workers and activity.', 'Increase visibility of teal garments on tables.', 'Enhance clarity of worker task interactions.', 'Adjust lighting to ensure consistent clarity.']

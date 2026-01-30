@@ -1,1 +1,0 @@
-['Adjust the camera angle to provide a closer view of the CNC machine.', 'Enhance lighting to better emphasize the operation area of the CNC machine.', 'Remove peripheral items such as stacked metal parts and distant wall structures.', 'Increase focus on the water and machine interaction with the metal surface.']

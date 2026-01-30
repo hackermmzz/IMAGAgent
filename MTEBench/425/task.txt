@@ -1,1 +1,0 @@
-['Change the scene to a tricycle ride scene.', "Change the woman's clothing to pink traditional attire.", 'Add a man steering the tricycle.', 'Focus the image on the decorated tricycle.']

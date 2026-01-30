@@ -1,1 +1,0 @@
-['Remove the white buildings', 'Remove some industrial structures', 'Add a tall electricity pylon on the left side', 'Add an orange residential building on the right', 'Reduce cloud coverage for a clearer sky', 'Incorporate distant tree-covered hills behind the pylon']

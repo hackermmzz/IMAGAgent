@@ -1,1 +1,0 @@
-['Change the perspective to a wider view showing whole boats docked by the pier', 'Add a hill covered with trees in the background', 'Add vehicles parked near the pier', 'Expand the urban landscape to include more buildings and open spaces']

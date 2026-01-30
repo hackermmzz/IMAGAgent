@@ -1,1 +1,0 @@
-['Remove the man in the gray sweater from the image.', 'Remove the woman in the green shirt from the image.', 'Remove the white shopping bag from the image.', 'Remove the red shopping bag from the image.', 'Make the woman with blonde hair the main subject in the image.']

@@ -1,1 +1,0 @@
-['Shift the perspective to showcase the road curving deeper into the forest', 'Change the leaf density of the trees on the left side to be denser', 'Change the underbrush visibility on the left side to be more visible', 'Enhance the green grass along the roadside on the right']

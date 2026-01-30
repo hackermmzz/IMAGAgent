@@ -1,1 +1,0 @@
-['move the cabbage plant to the left', 'move the cabbage plant to the center', 'move the cabbage plant to the right', 'change the cabbage leaves to open leaves with visible heads', 'increase the visible soil area around the cabbages', 'add small plants around the cabbage plants']

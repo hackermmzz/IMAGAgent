@@ -1,1 +1,0 @@
-['Replace the rocky breakwater with a marina dock', 'Add yachts and boats to the marina area', 'Add a parking lot near the marina', 'Add cars to the parking lot', 'Add palm trees around the marina', 'Add marina buildings near the marina']

@@ -1,1 +1,0 @@
-['Move the man in the light blue shirt further down the path.', 'Move the woman in the light gray dress further down the path.', 'Add a new man with a blue shirt and beige shorts walking in the center of the scene.', 'Change the attire of the woman with long brown hair to a white shirt and patterned dress.', 'Position the woman with long brown hair closer to the food stall.']

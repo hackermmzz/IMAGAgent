@@ -1,1 +1,0 @@
-['Remove the flying bird', 'Reduce the concrete shadow', 'Shift the perspective of the buildings for alignment', 'Adjust the view to include the river for visual similarity']

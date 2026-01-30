@@ -1,1 +1,0 @@
-['Remove the pedestrians visible in Frame1.', 'Replace the pedestrians in Frame1 with the pedestrians from Frame2.', 'Reduce the number of pedestrians along the sidewalk.', 'Reposition the pedestrians to focus on the architectural background.']

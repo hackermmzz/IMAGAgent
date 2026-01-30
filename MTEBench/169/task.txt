@@ -1,1 +1,0 @@
-['Adjust the camera angle to focus more leftward.', 'Change the arrangement of the machinery to a different layout.', 'Increase the visibility of the windows.', 'Adjust the lighting to be brighter.']

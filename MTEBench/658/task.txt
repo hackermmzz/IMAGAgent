@@ -1,1 +1,0 @@
-['Broaden the view of the plate to showcase the entire dish', 'Add slices of cucumber as garnish', 'Add tomato slices as garnish', 'Add a piece of lime as garnish', 'Add green onion stalks as garnish', 'Shape the fried rice into a dome', 'Rearrange the shrimp around the fried rice']

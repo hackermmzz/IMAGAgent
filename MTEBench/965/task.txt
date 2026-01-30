@@ -1,1 +1,0 @@
-['Change the man in a green jacket and kilt to a black coat with white gloves.', 'Change the woman in a red dress to a woman in a peach dress with puffed sleeves.', 'Add a man in a black suit dancing.', 'Add a woman in a gold dress dancing.']

@@ -1,1 +1,0 @@
-['Reposition the camera to be mounted on an extended articulated arm', 'Alter the surrounding support structures', 'Change the viewing angle to include more stage details', 'Add clouds in the background']

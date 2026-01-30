@@ -1,1 +1,0 @@
-['remove the knitted sweater ornament', 'remove the glossy ball ornament', 'remove the red wooden heart ornament', 'add a woven heart ornament', 'add a Santa Claus figure ornament', 'add a snowflake ornament', 'adjust the background to be softer with warmer lighting']

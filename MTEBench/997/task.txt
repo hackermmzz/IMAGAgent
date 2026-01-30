@@ -1,1 +1,0 @@
-['remove the red chili pepper', 'add sliced cucumbers', 'add an olive', 'add cherry tomatoes', "adjust the arrangement of the plate's items", 'enhance visibility of cannelloni fillings']

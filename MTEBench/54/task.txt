@@ -1,1 +1,0 @@
-['Enhance the sharpness of the bouquet.', 'Reduce the distraction of the branches.', 'Adjust focus on the blurry flowers to make them clear.', 'Adjust focus on the tree trunk to make it clear.']

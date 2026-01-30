@@ -1,1 +1,0 @@
-['remove the character from the image', 'add a bedside table', 'add a lit lamp on the bedside table', 'add a book on the bedside table', 'add a medicine bottle with pills on the bedside table', 'add a smartphone on the bedside table', 'change the overall lighting to be warmer', 'illuminate the room with a lit lamp']

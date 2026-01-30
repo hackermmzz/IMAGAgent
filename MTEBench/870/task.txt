@@ -1,1 +1,0 @@
-['Move the woman further down the track.', 'Increase the distance between the child and the camera.', 'Add another person standing on the track to the right.', 'Make soccer goals visible at the far end of the track.']

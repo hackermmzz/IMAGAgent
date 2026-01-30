@@ -1,1 +1,0 @@
-['Add a red car into the scene', 'Add a white van into the scene', 'Enhance the visibility of traffic signs', 'Adjust the lighting to maintain consistency']

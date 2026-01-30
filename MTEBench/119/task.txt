@@ -1,1 +1,0 @@
-['Expand the red tape perimeter.', 'Reposition the crowd around an open field.', 'Remove the main tree.', 'Add bare trees in the background.', 'Increase the number of visible participants within the designated area.', 'Add more children in action.', 'Increase the crowd density around the perimeter.']

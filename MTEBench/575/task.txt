@@ -1,1 +1,0 @@
-['Remove the laptop', 'Remove the notebook', 'Change the background to a brick wall', 'Make the person in the blue shirt face the camera and reveal their face']

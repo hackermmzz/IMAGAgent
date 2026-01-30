@@ -1,1 +1,0 @@
-['replace the fish slices with mussels', 'add tentacles to the seafood arrangement', 'add additional seaweed to the seafood arrangement', 'remove the lemon slices', 'remove the tomatoes', 'adjust the presentation of the seafood arrangement for visual appeal']

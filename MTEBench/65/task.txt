@@ -1,1 +1,0 @@
-['Change the color and appearance of the bus to green.', 'Rearrange the positions of the motorcycles in the intersection.', 'Change the clothing color of the motorcycle riders.', 'Replace the small blue car with a grey car.', 'Rearrange the traffic flow in the intersection.']

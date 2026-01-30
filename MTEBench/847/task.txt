@@ -1,1 +1,0 @@
-['Add a seated woman to the square', 'Add a child to the square', 'Add an additional person walking in the square', 'Remove the cyclist from the square']

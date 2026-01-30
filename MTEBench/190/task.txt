@@ -1,1 +1,0 @@
-['Replace the man in the white shirt with a man in a dark blue shirt.', 'Add an open laptop on the table.', 'Add a small green potted plant on the table.', 'Remove the closed folder from the table.', 'Remove the papers from the table.', 'Adjust the seating position of the woman in blue.']

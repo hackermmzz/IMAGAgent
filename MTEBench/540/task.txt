@@ -1,1 +1,0 @@
-['Replace the dancing individuals with a new couple dancing.', 'Remove some previous dancers.', 'Add people walking in the scene.', 'Add a yellow flag in the background.']

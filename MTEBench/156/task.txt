@@ -1,1 +1,0 @@
-['Add a young girl near the window', "Change the girl's dress to a light green ballet dress", "Change the girl's shoes to white ballet shoes", 'Make the girl face away from the camera']

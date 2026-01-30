@@ -1,1 +1,0 @@
-['Remove the sun from the image.', 'Change the rolling hills to an unobstructed horizon.', 'Transform the calm water into layers of gentle waves.', 'Adjust the lighting to soft dusk light.']

@@ -1,1 +1,0 @@
-['Remove the jogging woman.', 'Add a pink and white moving bus in the foreground.', 'Increase the number of cars and pedestrians further along the street.', 'Slightly darken the overall lighting and sky.']

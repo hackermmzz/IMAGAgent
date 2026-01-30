@@ -1,1 +1,0 @@
-["Adjust the camera angle to include more of the dolphin's body", "Change the dolphin's posture to an upright position", 'Make the front fins of the dolphin visible', 'Move the dolphin further away from the viewer']

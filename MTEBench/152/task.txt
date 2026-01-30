@@ -1,1 +1,0 @@
-['Change the perspective of the image to a closer view of specific individuals', 'Make the image more blurred', 'Remove the child in the green shirt', 'Remove the child in the red shirt', 'Add a new child in the left position', 'Add a new child in the right position']

@@ -1,1 +1,0 @@
-['Remove five birds from the image, leaving two birds.', 'Reposition the two remaining birds further from the viewer (away from the foreground area).', 'Increase the intensity of the ocean waves.', 'Enhance the details of wave foam and splash.']

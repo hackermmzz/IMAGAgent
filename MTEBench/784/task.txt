@@ -1,1 +1,0 @@
-['Reposition the man in the black coat to the right.', 'Replace the woman with long dark hair with a man in a dark suit.', 'Add a group of three women near a display table.', 'Rearrange some items on the display counters.']

@@ -1,1 +1,0 @@
-['Increase the density of grass flowers in the foreground.', 'Adjust the lighting to a sunset ambiance with pink-tinged tones.', 'Change the perspective to a slightly higher angle.', 'Add a distant hill and trees on the horizon.']

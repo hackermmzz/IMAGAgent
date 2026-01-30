@@ -1,1 +1,0 @@
-['Increase the quantity of the berries.', 'Fully cover the berries with syrup.', 'Remove the mint leaves.', 'Stop the syrup flow.']

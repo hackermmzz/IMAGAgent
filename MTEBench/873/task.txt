@@ -1,1 +1,0 @@
-['Increase the sharpness of the background foliage', 'Increase the clarity of the wooden platform', 'Highlight the texture of the wood on the wooden platform', 'Enhance the distinctness of the surrounding environment']

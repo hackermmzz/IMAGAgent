@@ -1,1 +1,0 @@
-['Adjust the position of the large fish slightly to the left.', 'Move the smaller fish closer to the large fish.', 'Increase the ambient lighting to enhance rock visibility.', 'Reduce the visibility of the jellyfish.']

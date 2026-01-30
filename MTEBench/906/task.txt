@@ -1,1 +1,0 @@
-['Make the young boy stand up.', 'Make the young boy walk away from the sandbox.', 'Make the boy hold the red shovel in his hand.', 'Place the blue bucket in the sandbox.']

@@ -1,1 +1,0 @@
-['Adjust the perspective to show a broader view of the park.', 'Decrease the prominence of the central palm tree.', 'Increase the visibility of the hedges.', 'Increase the visibility of the lampposts.', 'Add a stone wall in the background.']

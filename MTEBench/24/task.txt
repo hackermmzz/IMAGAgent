@@ -1,1 +1,0 @@
-["Adjust the water's wave motion to maintain continuous movement.", "Ensure consistency of the entire scene's elements to maintain a unified appearance.", 'Adjust camera angle to maintain steady perspective.', 'Adjust lighting to ensure constant brightness and color tone.']

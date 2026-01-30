@@ -1,1 +1,0 @@
-['Add coral mounds with yellowish-brown hues', 'Add coral mounds with red-pink hues', 'Change color of corals to yellowish-brown', 'Change color of corals to red-pink', 'Remove some fish to make count sparser', 'Change background to lighter blue', 'Enhance lighting to highlight coral colors']

@@ -1,1 +1,0 @@
-['Reduce the orange and red colors in the clouds.', 'Darken the clouds, especially towards the center.', 'Adjust the position of the clouds to align more centrally over the sun.', 'Enhance the contrast in the sky and water reflection to bring out more detail.']

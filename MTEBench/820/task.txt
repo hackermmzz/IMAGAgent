@@ -1,1 +1,0 @@
-['Adjust the perspective to show more fabric under the bowl', 'Position the cloth to appear more square-shaped', 'Ensure consistent lighting', 'Ensure texture visibility']

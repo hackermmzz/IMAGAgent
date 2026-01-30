@@ -1,1 +1,0 @@
-['Change the perspective of the image to a wider angle', "Modify the young female's posture to lie on the grass", 'Add a person wearing a hat in the background', 'Change the background to reveal more cityscape']

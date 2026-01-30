@@ -1,1 +1,0 @@
-['Remove the horse located second from the left', 'Remove the horse located fourth from the left', 'Remove the horse located fifth from the left', 'Remove the horse located sixth from the left', 'Remove the horse located seventh from the left']

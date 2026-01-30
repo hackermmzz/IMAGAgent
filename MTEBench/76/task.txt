@@ -1,1 +1,0 @@
-['Reposition the group closer together at the barbecue.', 'Add food items to the grill.', 'Reposition the food items on the grill.', 'Reposition the plate in the hands of the person in turquoise.', 'Reposition the beer bottle on the counter.']

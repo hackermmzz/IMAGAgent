@@ -1,1 +1,0 @@
-['Remove some boats from the water.', 'Add a single boat near the coastline.', 'Enhance the definition of clouds in the sky.', 'Reveal distant mountains on the horizon.', 'Extend the rocky coastline further into the scene.']

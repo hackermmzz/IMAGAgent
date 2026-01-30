@@ -1,1 +1,0 @@
-['rotate existing pencils to vertical orientation', 'add visible seam to each pencil', 'add a yellow pencil', 'add a blue pencil', 'adjust lighting for stronger reflections', 'add two more pencils']

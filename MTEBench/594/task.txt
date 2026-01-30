@@ -1,1 +1,0 @@
-['Change the perspective to a wide-angle view of the entire poppy field', 'Move the sun to near the horizon', 'Replace the sky with a clear sky', 'Adjust the overall brightness to simulate sun near the horizon']

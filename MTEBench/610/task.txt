@@ -1,1 +1,0 @@
-['Change focus to the graph paper area.', 'Clear the data on the graph paper.', 'Move the calculator further out of focus.', 'Add a tablet device to the desk.']

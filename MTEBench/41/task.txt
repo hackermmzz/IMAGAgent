@@ -1,1 +1,0 @@
-['Reposition the seated female character on the couch to show her hands', 'Add cake plates on the table in front of them', 'Add a bowl of white chocolates on the table in front of them', 'Add wine glasses on the table in front of them']

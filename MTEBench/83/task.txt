@@ -1,1 +1,0 @@
-['Adjust the lighting to soften the scene.', 'Change the color temperature to a warmer tone for a late afternoon appearance.', 'Modify the cloud arrangement to make clouds thicker and more abundant.', 'Adjust the contrast and brightness to create a mellow look.']

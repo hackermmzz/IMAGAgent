@@ -1,1 +1,0 @@
-['Remove the musician with the black umbrella from the scene', 'Remove the musician with the red umbrella from the scene', 'Remove the musician with the clarinet from the scene', 'Remove the musician with the trumpet from the scene', 'Remove the musician with the saxophone from the scene', 'Remove the person carrying the black umbrella from the scene']

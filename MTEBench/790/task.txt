@@ -1,1 +1,0 @@
-['Adjust the position and action of the man in a white shirt to drink.', 'Add a food cart on the right side.', 'Slightly modify the illumination of the neon lights.', 'Slightly adjust the angle of the neon lights.']

@@ -1,1 +1,0 @@
-['Center the gift box in the image.', 'Enhance the detail of the lace.', 'Enhance the detail of the pearls.', 'Enhance the blur effect of the background to increase depth.']

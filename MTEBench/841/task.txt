@@ -1,1 +1,0 @@
-['move the person on the left to a new position', 'adjust the orientation of the person on the left', 'modify the shape of the rocks near the water', 'move the rocks near the water to a new position', "modify the water's wave pattern", 'adjust the position of the water relative to the rocks']

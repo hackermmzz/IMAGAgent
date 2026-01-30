@@ -1,1 +1,0 @@
-['Shift the camera perspective to include more of the park', 'Add a wooden bench in the park area', 'Add utility poles near the park area', 'Remove the ambulance from the image', 'Reposition the parked cars closer to the park', 'Reposition the mailbox near the park']

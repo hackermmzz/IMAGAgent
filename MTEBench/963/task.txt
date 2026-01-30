@@ -1,1 +1,0 @@
-["Change the woman's clothing to a black crop top and blue jeans.", 'Remove the hat from the woman.', 'Adjust the lighting to be dimmer with reduced sunlight.', "Change the camera angle to a close-up of the couple's torsos."]

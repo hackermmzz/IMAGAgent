@@ -1,1 +1,0 @@
-['Add rolling hills to the landscape.', 'Add more greenery to the landscape.', 'Add a distant valley to the landscape.', 'Add residential areas in the distant valley.']

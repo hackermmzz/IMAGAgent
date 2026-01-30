@@ -1,1 +1,0 @@
-["Adjust focus to the beetle's legs as the primary focus.", "Increase detail and clarity of the beetle's legs.", 'Reduce visibility and focus on the antennae.', "Reduce visibility and focus on the beetle's eyes.", "Adjust lighting to emphasize the beetle's legs.", 'Create an elevated perspective view.']

@@ -1,1 +1,0 @@
-['Increase the number of people on the beach.', 'Add motorbikes on the beach.', 'Add another vehicle on the beach.', 'Add more green bags at the station with people nearby.', 'Increase activity near the nets and materials.']

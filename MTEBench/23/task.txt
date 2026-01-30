@@ -1,1 +1,0 @@
-['Move the person closer to the camera.', 'Move the water scooter closer to the camera.', 'Increase the prominence of the water splashes.', "Increase the sun's glowing effect."]

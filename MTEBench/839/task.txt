@@ -1,1 +1,0 @@
-['Remove the white flowers from the foreground.', 'Add a dirt path running through the rice field.', 'Introduce fog-covered trees in the distant horizon.', 'Adjust the lighting to create a warmer, golden glow in the overall scene.']

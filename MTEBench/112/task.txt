@@ -1,1 +1,0 @@
-['Add the upper body and arms of the person to reveal the full body', 'Adjust the body position to a deep lunge pose', 'Position both arms above the head', 'Change the top to a white sports bra']

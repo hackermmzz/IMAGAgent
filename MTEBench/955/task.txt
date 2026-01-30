@@ -1,1 +1,0 @@
-['Adjust the camera angle to show more of the office environment.', 'Add a desk around the main characters.', 'Add a laptop on the desk.', 'Add a cabinet in the office environment.', 'Add a potted plant around the main characters.']

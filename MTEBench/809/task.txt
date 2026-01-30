@@ -1,1 +1,0 @@
-['Adjust the camera angle to show more open space', 'Reduce the vegetation in the scene', 'Move the characters slightly to the right while keeping their hand-holding', "Change the color of the building's pink panel", "Change the color of the building's green panel", "Change the color of the building's blue panel", 'Increase the brightness of the image']

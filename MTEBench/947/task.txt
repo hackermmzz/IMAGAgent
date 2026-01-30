@@ -1,1 +1,0 @@
-['Move the dog closer to the viewer.', 'Enhance the fur detail of the dog.', 'Add motion blur to the dog.', 'Add background blur for a shallow depth of field effect.']

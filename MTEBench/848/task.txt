@@ -1,1 +1,0 @@
-["Reposition the first swimmer's legs and arms to form a vertical split.", "Adjust the first swimmer's body orientation to horizontal.", "Reposition the second swimmer's legs and arms to form a vertical split.", "Adjust the second swimmer's body orientation to horizontal."]

@@ -1,1 +1,0 @@
-['Move the adult woman closer to the clothing rack.', 'Make the adult woman look at the clothes.', 'Move the child partially out of view.', 'Move the person in the striped dress closer to the adult woman.']

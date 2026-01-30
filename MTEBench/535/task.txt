@@ -1,1 +1,0 @@
-['move the skiing boy closer', "change the skiing boy's jacket to red", 'make the skiing boy actively ski', 'add a skier in dark clothing behind the skiing boy', 'enhance visibility of ski tracks', 'enhance visibility of other skiers']

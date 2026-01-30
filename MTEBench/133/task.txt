@@ -1,1 +1,0 @@
-['add a crayon pouch to the image', 'add scissors to the image', 'add a paint palette to the image', 'add a notebook to the image', 'move the crayon pouch to the top left corner', 'move the scissors to the top right corner', 'move the paint palette to the bottom left corner', 'move the notebook to the bottom right corner']

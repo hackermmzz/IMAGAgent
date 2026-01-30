@@ -1,1 +1,0 @@
-['Remove the leftmost brown goat.', 'Remove the second brown goat from the left.', 'Remove the third brown goat from the left.', 'Remove the fourth brown goat from the left.', 'Remove the fifth brown goat from the left.', 'Remove the sixth brown goat from the left.', 'Remove the seventh brown goat from the left.', 'Remove the eighth brown goat from the far right edge.']

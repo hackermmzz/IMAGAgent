@@ -1,1 +1,0 @@
-['Lighten the ink colors', 'Disperse the ink colors', 'Lighten the background', 'Increase the brightness of the image', 'Decrease the color saturation of the image', 'Make the image have a softer and airier style']

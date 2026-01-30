@@ -1,1 +1,0 @@
-['Remove the man in a black suit.', 'Remove the person with the colorful cart.', 'Add an elderly man with a striped shirt.', 'Add a man in a blue polo shirt.', 'Add a clock on the ceiling.', 'Increase the overall brightness.', 'Enhance the brightness of the wooden ceiling.', 'Add a tall, dark kiosk.']

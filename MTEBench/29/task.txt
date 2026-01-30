@@ -1,1 +1,0 @@
-['Increase the focus and sharpness of the entire image.', 'Increase the focus and sharpness of the three glass bottles.', 'Increase the focus and sharpness of the liquid inside the glass bottles.', 'Increase the focus and sharpness of the surrounding orange flowers.']

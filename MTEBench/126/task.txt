@@ -1,1 +1,0 @@
-['Remove the seated person in a blue shirt.', 'Remove the person on the white scooter.', 'Introduce a person carrying a large sack into the scene.', 'Adjust the layout of the scene to reflect minor positional changes.']

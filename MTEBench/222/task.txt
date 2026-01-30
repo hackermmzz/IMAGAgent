@@ -1,1 +1,0 @@
-['Adjust the posture of the first man to stand upright.', 'Adjust the posture of the second man to standing still.', 'Neatly rearrange the algae bundles on the pier.', 'Reduce the amount of algae visible on the boat.']

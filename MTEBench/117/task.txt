@@ -1,1 +1,0 @@
-['Turn the first deer to face the camera', 'Adjust other deer to face away from the camera', 'Add a signpost in the foreground', 'Add rocks in the foreground', 'Add more riverbank vegetation in the foreground', 'Change the perspective of the scene']

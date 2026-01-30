@@ -1,1 +1,0 @@
-['Zoom in on the market stall canopies area.', 'Highlight inflatable rings under the market stall canopies.', 'Highlight hats under the market stall canopies.', 'Highlight bags under the market stall canopies.']

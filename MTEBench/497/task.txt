@@ -1,1 +1,0 @@
-['Remove the blue mat from the foreground', 'Remove the group of people around the blue mat', 'Animate the parachute into the sky with two people attached', 'Remove most people from the scene, showing only a few walking on the beach', 'Position the parachute high in the sky', 'Add a distant boat in the water']

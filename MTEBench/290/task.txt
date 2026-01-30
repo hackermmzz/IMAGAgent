@@ -1,1 +1,0 @@
-['Change the color of the left chair to blue', 'Add a cushion to the right chair', 'Change the background to a forest', 'Remove the potted plant', 'Replace the wooden door with a glass door']

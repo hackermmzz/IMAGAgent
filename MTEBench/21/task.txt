@@ -1,1 +1,0 @@
-['Add a white dish lid icon with a small circle on top to the wooden plank background.', 'Add a larger white circle enclosing the dish lid icon.', 'Add a horizontal line underneath the larger white circle.', 'Add three yellow stars below the horizontal line.']

@@ -1,1 +1,0 @@
-['Broaden the perspective of the coastline', 'Reduce rocky area prominence', 'Minimize wave size', 'Enhance sandy area visibility', 'Enhance greenery visibility', 'Change water to vivid turquoise', 'Make sea calm and atmosphere clear']

@@ -1,1 +1,0 @@
-['Remove the standing figure near the breakwater.', 'Remove the lighthouse structure.', 'Change the color of the red kayak to blue.', 'Reposition the red kayak to the left side of the image.', 'Emphasize the ocean and waves by reducing the prominence of the breakwater.']

@@ -1,1 +1,0 @@
-['Shift the image perspective to the right side', 'Cut off some flowers on the left side', 'Broaden the view of the background greenery to the left', 'Adjust the brightness to maintain bright lighting']

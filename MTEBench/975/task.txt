@@ -1,1 +1,0 @@
-['Change the perspective to a wide landscape view', 'Add multiple young oak trees to the landscape', 'Add grass to the landscape', 'Add an open field to the landscape', 'Add the sun in the background', 'Enhance the sunlit atmosphere of the image']

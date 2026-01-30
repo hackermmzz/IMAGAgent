@@ -1,1 +1,0 @@
-["Change the main gymnast's leotard color to red.", "Change the ribbon's state to trailing.", 'Add a gymnast in the background area.', 'Adjust the scene dynamics to include more gymnasts.']

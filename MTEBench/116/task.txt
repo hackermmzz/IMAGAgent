@@ -1,1 +1,0 @@
-["Change the butcher's position to be closer to the meat.", 'Update the knife style.', 'Enhance the cut depth on the meat to show more bones and inner portions.', 'Shift focus slightly to center the cutting action more prominently.']

@@ -1,1 +1,0 @@
-["Change the woman's position from kneeling to standing.", 'Have the woman hold a screwdriver.', 'Have the woman hold a piece of wood.', 'Remove the papers (manual) on the table.', 'Remove the scattered wooden planks.', 'Enhance the visibility of the whiteboards in the background.']

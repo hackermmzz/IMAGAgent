@@ -1,1 +1,0 @@
-['Move the chef to partially exit the right side of the frame.', 'Add a second griddle on the table.', 'Remove the spatula.', 'Enhance the visibility of background decorations and the balloon.']

@@ -1,1 +1,0 @@
-['Add tourists in various outfits to the square in front of the cathedral', 'Add bollards to the square in front of the cathedral', 'Add tourists with walking poses to the square in front of the cathedral', 'Position tourists near the large doors']

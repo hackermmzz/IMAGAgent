@@ -1,1 +1,0 @@
-["Adjust the adult's stance from a punching posture to a relaxed posture.", 'Change the pose of the first child to a standing posture.', 'Change the pose of the second child to a standing posture.', 'Change the pose of the third child to a standing posture.', 'Adjust the prominence of the red gloves to be less pronounced.', 'Slightly modify the positions of all individuals.']

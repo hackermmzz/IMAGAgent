@@ -1,1 +1,0 @@
-['Add a man in the foreground of the kitchen scene', 'Add a woman in the foreground of the kitchen scene', 'Brighten the environment', 'Position the man and woman giving thumbs up gestures', 'Add vegetables on the countertop']

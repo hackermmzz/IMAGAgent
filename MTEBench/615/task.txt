@@ -1,1 +1,0 @@
-['Adjust the position of the man in the frame to center him', "Reveal more of the man's head", "Reveal the man's left ear", "Reveal the man's right ear"]

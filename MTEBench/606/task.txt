@@ -1,1 +1,0 @@
-["Change the woman's posture from stationary to walking while holding the phone", 'Adjust the camera angle to a slightly lower perspective', 'Adjust the camera proximity to be closer to the woman', 'Make the woman appear to be talking on the phone']

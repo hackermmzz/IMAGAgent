@@ -1,1 +1,0 @@
-['Move the woman away from the car to the open road', 'Move the man away from the car to the open road', 'Make the man lean on the woman for support', 'Scatter broken car parts on the road surface']

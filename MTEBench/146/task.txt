@@ -1,1 +1,0 @@
-['Increase smoke obscuring the scene', "Change the person's action from jumping on the car to standing on it", "Adjust the crowd's appearance and position", 'Increase visible damage on the police cars']

@@ -1,1 +1,0 @@
-['Modify the person to rest a hand on the document', 'Remove scattered papers', 'Remove pen', 'Remove notebook', 'Add a cup of tea with a saucer and spoon', 'Add a smartphone on the desk']

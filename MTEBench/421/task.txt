@@ -1,1 +1,0 @@
-['Add a Ferris wheel to the background', 'Add more park-goers in the scene', 'Adjust the lighting to include additional details from the setting sun', "Reveal more of the park environment by adjusting the image's exposure"]

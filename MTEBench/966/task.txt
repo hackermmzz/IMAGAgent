@@ -1,1 +1,0 @@
-['Reduce the number of airplane tugs to one.', 'Reduce the number of red baggage carts to one.', 'Reposition the baggage cart more to the side.', 'Make the luggage motorcycle in the background stationary.', 'Adjust the lighting to appear slightly overcast and reduce overall vehicular activity.']

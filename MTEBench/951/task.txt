@@ -1,1 +1,0 @@
-['Reorganize the grilled chicken slices to be more orderly and extend towards the right.', 'Add salad around the chicken slices.', 'Add cooked vegetables around the chicken slices.', 'Add garnish around the chicken slices.', 'Adjust the camera angle to show the entire plating.']

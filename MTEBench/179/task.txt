@@ -1,1 +1,0 @@
-['Expand the view to include more of the surrounding coastal area', 'Add the road alongside the shoreline to the view', 'Add vehicles on the road', 'Add additional greenery near the shoreline']

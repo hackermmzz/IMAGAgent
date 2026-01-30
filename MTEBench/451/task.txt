@@ -1,1 +1,0 @@
-['Position the man in a more forward stance with a full view of the back.', 'Replace the handgun with a controller.', 'Update game score to be larger and in red, positioned higher.', 'Add a large statue or figure in the center of the environment.', 'Move existing virtual characters', 'Add more humanoid figures']

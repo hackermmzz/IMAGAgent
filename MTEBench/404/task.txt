@@ -1,1 +1,0 @@
-["Change the man's posture to relaxed sitting.", 'Make the man wear a bright green tie.', 'Swap the book stacks with open laptops.', 'Organize the papers for a neat appearance.']

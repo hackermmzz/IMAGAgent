@@ -1,1 +1,0 @@
-["Adjust the girl's position to face the boy.", "Adjust the boy's position to be slightly sitting up facing the girl.", "Position the gray toy in the girl's hands to face towards the boy.", "Position the brown toy in the boy's hands to face towards the girl's toy."]

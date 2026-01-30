@@ -1,1 +1,0 @@
-['Add a brass cartridge case to the ground in the upper left area', 'Add a brass cartridge case to the ground in the middle area', 'Add a brass cartridge case to the ground in the lower right area', 'Add a brass cartridge case to the ground in the upper right area']

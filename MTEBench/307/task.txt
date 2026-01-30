@@ -1,1 +1,0 @@
-['Change the color of the larger ship to red', 'Add a flag on the larger ship', "Remove the smaller ship's propeller", "Change the water's color to blue", 'Replace the buildings with a castle']

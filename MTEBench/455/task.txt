@@ -1,1 +1,0 @@
-['remove the blurry wire fence from the foreground', 'add a young man in a dark jacket and cap, squatting', 'add a grinding machine near the young man', 'add construction materials near the grinding machine', 'add traffic signs in the wooded area', 'clear the trees in the background']

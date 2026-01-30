@@ -1,1 +1,0 @@
-['Change the red gummy worm to a yellow gummy worm.', 'Add a foot-shaped candy.', 'Swap the position of the yellow gummy worm with the red gummy worm.', 'Adjust the camera angle to highlight particular candies more prominently.', 'Enhance overall brightness and contrast.']

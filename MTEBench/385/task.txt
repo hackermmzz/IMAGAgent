@@ -1,1 +1,0 @@
-['Replace the man’s hard hat with a cap', 'Move the person in red jacket further right', 'Change the red jacket to black', 'Add more stone slabs', 'Move the wheelbarrow slightly to the left', 'Adjust the position of the level tool']

@@ -1,1 +1,0 @@
-['Replace the person in the light brown sweater with a person wearing a pink shawl and a white shirt.', 'Remove the elderly person in the pink jacket.', "Add a person wearing a green shirt with 'GLORIOUS' text to the frame.", 'Change the arrangement of chairs, replacing some blue chairs with red chairs.']

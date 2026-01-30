@@ -1,1 +1,0 @@
-['Adjust focus to emphasize the child writing.', "Move the microscope towards the frame's edge.", 'Reduce visibility of the test tubes.', 'Keep the flask in view.']

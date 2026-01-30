@@ -1,1 +1,0 @@
-['Change the scene to an outdoor park setting with multiple people.', 'Add a pedestrian walking past the stall.', "Make the stall's exterior visible with an umbrella.", 'Add multiple people in the park.']

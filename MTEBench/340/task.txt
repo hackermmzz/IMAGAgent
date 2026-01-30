@@ -1,1 +1,0 @@
-['Remove the foreground plants.', 'Add large banana leaves around the waterfall area.', 'Add ferns around the waterfall area.', 'Add rocks around the waterfall area.', 'Make the waterfall sharply-focused.']

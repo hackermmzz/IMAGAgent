@@ -1,1 +1,0 @@
-['Add two pieces of grilled meat onto the grill surface.', 'Add several slices of red pepper, eggplant, and zucchini onto the grill surface.', 'Enhance the lighting of the scene to make it well-lit.', 'Reduce the smoke in the scene to depict cooking rather than active flames.']

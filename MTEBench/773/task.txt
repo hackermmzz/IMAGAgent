@@ -1,1 +1,0 @@
-['Reposition the wasp to the left side of the frame.', 'Move the small insect to the far right of the frame.', 'Adjust the flower petals to make them appear slightly more closed.', "Change the viewing angle to emphasize the wasp's presence."]

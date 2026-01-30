@@ -1,1 +1,0 @@
-['move the sun higher in the sky', "lighten the sun's color", 'adjust the lighting to be less warm', 'lighten the terrain textures', 'make the water more visible with less reflection', 'improve overall scene clarity']

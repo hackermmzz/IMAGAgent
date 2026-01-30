@@ -1,1 +1,0 @@
-['Adjust the position of the butterfly with green and red wings to the left', 'Adjust the orientation of the butterfly with blue and orange wings to face right', 'Adjust the position of the butterfly with orange wings to the center', 'Add a small butterfly with orange wings near the leaves', 'Adjust the lighting to reduce overlay effect', 'Enhance natural tones of the image']

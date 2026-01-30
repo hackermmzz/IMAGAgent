@@ -1,1 +1,0 @@
-['Change the scene from daytime to early evening light', 'Reposition the characters in the center and foreground', 'Add new characters in the center and foreground', 'Slightly reposition the decorative figure', 'Increase the crowd density', 'Enhance the brightness of the neon signs']

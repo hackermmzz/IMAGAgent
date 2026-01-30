@@ -1,1 +1,0 @@
-['Rotate the entire frame of corks to the right.', 'Adjust the positions of the corks to maintain alignment.', 'Maintain detail consistency of the corks.', 'Maintain lighting consistency of the corks.']

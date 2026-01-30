@@ -1,1 +1,0 @@
-['Adjust the scene to a wider view.', 'Change the outfit of the person in the red shirt to a blue jacket.', 'Change the content of the left blue advertisement.', 'Remove the green exit sign.', 'Add a clock to the ceiling.', 'Add guiding lines on the floor.', 'Increase the crowd density by adding more people.']

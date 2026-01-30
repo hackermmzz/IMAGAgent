@@ -1,1 +1,0 @@
-['Rearrange the seven salmon fillets from the white plate to the wood cutting board.', 'Remove the parsley sprig.', 'Remove the coriander seeds.', 'Add a knife above the salmon fillets.', 'Add a lemon to the left of the salmon fillets.', 'Change the lighting to eliminate reflections.']

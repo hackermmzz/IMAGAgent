@@ -1,1 +1,0 @@
-['Remove one ball from the pyramid', 'Reposition the remaining balls slightly to the right', 'Add a red billiard ball on the left side of the table, separate from the pyramid', 'Adjust the contrast to emphasize the red ball']

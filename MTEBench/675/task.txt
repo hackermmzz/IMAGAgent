@@ -1,1 +1,0 @@
-['Change the color of the vase to red.', "Make the person's right hand hold a book.", 'Change the environment to a green meadow.', 'Add a teapot.', 'Delete the clouds in the sky.', 'Add a rainbow in the sky.']

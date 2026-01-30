@@ -1,1 +1,0 @@
-['Add more trees to the scene', 'Add more children to the scene', 'Add a bench with a person', 'Add a building in the background']

@@ -1,1 +1,0 @@
-['Reposition the woman in the brown saree to the center of the scene.', 'Turn the woman in the pink blouse towards the woman in the purple saree.', 'Add a child in pink clothing with a yellow balloon to the left side of the scene.', 'Add more people to the scene to create a more crowded festival atmosphere.']

@@ -1,1 +1,0 @@
-['Adjust the camera angle to a frontal view of the girl reading.', 'Enhance the clarity of the book to make it clearly visible.', 'Enhance the clarity of the surrounding shelves to show detailed library context.', 'Change the focus from blurred shelf edges to detailed library shelves.']

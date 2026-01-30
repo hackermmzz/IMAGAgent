@@ -1,1 +1,0 @@
-['Increase the brightness of the image significantly.', 'Overexpose the image so that the woman disappears.', "Make only the top of the man's hair partially visible.", 'Adjust the exposure to emphasize the bright water and reflections.']

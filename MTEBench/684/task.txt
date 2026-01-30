@@ -1,1 +1,0 @@
-['Adjust perspective of bamboo stalks to change their arrangement.', 'Adjust perspective of bamboo leaves to change their arrangement.', 'Modify sunlight highlights on bamboo stalks.', 'Modify sunlight shadows on bamboo leaves.']

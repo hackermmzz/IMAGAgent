@@ -1,1 +1,0 @@
-['Add a multi-story building to the plot', 'Add a crane to the plot', 'Add construction vehicles (like excavators and dump trucks) to the plot', 'Add barrels to the plot', 'Add bricks to the plot', 'Add trees to the plot']

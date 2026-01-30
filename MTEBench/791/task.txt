@@ -1,1 +1,0 @@
-['Remove the pebbly beach area.', 'Remove the flying seagulls.', 'Change the ocean waves to a calmer pattern.', "Move the metal hook to the water's edge."]

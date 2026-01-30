@@ -1,1 +1,0 @@
-['Move char1 to stand behind char2', 'Modify posture of char2 to lean slightly towards char1', 'Move char3 to stand behind char1 and char2', 'Move char4 closer to char5', 'Modify char6 to complete the action', 'Modify char7 to lean forwards']

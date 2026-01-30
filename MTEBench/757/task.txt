@@ -1,1 +1,0 @@
-['Reposition the tank further along the bridge.', 'Adjust the orientation of nearby personnel to face the tank.', 'Enhance water splashes around the tank to emphasize interaction.', 'Remove distant tanks and buildings in the background.', 'Adjust the composition to focus on the tank crossing the water.']

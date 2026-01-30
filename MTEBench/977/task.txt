@@ -1,1 +1,0 @@
-['Adjust the position of the curling iron on the hair.', 'Adjust the position of the hair section being styled.', 'Style the hair into curls.', 'Adjust the hand movement of the hairdresser.']

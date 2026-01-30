@@ -1,1 +1,0 @@
-['Remove the white paint', 'Remove the yellow paint', 'Add a dark brown paint dab', 'Adjust camera angle to closely focus on the paint texture and colors']

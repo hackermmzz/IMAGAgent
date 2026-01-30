@@ -1,1 +1,0 @@
-['Remove the rail.', 'Reposition the man on the skateboard to the left and make him face away.', 'Add a circular logo on the ground.', 'Add a building structure in the background on the right.']

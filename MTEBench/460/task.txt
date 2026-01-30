@@ -1,1 +1,0 @@
-['remove the person in bright red clothing from the boat', 'remove a boat', 'remove the blue decorative items from the boat', 'remove the satellite dish from the building', 'increase fog to obscure distance', "adjust focus to highlight the 'Myanmar' signage on the building"]

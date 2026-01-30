@@ -1,1 +1,0 @@
-['Adjust the position of the large ice piece.', 'Adjust the splash shape of the large ice piece.', 'Adjust the position of the smaller ice piece.', 'Adjust the splash shape of the smaller ice piece.', 'Modify the water dynamics to match the second frame.']

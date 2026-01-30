@@ -1,1 +1,0 @@
-['Remove the cash from the scene.', 'Adjust the posture of the man to a more seated position.', 'Adjust the posture of the woman to a more seated position.', 'Adjust the expression of the man to a content expression.', 'Adjust the expression of the woman to a content expression.']

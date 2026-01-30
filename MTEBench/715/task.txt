@@ -1,1 +1,0 @@
-['Add an equestrian statue in the background.', 'Add a historic building in the background.', 'Change the perspective to a wider view from close-up to broader scene.', 'Adjust the focus from ground level to broader scene.']

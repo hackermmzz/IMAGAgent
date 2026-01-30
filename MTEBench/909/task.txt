@@ -1,1 +1,0 @@
-["Add 'TUNING' text to the VU meter.", "Add 'BATTERY' text to the VU meter.", 'Move the needle closer to +5.', "Modify the bottom scale to include 'E' and 'F'."]

@@ -1,1 +1,0 @@
-['Reduce foliage density on the left side trees', 'Increase shadow intensity in the scene', 'Increase visibility of water', 'Increase visibility of distant landscape']

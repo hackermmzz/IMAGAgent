@@ -1,1 +1,0 @@
-['Reposition the top-left duck to be fully visible in the frame.', 'Reposition the center duck to be fully visible in the frame.', 'Reposition the top-right duck to be fully visible in the frame.', "Remove the duck's head from the bottom of the frame.", 'Reveal the blue wing detail of the upper duck.']

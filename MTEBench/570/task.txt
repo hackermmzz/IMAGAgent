@@ -1,1 +1,0 @@
-['Replace the entire scene with a focus on a trio of people near a corner building', 'Remove the balloon arch', 'Remove the statue', 'Replace the cyclist with a different cyclist', 'Shift perspective to showcase sunny patterns on the ground', 'Incorporate a café setting in the scene']

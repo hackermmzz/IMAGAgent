@@ -1,1 +1,0 @@
-['remove the dense hillside residential area', 'reduce the number of houses', 'add a playground', 'add open spaces', 'add a road with cars', 'change the environment to coastal park with sea view']

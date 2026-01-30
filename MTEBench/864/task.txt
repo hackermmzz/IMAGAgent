@@ -1,1 +1,0 @@
-['Add a pink tulip near the original tulip.', 'Add a green leaf near the original tulip.', 'Add a pink tulip near the original tulip.', 'Add a green leaf near the original tulip.']

@@ -1,1 +1,0 @@
-['Adjust the alignment of the multicolored cubes to form a new wave pattern.', 'Adjust the orientation of the multicolored cubes to match the new wave pattern.', 'Increase the prominence of the cubes in the forefront by adjusting their size.', 'Alter the wave curvature of the cube arrangement to correspond with the new pattern.']

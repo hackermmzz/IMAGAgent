@@ -1,1 +1,0 @@
-['Zoom in on the coastline and beaches', 'Adjust perspective to focus more on the coastline and beaches', 'Reduce the visible sky area', 'Remove the tree trunk on the right foreground']

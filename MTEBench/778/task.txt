@@ -1,1 +1,0 @@
-['Remove the rocky beach.', 'Change the sea to a broad view of blue sea.', 'Add a lush green hillside.', 'Add clear skies dotted with white clouds.', 'Change the perspective from close-up to panoramic.']

@@ -1,1 +1,0 @@
-['Adjust the position of the man to be facing slightly further from the camera.', 'Replace the tree with another tree and adjust its position.', 'Replace the background objects with more greenery.', 'Add a metal frame structure.']

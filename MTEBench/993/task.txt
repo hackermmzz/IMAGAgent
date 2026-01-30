@@ -1,1 +1,0 @@
-['Add sunglasses to the person with short hair', 'Reposition the character in the white shirt so char2 is not visible', 'Add a camera to char3', 'Add a visible wristwatch to the raised arm', 'Add cameras to the people in the scene']

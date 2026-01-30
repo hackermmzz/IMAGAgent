@@ -1,1 +1,0 @@
-['Replace the background with a forest scene.', 'Change the lighting to neutral (remove warm sunset tones).', 'Make the birds fly low near the shore instead of being gathered on the sand.', 'Increase the visibility and intensity of the ocean waves.', 'Adjust the perspective to focus on the ocean.']

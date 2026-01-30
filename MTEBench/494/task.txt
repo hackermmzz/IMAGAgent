@@ -1,1 +1,0 @@
-['Reposition the bird to face the viewer directly with fully opened feathers', 'Enhance the feather patterns of the bird', 'Make the background less defined', 'Center the bird in the frame']

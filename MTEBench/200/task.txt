@@ -1,1 +1,0 @@
-['Reposition the larger red tomato so it is held with both hands.', 'Add two white onions in the foreground at the bottom left.', 'Adjust the stream of water to pour over the newly positioned tomato.', 'Change the viewpoint to include the bottom left foreground.']

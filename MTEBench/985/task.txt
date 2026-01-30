@@ -1,1 +1,0 @@
-['Turn off all streetlights to eliminate artificial lighting.', 'Increase the overall brightness of the image to simulate daylight conditions.', 'Adjust the color temperature of the image to a cooler tone to represent daylight.', 'Enhance the brightness of the city square to increase visibility.', 'Enhance the brightness of surrounding buildings to increase visibility.']

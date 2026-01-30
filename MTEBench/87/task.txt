@@ -1,1 +1,0 @@
-['Change the perspective to closely focus under the stone bridge arch.', 'Emphasize the stone texture of the bridge arch.', 'Add a wooden fence in the background.', 'Remove the large park setting with the tree.', 'Add greenery in the background.']

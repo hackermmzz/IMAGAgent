@@ -1,1 +1,0 @@
-['Decrease the number of greenish-blue fish', 'Decrease the number of orange fish', 'Scatter the fish more sparsely', 'Make some coral structures more prominent', 'Vary coral structure density']

@@ -1,1 +1,0 @@
-['Shift the camera angle slightly left', 'Focus more on the buildings with cafe seating', 'Reduce the prominence of the church', 'Reduce the prominence of original characters', 'Add additional pedestrian characters']

@@ -1,1 +1,0 @@
-['Zoom into the metro station entrance area.', 'Enhance the details of the structural features (arch, facade) of the metro station entrance.', 'Enhance the visibility of the station signage.', 'Adjust the lighting to maintain the night-time ambiance.']

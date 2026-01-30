@@ -1,1 +1,0 @@
-['Adjust camera angle to be more elevated', 'Shift beige building left', 'Shift teal building right', 'Reveal tree behind teal building', 'Reveal smaller structure behind teal building', 'Reduce wave prominence']

@@ -1,1 +1,0 @@
-['Change the sky to a darker night sky, reducing daylight remnants.', 'Enhance the brightness of artificial city lights to make them stand out against the dark sky.', 'Darken the ocean area to reduce its visibility.', 'Darken the buildings area to reduce their visibility.']

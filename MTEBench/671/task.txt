@@ -1,1 +1,0 @@
-['Add a banana to the clear water scene.', 'Add a kiwi to the clear water scene.', 'Add an apple to the clear water scene.', 'Add a pineapple to the clear water scene.', 'Create bubbles around the banana.', 'Create bubbles around the kiwi.', 'Create bubbles around the apple.', 'Create bubbles around the pineapple.']

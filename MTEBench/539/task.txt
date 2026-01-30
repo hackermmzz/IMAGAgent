@@ -1,1 +1,0 @@
-['Shift perspective to a close-up of the couch area', 'Remove the table', 'Remove the chairs', 'Remove the bowl of apples', 'Remove the television stand', 'Remove the chandelier']

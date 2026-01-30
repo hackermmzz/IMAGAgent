@@ -1,1 +1,0 @@
-['Remove the blue bus.', 'Add three motorbikes to the intersection.', 'Add a light brown sedan car coming from the left.', 'Add two cars to the intersection.']

@@ -1,1 +1,0 @@
-['Remove the man in the yellow shirt.', 'Remove the man in the blue shirt.', 'Remove the woman in the distance.', 'Add a man in a white traditional outfit.', 'Add a man in a blue shirt closer to the camera.', 'Replace the man in light-colored clothing with a person in red sportswear near the edge.', 'Adjust the lighting and shadowing for consistency.']

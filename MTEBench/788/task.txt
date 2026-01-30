@@ -1,1 +1,0 @@
-['Adjust the perspective to capture a wider aerial view', 'Increase the haziness of the image', 'Reduce the detail of rocks', 'Reduce the detail of trees']

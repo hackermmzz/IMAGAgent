@@ -1,1 +1,0 @@
-['Adjust perspective to show less of the tall building on the right.', 'Remove additional building elements on the right.', 'Widen the sky view to display more clouds.', 'Enlarge the central cloud in the sky.']

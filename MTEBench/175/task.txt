@@ -1,1 +1,0 @@
-['Move the airplane further down the runway.', "Change the airplane's orientation to show more side detail.", 'Make the tail logo on the airplane visible.', 'Adjust the frame to focus more on the airplane.']

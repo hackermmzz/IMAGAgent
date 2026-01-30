@@ -1,1 +1,0 @@
-['Change perspective to lower angle for closer residential houses', 'Add small utility structures and objects in foreground', 'Increase prominence of the road', 'Enhance detail of landscape area']

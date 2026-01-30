@@ -1,1 +1,0 @@
-['Adjust the camera angle to show a wider view of the coral environment.', 'Make the fish more visible in the open area.', 'Increase the variety of coral types.', 'Adjust the layout of coral formations to have larger gaps between them.']

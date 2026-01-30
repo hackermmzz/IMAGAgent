@@ -1,1 +1,0 @@
-['Adjust the camera angle to focus on the house and surrounding trees', 'Reduce the visibility of the black car', 'Reduce the visibility of the white vehicle', 'Reduce the visibility of the playground', 'Make the black car partially visible', 'Enhance the presence of the surrounding greenery']

@@ -1,1 +1,0 @@
-['Increase the size of the central leaf', 'Move the central leaf to the right', 'Add a leaf with varying size and position', 'Add a leaf with varying size and position', 'Blur a leaf for depth', 'Blur a leaf for motion']

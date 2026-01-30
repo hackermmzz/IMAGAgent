@@ -1,1 +1,0 @@
-['Seat the woman in denim shorts and a light blue shirt on the couch.', 'Add a cup to the right hand of the woman in denim shorts.', 'Add a cup to the left hand of the woman in denim shorts.', 'Add a cup to the right hand of the woman in the green top.', 'Add a cup to the left hand of the woman in the green top.', 'Make the woman in denim shorts sit and drink from her cup.']

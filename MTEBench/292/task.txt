@@ -1,1 +1,0 @@
-['Add a tall red and white windsock to the left foreground.', 'Replace the hangars with grassy fields.', 'Adjust the angle of the plane to appear further in the distance.', 'Remove the line of trees in the background.']

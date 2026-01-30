@@ -1,1 +1,0 @@
-["Move the woman's position closer to the left", 'Remove the apron from the woman', "Make the man's head oriented to the left", "Make the man's head closer to the camera", 'Remove the visible scissors', 'Add a green plant to the left side of the frame']

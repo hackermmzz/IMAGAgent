@@ -1,1 +1,0 @@
-['Shift the hand position near the ruler.', 'Remove the visibility of the bracelet.', 'Add a visible removed strip to the leather alongside the remaining piece.', 'Remove the knife from the scene.']

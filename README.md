@@ -1,8 +1,9 @@
 # IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection
-[![Paper](https://img.shields.io/badge/Paper-IJCAI2025-blue)](https://arxiv.org/abs/xxx.xxxx)
+[![Paper](https://img.shields.io/badge/Paper-IJCAI2026-blue)](https://arxiv.org/abs/xxx.xxxx)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
+[![Conda](https://img.shields.io/badge/Conda-Environment-blueviolet)](environment.yml)
 
 ## Project Overview
 IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop "plan-execute-reflect" mechanism**. It addresses three core challenges in existing multi-turn image editing: **error accumulation**, **semantic drift**, and **structural distortion**. By deeply synergizing instruction parsing, tool scheduling, and adaptive correction, IMAGAgent achieves superior performance in instruction consistency, editing precision, and overall quality for long-horizon editing tasks.
@@ -25,57 +26,37 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 - Error correction: Automatically identify and fix unintended artifacts (e.g., spurious objects, structural deformation) in tasks like "remove power sockets".
 
 ## Quick Start
-### Environment Setup
+### Environment Setup (Conda)
+This project uses a Conda environment defined in `environment.yml` for reproducible dependencies.
+
 ```bash
-# Core dependencies
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install transformers accelerate pillow opencv-python scikit-image clip diffusers
-pip install qwen-vl glm4-vl deepseek-llm  # VLMs/LLMs for planning/orchestration/reflection
-pip install groundingdino-py segment-anything  # Detection/segmentation tools
+# Clone the repository
+git clone https://github.com/hackermmzz/IMAGAgent.git
+cd IMAGAgent
+
+# Create and activate Conda environment from environment.yml
+conda env create -f environment.yml
+conda activate Edit
+
+# Verify environment installation
+conda list  # Check if all dependencies are installed correctly
 ```
+
+### Environment Details
+The `environment.yml` file includes all required dependencies (derived from Conda export), including:
+- Core libraries: Python 3.9.13, PyTorch 2.6.0, TorchVision, TorchAudio
+- Vision models/tools: Transformers, Diffusers, Segment-Anything (SAM), GroundingDINO
+- VLMs/LLMs: Qwen-VL-MAX, GLM-4.1V-9B-Thinking, SAM3, Grounding-DINO-Base, CLIP-ViT-Large-Patch14,Doubao-Seedream-4.0, Qwen-Image-Edit, Stable-Diffusion-XL-Base-1.0, Doubao-Seed-1.6-Vision, Doubao-Seed-1.6, ,DeepSeek-V3.2
 
 ### Hardware Requirements
 - GPU: NVIDIA A100 (recommended, for efficient inference)
-- Minimum: NVIDIA RTX 3090/4090 (16GB+ VRAM)
 - CPU: 16-core+ Intel/AMD processor
 - RAM: 32GB+ (for model hosting and context management)
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/IMAGAgent.git
-cd IMAGAgent
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Download pre-trained models and datasets (see Data & Models section)
-bash scripts/download_resources.sh
-```
+- CUDA: 12.4+ (compatible with PyTorch installation in environment.yml)
 
 ### Basic Usage
-```python
-from imagagent import IMAGAgent
-
-# Initialize the agent
-agent = IMAGAgent(
-    success_threshold=7.0,  # τ_sr: minimum score to pass a subtask
-    max_iterations=3        # τ_it: maximum retries per subtask
-)
-
-# Load initial image and multi-turn instructions
-initial_image = "input.jpg"
-instructions = [
-    "Remove the person from the chair",
-    "Add a cat sitting on the chair",
-    "Change the chair color to vibrant pink",
-    "Replace the background with an urban park scene",
-    "Change the image style to comic book art"
-]
-
-# Run multi-turn editing
-final_image = agent.edit(initial_image, instructions)
-final_image.save("output.jpg")
+```bash
+python run.py --img_path test.png --prompt "Have the girl in the picture strike a 'yes' pose." --dir output/
 ```
 
 ## Framework Architecture
@@ -109,48 +90,23 @@ IMAGAgent’s closed-loop pipeline consists of three core modules:
 - **CLIP-T**: Assesses cross-modal alignment between text instructions and edited images.
 
 ### Key Results
-| Dataset | Metric | SOTA Baselines (GPT-4o/OmniGen) | IMAGAgent |
+| Dataset | Metric | SOTA Baselines (OmniGen) | IMAGAgent |
 |---------|--------|---------------------------------|-----------|
-| MTEditBench (Avg 5 turns) | DINO | 0.727 | 0.766 |
-| MTEditBench (Avg 5 turns) | CLIP-I | 0.838 | 0.875 |
-| MagicBrush (Avg 3 turns) | CLIP-T | 0.275 | 0.282 |
+| MTEditBench (Avg 5 turns) | DINO | 0.671 | 0.766 |
+| MTEditBench (Avg 5 turns) | CLIP-I | 0.825 | 0.875 |
+| MagicBrush (Avg 3 turns) | CLIP-T | 0.266 | 0.282 |
 
 - IMAGAgent outperforms all baselines, with performance advantages growing as the number of editing turns increases.
 - Ablation studies confirm that closed-loop reflection, constraint-aware planning, historical context, and multi-expert collaboration are critical to performance.
 
-## Data & Models
-### Download Resources
-```bash
-# Download MTEditBench dataset (10GB)
-bash scripts/download_mteditbench.sh
-
-# Download MagicBrush dataset (8GB)
-bash scripts/download_magicbrush.sh
-
-# Download pre-trained VLMs/LLMs (requires Hugging Face access)
-bash scripts/download_models.sh
-```
-
-### Dataset Structure
-```
-data/
-├── MTEditBench/
-│   ├── sequences/  # 1000 folders of multi-turn editing sequences
-│   ├── annotations/ # Instruction and metadata JSON files
-│   └── splits/      # Train/val/test splits
-└── MagicBrush/
-    ├── images/      # Original and edited images
-    └── annotations/ # Instruction triplets
-```
-
 ## Citation
 If you use IMAGAgent or MTEditBench in your research, please cite our paper:
 ```bibtex
-@inproceedings{imagagent2025,
+@inproceedings{imagagent2026,
   title={IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection},
   author={Author Name},
   booktitle={Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
-  year={2025}
+  year={2026}
 }
 ```
 
@@ -158,8 +114,4 @@ If you use IMAGAgent or MTEditBench in your research, please cite our paper:
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please reach out to [email@example.com].
-
----
-
-Would you like me to refine any section (e.g., add more code examples, expand the experiment details, or optimize the installation instructions)? I can also help generate a `requirements.txt` file or additional bash scripts for resource downloading.
+For questions or feedback, please reach out to [2049983474@qq.com].

@@ -1,1 +1,0 @@
-["Change the snowmobile's view to a close-up side view.", 'Add an orange design to the snowmobile.', 'Add a number to the snowmobile.', 'Add snow obscuring parts of the snowmobile.']

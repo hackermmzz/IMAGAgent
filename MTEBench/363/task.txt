@@ -1,1 +1,0 @@
-['Change the color of the golden dome to silver.', 'Add a flag on top of the dome.', 'Replace the sky with a clear blue sky.', 'Remove the building with the red roof near the center.', 'Change the color of the trees to green.']

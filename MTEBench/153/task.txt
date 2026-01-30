@@ -1,1 +1,0 @@
-['Alter the perspective angle slightly.', 'Reduce the visibility of the snow on the ramp.', 'Adjust the emphasis on the flags.', 'Adjust the emphasis on the background.']

@@ -1,1 +1,0 @@
-['Change the perspective to a closer highway underpass view.', "Add new road signs indicating 'East 4th St'.", 'Remove all palm trees from the image.', 'Replace the visible buildings with buildings matching an underpass scene.']

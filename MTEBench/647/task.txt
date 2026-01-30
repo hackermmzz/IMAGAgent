@@ -1,1 +1,0 @@
-['Rotate the beef steak slightly clockwise', "Move tomato slices to the plate's top-left corner", 'Move the whole red chili pepper below its halved counterpart', 'Adjust lettuce leaf slightly downward under the steak', 'Centralize garlic cloves towards the middle left', 'Space the parsley to the left']

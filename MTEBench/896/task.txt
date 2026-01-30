@@ -1,1 +1,0 @@
-['Increase the amount of smoke.', 'Add two firefighters to the roof area.', 'Add one firefighter on the ground spraying water with a hose.', 'Extend the observable area of the building to reveal more structure.']

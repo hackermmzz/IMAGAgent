@@ -1,1 +1,0 @@
-["Change the woman's position to walking toward a stairway.", "Turn the woman's head to the left.", "Make the woman's right hand adjust her hair.", 'Adjust the brightness to make it brighter.', 'Move the bag strap over her shoulder.']

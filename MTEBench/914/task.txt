@@ -1,1 +1,0 @@
-['Lower the sun position on the horizon', 'Enhance the shadows in the image', 'Extend the lens flare and halo effect', 'Make the sky darker', 'Add more clouds', 'Emphasize the silhouettes of the thorny branches against the sky']

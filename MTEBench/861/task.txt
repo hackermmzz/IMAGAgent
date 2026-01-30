@@ -1,1 +1,0 @@
-["Add a person's legs wearing white socks and dark jeans.", 'Replace the backpack with a white sneaker.', 'Remove the bitten apple.', 'Add a pair of wine glasses.', 'Add a green beer bottle.', 'Add a plate with salad remnants.', 'Add a black hanger.', 'Add a light-colored rug.', 'Adjust the layout of clothing to fit the new composition.']

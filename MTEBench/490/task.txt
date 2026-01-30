@@ -1,1 +1,0 @@
-['Reduce the number of bubbles.', 'Make the scuba diver with oxygen tank face upwards.', 'Improve visibility and clarity of the underwater environment.', 'Improve visibility and clarity of ice formations in the background.']

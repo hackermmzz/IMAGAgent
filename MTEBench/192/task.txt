@@ -1,1 +1,0 @@
-["Move the first hamburger from the wooden board to the man's hand", "Move the second hamburger from the wooden board to the woman's hand", "Change the first hamburger to half-eaten while in the man's hand", 'Have the woman sip her beer while holding a hamburger in her other hand']

@@ -1,1 +1,0 @@
-['Zoom in on mozzarella cheese', 'Show partial tomato near mozzarella', 'Show partial olive near mozzarella', 'Show partial bread near mozzarella', 'Remove cucumber slices', 'Remove green herbs']

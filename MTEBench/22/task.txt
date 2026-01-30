@@ -1,1 +1,0 @@
-['Change the focus of the image to the woman holding a piece of pizza', 'Make the greenery in the background more prominent', 'Remove the pizza from the view', 'Remove the beer from the view', 'Remove the smartphone from the view', 'Remove the cutlery from the view']

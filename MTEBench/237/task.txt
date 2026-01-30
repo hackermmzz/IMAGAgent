@@ -1,1 +1,0 @@
-['Remove the person wearing a white shirt and carrying a backpack from the courtyard', 'Change the camera angle to focus on the architectural rock formations', 'Change the attire of the person in the black suit', 'Change the orientation of the person in the black suit', 'Adjust the lighting to a brighter midday appearance']

@@ -1,1 +1,0 @@
-['Replace the white sports car with a bus and a truck', 'Add a tow truck to the left lane', 'Add a red sedan in the center', 'Increase the number of pedestrians and reposition them', 'Remove black cars in a line', 'Replace the removed black cars with different models', 'Add more cars to increase traffic density']

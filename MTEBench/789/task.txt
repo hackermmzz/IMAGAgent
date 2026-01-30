@@ -1,1 +1,0 @@
-['Shift the perspective to extend the view on the right', 'Remove the cathedral from the background', 'Add tall green trees along the riverbank', 'Extend the river further to the right', 'Add greenery along the riverbank', 'Add reflection on the water']

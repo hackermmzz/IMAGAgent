@@ -1,1 +1,0 @@
-['Remove the woman from the image.', 'Remove the black car from the image.', 'Change the perspective to show an angled view of the ornate building.', 'Add more cars parked along the path.', 'Slightly alter the positions of the trees.']

@@ -1,1 +1,0 @@
-['Add a motorbike on the left side of the image.', 'Add a pedestrian on the left side of the image.', 'Slightly change the position of the orange truck.', 'Slightly change the position of the blue container truck.', 'Add a pedestrian on the left side wearing a blue shirt.', 'Add a person on a motorbike.']

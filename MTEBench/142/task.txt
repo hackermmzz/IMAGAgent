@@ -1,1 +1,0 @@
-['Move the white van slightly forward.', 'Move the red car slightly forward.', 'Shift the position of the colorful tour bus slightly down the road.', 'Gradually advance the group of pedestrians along the sidewalk on the left.']

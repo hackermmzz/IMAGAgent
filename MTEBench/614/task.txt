@@ -1,1 +1,0 @@
-['Remove the vehicle carrier from the road', 'Add bright illuminated lights lining the road in the distance', 'Adjust the colors of the sky to be more vibrant', 'Remove the distant car from the road']

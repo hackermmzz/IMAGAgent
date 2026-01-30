@@ -1,1 +1,0 @@
-['Adjust the angle of the boat to reflect a slight shift in position.', 'Modify the lighting to create shadows and reflections on the deck and railings.', 'Change the shadow on the deck to match the new boat position and lighting.', 'Adjust the reflection on the railings to correspond with the new lighting conditions.']

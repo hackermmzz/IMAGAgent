@@ -1,1 +1,0 @@
-['Reduce the intensity of smoke from the tall red and white chimney.', 'Adjust the position of smoke from the tall red and white chimney to be more dispersed.', 'Reduce the intensity of smoke from the middle chimney.', 'Adjust the position of smoke from the middle chimney to be more dispersed.']

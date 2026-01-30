@@ -1,1 +1,0 @@
-['Change the pants of the person wearing brown pants to blue', 'Add a black bag to the person', 'Add a colorful bag to the person', 'Add a person with dark pants and blue high heels', 'Add a person with bare legs and black sandals', 'Remove the shopping cart']

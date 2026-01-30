@@ -1,1 +1,0 @@
-["Adjust the sky's color to a deeper orange and purple hue.", 'Make the water darker.', 'Enhance the definition of the clouds to make them more distinct.', 'Slightly reposition the airplane to show movement.']

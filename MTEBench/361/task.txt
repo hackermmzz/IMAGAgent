@@ -1,1 +1,0 @@
-['Remove the large striped umbrella from the foreground.', 'Adjust the camera shot to capture the entire backyard including the pool, trees, and house.', 'Add pathways to the backyard.', 'Add a stone structure to the backyard.', 'Add a chimney to the house.', 'Add a hanging flower pot near the door.']

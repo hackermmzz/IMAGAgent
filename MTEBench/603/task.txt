@@ -1,1 +1,0 @@
-['Remove the red tent', 'Remove the white van', 'Add a red vintage car', 'Add a white vintage car', 'Increase the number of people viewing the cars', 'Rearrange the boxes and items on the tarp', "Adjust the scene's focus to vintage cars on a green grassy field with natural scenic background"]

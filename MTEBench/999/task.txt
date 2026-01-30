@@ -1,1 +1,0 @@
-['Replace the orange sedan with a black car.', 'Replace the orange sedan with a white SUV.', 'Adjust the position of the black car to reflect movement.', 'Adjust the position of the white SUV to reflect movement.']

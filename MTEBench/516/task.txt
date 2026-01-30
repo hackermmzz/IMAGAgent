@@ -1,1 +1,0 @@
-['Reposition the ornaments to a new arrangement.', "Adjust the ribbons' position and length.", 'Add a bright light source in the upper right corner to create a glow.', 'Decrease the bokeh effects in the background.']

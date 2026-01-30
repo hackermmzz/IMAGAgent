@@ -1,1 +1,0 @@
-["Change the color of the diver's mask to blue.", 'Change the color of the anemone to green.', 'Add bubbles around the diver.', 'Remove the coral in the background.', 'Replace the background with a sunset scene.']

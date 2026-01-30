@@ -1,1 +1,0 @@
-['Remove the medical syringe', 'Reposition the eggs closer together', 'Reposition the pills closer together', 'Adjust the camera angle', 'Focus on the prominent egg']

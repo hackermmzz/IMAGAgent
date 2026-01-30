@@ -1,1 +1,0 @@
-['Move the blue icing donut with rainbow sprinkles to the foreground.', 'Change the sprinkles on the yellow icing donut to heart-shaped and white.', 'Move the pink icing donut to the foreground.', 'Add brown sprinkles to the pink icing donut.']

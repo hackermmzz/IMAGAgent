@@ -1,1 +1,0 @@
-['Add a snowman wearing a red hat to the snowy landscape', 'Add a second snowman wearing a red hat next to the first snowman', 'Add a third snowman wearing a red hat next to the second snowman', 'Add a fourth snowman wearing a red hat next to the third snowman']

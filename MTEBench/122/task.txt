@@ -1,1 +1,0 @@
-["Remove the jar from the cashier's hand", 'Add a bunch of oranges onto the conveyor belt', 'Add a lemon onto the conveyor belt', 'Adjust the bananas slightly']

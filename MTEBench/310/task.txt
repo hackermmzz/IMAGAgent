@@ -1,1 +1,0 @@
-['Align the fish ponds to be more uniform in shape and spacing.', 'Add a building in the background area.', 'Add a concrete path along the right side of the image.', "Reduce the prominence of the blue machine at the pond's edge."]

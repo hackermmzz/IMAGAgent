@@ -1,1 +1,0 @@
-['Remove the bus and other vehicles from the road.', 'Remove the overpass structure.', 'Transform the road into an open highway.', 'Replace the adjacent tall buildings with distant skyscrapers.']

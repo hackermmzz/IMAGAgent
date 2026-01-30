@@ -1,1 +1,0 @@
-['Adjust the position of the obscured individual to make them more visible.', 'Make the clothing details of the obscured individual clear.', 'Make the obscured individual actively engaged with a pen.', 'Add a cup on the table near the gray-shirted individual.']

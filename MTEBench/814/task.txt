@@ -1,1 +1,0 @@
-['Reposition the black car behind a light-colored car', 'Add two people walking on the left sidewalk', 'Remove the tall historic buildings on the side', 'Replace the tall historic buildings with a distant tower and a railing on the left side', 'Add a traffic light to the street', 'Modify the street layout to be open']

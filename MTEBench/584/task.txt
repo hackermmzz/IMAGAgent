@@ -1,1 +1,0 @@
-['Increase the size of the ice piece.', 'Adjust the position of the ice piece to the center right.', 'Add sharp edges to the ice piece.', 'Add transparency to the ice piece.']

@@ -1,1 +1,0 @@
-['Change the grilled beef steak into fresh-looking sliced meat.', 'Replace the grilled mushroom with a piece of tomato.', 'Decorate the meat with fresh herbs.', 'Add sauce-covered food next to the meat.', 'Change the angle to show a more garnished dish presentation.']

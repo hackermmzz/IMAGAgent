@@ -1,1 +1,0 @@
-['Change the color of the gray bowl to red.', 'Add a green plate next to the existing plates.', 'Remove the white cup on the left.', 'Replace the orange plate with a purple plate.']

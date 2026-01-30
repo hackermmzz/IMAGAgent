@@ -1,1 +1,0 @@
-['Remove the person in the red hat feeding the elephant.', 'Remove the person in the striped shirt feeding the elephant.', 'Remove the person on the right feeding the elephant.', 'Make the elephant face forward.', "Add decorative paint on the elephant's face."]

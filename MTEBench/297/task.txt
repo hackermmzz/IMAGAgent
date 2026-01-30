@@ -1,1 +1,0 @@
-['Move the basket of toys to the left', 'Bring the red toy teapot closer to the porridge bowl', 'Remove the apple-like object from the table', 'Remove the stone from the table', 'Brighten the overall lighting', 'Adjust the camera view to show more of the child from the front']

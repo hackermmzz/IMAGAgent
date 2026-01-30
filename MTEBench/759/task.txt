@@ -1,1 +1,0 @@
-['Adjust the angle of the image slightly to the right.', 'Move the red hot pepper to the right position on the glass table.', 'Enhance the shine of the glass table for better reflection effect.', 'Adjust the background blur to keep the tomatoes blurry.']

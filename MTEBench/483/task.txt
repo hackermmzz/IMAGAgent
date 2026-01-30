@@ -1,1 +1,0 @@
-['Reposition the person in a red shirt and jeans further down the right aisle slightly ahead.', 'Disperse the group of people on the left.', 'Relocate the person in an orange shirt further down the aisle.', 'Reposition the person in a black shirt further along the barrier on the right.']

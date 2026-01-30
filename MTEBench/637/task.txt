@@ -1,1 +1,0 @@
-['Shift the camera angle slightly to the left to include more of the left side of the scene', 'Rearrange the tools to appear denser and clustered', 'Add lotion bottles to the scene', 'Remove the blue-handled tools from the scene']

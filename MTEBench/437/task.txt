@@ -1,1 +1,0 @@
-['Remove the man on the bicycle.', 'Make the yellow taxi appear moving.', 'Add multiple other cars on the street.', 'Alter the storefront design for more diverse signs.']

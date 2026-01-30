@@ -1,1 +1,0 @@
-['Add a rider on a dirt bike to the left of the foreground rider.', 'Add a rider on a dirt bike to the right of the foreground rider.', 'Add a dirt bike next to the existing bikes.', 'Reposition the riders into a straight line along the track.', 'Add a third dirt bike next to the existing bikes.', 'Adjust the posture of all riders to be stationary.']

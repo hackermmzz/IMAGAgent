@@ -1,1 +1,0 @@
-['Adjust the focus to show a wider interior view of the station, excluding the digital board.', 'Add tourists admiring the azulejos in the station interior.', 'Add tall green doors as architectural details in the station.', 'Increase the lighting intensity to make it more vivid in the station interior.']

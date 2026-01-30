@@ -1,1 +1,0 @@
-['Remove the visible sun from the sky.', "Change the sky's color to deeper blue tones.", "Change the clouds' color to red-tinged.", "Adjust the sky's brightness to a darker evening tone."]

@@ -1,1 +1,0 @@
-['Change the camera angle slightly leftward.', 'Replace the boy in the yellow knitted hat with a girl in a white knitted hat.', 'Adjust the crowd layout.', 'Change the banners to match the second frame.']

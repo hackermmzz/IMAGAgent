@@ -1,1 +1,0 @@
-['Remove several small buildings.', 'Add a large wooden building with a spire in the center.', 'Remove the dirt path.', 'Rearrange the layout to focus on the large wooden building with a spire.']

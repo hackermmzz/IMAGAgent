@@ -1,1 +1,0 @@
-['Remove the shadows of the lower legs', 'Add a person carrying a bag farther along the crosswalk', 'Add additional people in the background near a grassy area', 'Add visible cityscape features (such as buildings or street signs) in the distance', 'Extend the crosswalk scene to include a broader view area']

@@ -1,1 +1,0 @@
-['Remove the man from the image.', 'Remove the large brick building from the image.', 'Remove the signboard from the image.', 'Remove the bazaar area from the image.', 'Adjust the focus to the minaret.', 'Change the composition to show only the minaret.', 'Add a clear sky with a visible crescent moon behind the minaret.']

@@ -1,1 +1,0 @@
-['Remove the decorative sofa.', 'Remove the swings.', 'Add white chairs with red sashes in rows.', 'Scatter flower petals on the sand.', 'Alter lighting to emphasize the chairs and petals.']

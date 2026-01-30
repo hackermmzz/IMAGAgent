@@ -1,1 +1,0 @@
-["Add a snorkeling mask to the woman's face", "Reduce the brightness around the woman's head", "Remove bubbles around the woman's head", 'Enhance the underwater clarity']

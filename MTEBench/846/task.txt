@@ -1,1 +1,0 @@
-['Increase the intensity of the main sparkler.', 'Increase the density of sparks in the main sparkler.', 'Extend the sparks of the main sparkler further from the center.', 'Increase the intensity of the smaller sparkler.', 'Increase the density of sparks in the smaller sparkler.']

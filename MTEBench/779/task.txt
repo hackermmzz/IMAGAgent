@@ -1,1 +1,0 @@
-['Shift camera perspective to the right for wider waterfront view', 'Remove the black car', 'Add another lamp post', 'Reveal pedestrian walkway with bare trees', 'Add two people walking']

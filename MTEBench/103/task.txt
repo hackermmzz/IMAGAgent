@@ -1,1 +1,0 @@
-['Reduce the number of visible steak slices by removing some slices.', 'Alter the layout of the steak slices to a new arrangement.', 'Increase the visibility of the wooden board in the image.', 'Reveal part of a granite-patterned surface in the background.']

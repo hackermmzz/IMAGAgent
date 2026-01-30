@@ -1,1 +1,0 @@
-["Change the man's position to reach out to the side.", 'Remove the laptop from the desk.', 'Remove the pink mug from the desk.', 'Add a black mouse to the desk.', 'Add an orange hard hat to the desk.', 'Adjust the position of the blue mug on the desk.', 'Adjust the position of the documents on the desk.']

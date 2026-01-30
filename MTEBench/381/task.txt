@@ -1,1 +1,0 @@
-["Zoom in on the couple's upper bodies.", 'Reposition the man to lean towards the woman with his arm around her.', "Adjust the woman's position so her head rests on his chest.", 'Add red pillows under the couple.']

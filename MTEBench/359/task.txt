@@ -1,1 +1,0 @@
-['Adjust the framing to include more of the room', 'Add a large window to the room', 'Add a black chair to the room', 'Add part of another chair to the right', 'Increase the lighting to reflect daylight through the window', "Include more of the ballerina's torso"]

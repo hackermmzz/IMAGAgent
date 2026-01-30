@@ -1,1 +1,0 @@
-['Add a baking tray with a silicone mat and nine coconut cookies to the left of the cooling rack.', 'Add an offset spatula to the right of the cooling rack.', 'Remove two coconut cookies from the cooling rack to make the total nine.', 'Expand the scene to include the new objects.']

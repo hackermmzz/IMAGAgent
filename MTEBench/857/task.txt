@@ -1,1 +1,0 @@
-['Move the man to face the table', 'Remove the backpack from the man', 'Add sunglasses to the man', "Add a cream-colored scarf over the man's shoulders", 'Move the woman nearer to the table facing the man', 'Add a wine glass on the table']

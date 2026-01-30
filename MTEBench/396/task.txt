@@ -1,1 +1,0 @@
-['adjust the lighting to transition from sunset to dusk', 'remove the bright sunlight glare from the left side', 'add clouds to the sky', "change the sky's color to twilight hue", 'increase the number of sailboats in the river', 'give the scene a cooler nighttime appearance']

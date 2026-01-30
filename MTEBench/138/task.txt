@@ -1,1 +1,0 @@
-['Adjust the camera angle to capture more of the river centrally.', 'Reveal more of the background mountains.', 'Adjust the frame to include more sky.', 'Expand the landscape view.']

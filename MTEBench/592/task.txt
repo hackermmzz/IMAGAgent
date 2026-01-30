@@ -1,1 +1,0 @@
-["Change the woman's light-colored jacket to a grey wool sweater.", 'Replace the plate of Nordic cuisine with a bowl containing another dish.', 'Remove the glass of white wine.', 'Add a drinking glass with a red-colored beverage.', 'Add a napkin to the table.']

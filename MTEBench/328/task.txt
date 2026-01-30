@@ -1,1 +1,0 @@
-['Enlarge the scene to show a wider view of the stream', 'Add more surrounding rocks to the scene', 'Add overhanging branches above the stream', 'Enhance the shading in the scene', 'Distribute the pebbles more broadly across the scene']

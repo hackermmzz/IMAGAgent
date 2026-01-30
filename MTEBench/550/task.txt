@@ -1,1 +1,0 @@
-['Remove most workers', 'Make the few remaining workers seated or crouching', 'Complete the concrete floor', 'Remove the concrete pump', 'Adjust lighting to early evening ambiance', 'Reduce visible tools', 'Shift to a calmer, more finished construction scene']

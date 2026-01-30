@@ -1,1 +1,0 @@
-['Remove the black padded armrest.', 'Remove the heartbeat sensor.', 'Add a ceiling-mounted surgical light.', 'Adjust the perspective to look upward, showing the white walls or ceiling of the operating room.']

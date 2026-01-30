@@ -1,1 +1,0 @@
-['Adjust the camera angle to be slightly higher.', 'Increase the visible area of the cliff.', 'Make the sky partially visible.', 'Make the ocean partially visible.']

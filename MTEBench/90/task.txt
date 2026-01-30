@@ -1,1 +1,0 @@
-['Shift the positions of the geometric elements slightly.', 'Shift the shapes of the geometric elements slightly.', "Enhance the fluidity of the geometric elements' arrangement.", 'Improve the arrangement of the geometric elements.']

@@ -1,1 +1,0 @@
-["Change the man's action from typing on the laptop to talking on a cell phone.", 'Remove the laptop from the desk.', 'Add an orange construction helmet on the desk.', 'Add a pen holder on the desk.']

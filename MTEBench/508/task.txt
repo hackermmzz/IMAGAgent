@@ -1,1 +1,0 @@
-['Move the foreground sailboat to the right.', 'Enlarge the foreground sailboat slightly.', 'Remove the midground sailboat (second from left).', 'Move the background sailboat closer to the viewer.']

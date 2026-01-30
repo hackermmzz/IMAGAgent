@@ -1,1 +1,0 @@
-['Rotate the camera angle to make the baby and woman face each other.', "Turn the baby's face towards the woman.", 'Enhance the visibility of the pink hood details.', 'De-emphasize the background.']

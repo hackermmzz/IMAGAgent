@@ -1,1 +1,0 @@
-['add a man with a white cap at the bottom of the right escalator', 'add a man in a dark jacket on the right escalator', 'add a girl in pink on the right escalator', 'remove the bald man from the right escalator', 'remove the woman with the red suitcase from the right escalator', 'enhance lighting for clarity']

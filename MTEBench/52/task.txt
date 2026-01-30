@@ -1,1 +1,0 @@
-['Adjust the angle of the decorative tassel.', 'Adjust the focus of the decorative tassel.', 'Modify the depth of field to match the second frame.', 'Slightly change the background blurriness.', 'Slightly adjust the tassel positioning.']

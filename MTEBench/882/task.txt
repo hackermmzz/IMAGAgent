@@ -1,1 +1,0 @@
-['Adjust the position of the left yellow sword symbol.', 'Adjust the position of the middle yellow sword symbol.', 'Adjust the position of the right yellow sword symbol.', 'Adjust the fabric fold near the left yellow sword symbol.', 'Adjust the fabric fold near the middle yellow sword symbol.', 'Adjust the fabric fold near the right yellow sword symbol.']

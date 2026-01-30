@@ -1,1 +1,0 @@
-['Add pink mousse to the desserts', 'Replace the square dessert cups with round cups', 'Add citrus slices to the desserts', 'Add currants to the desserts']

@@ -1,1 +1,0 @@
-['Move the brown puppy to the left.', 'Shift the black and tan puppy towards the center and reorient it slightly left.', 'Make the brown puppy stand and face left.', 'Change the rightmost brown puppy to a black and tan puppy.']

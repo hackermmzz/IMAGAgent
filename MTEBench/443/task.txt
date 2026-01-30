@@ -1,1 +1,0 @@
-['Change perspective to a close-up view of the rock formation', "Modify the rock formation's texture to be smooth", 'Change the color of the rock formation to light brownish-orange', 'Remove shadows from the rock formation', 'Emphasize the rock texture of the rock formation']

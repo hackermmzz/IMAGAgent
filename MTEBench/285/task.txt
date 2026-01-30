@@ -1,1 +1,0 @@
-['Reposition the tractor slightly to the right.', 'Reposition the tractor further into the background.', "Adjust the image's perspective to shift the visual focus to the right.", 'Align all elements to maintain realistic proportions.']

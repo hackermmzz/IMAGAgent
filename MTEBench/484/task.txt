@@ -1,1 +1,0 @@
-['Change the color of the mushrooms to red.', 'Add a butterfly near the mushrooms.', 'Remove the fallen branch in the background.', 'Change the ground vegetation to grass.']

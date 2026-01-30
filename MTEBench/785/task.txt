@@ -1,1 +1,0 @@
-['Adjust perspective to shift from left to right.', 'Increase visibility of the riverbank.', 'Modify the view under the stone bridge.', 'Adjust sunlight effects under the stone bridge.']

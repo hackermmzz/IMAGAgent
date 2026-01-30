@@ -1,1 +1,0 @@
-['Zoom in on the corner of the orange building.', 'Change the window shutters of the orange building to black.', 'Change the wall color of the corner of the orange building to a deeper orange.', 'Add a house number to the corner of the pink building.', 'Change the wall color of the corner of the pink building to a lighter pink.']

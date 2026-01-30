@@ -1,1 +1,0 @@
-['Remove cupcakes', 'Remove bunny cookies', 'Replace the painted eggs with a plate of colored eggs', 'Add a chalkboard sign', 'Add napkins', 'Rearrange elements to organize the Easter theme']

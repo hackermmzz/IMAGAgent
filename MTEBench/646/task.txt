@@ -1,1 +1,0 @@
-["Adjust the man's posture to a more upright position.", "Adjust the woman's posture to a more upright position.", 'Brighten the lighting near the bedside lamp.', 'Adjust the ambient light to make the atmosphere slightly brighter.']

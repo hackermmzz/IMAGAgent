@@ -1,1 +1,0 @@
-['Change perspective to high-altitude, vertically oriented view focusing on streets and artworks', 'Add scattered art features to foreground areas', 'Add a pink sculpture to foreground areas', 'Reduce house scale visibility', 'Enhance road art details']

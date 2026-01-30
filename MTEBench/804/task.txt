@@ -1,1 +1,0 @@
-['Remove the woman from the scene.', 'Remove the umbrella from the scene.', 'Remove the handbag from the scene.', 'Apply a blur effect to the entire scene.']

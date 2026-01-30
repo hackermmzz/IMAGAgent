@@ -1,1 +1,0 @@
-['Emphasize the intricate inlaid design of the marble floor', 'Add an altar at the end of the room', 'Remove the visibility of high windows', 'Remove the ceiling decorations']

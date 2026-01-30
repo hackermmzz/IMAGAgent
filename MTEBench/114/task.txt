@@ -1,1 +1,0 @@
-['Reveal the upper torso of the boy in the foreground.', 'Make the boy in the foreground walk to the left.', 'Add multiple boys playing in the background.', 'Remove the football and wooden stick from view.']

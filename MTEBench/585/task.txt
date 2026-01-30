@@ -1,1 +1,0 @@
-['Change the color of the shirt to red', 'Make the person hold a tablet', 'Change the background to a forest', 'Add a briefcase', 'Delete the belt', 'Replace the phone with a smartwatch']

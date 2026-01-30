@@ -1,1 +1,0 @@
-['Reposition the prominent hydrangea cluster closer to the center.', 'Reposition the smaller hydrangea cluster on the left closer to the center.', 'Reposition the smaller hydrangea cluster on the bottom left closer to the center.', 'Reposition the smaller hydrangea cluster on the right closer to the center.', 'Adjust the color of the leaves to make them more vivid.']

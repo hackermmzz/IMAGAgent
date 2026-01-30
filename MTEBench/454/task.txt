@@ -1,1 +1,0 @@
-['Remove the river from the image.', 'Remove the distant mountain areas from the image.', 'Zoom in on the agricultural fields to show detailed rows and paths.', 'Enhance the details of the rows and paths in the agricultural fields.']

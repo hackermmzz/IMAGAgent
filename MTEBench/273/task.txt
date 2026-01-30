@@ -1,1 +1,0 @@
-['Remove the bird in the bottom left position.', 'Remove the bird in the bottom right position.', 'Move the remaining two birds higher.', 'Space the remaining two birds apart.', 'Change the sky to a clear sky.', 'Reduce the number of visible trees in the bottom area.', 'Enhance the brightness and contrast of the image.']

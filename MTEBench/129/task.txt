@@ -1,1 +1,0 @@
-["Remove the wave's crest", 'Change the color of the water to a muted greenish-blue', 'Change the color of the sky to a muted greenish-blue', 'Adjust the lighting to create a submerged atmosphere']

@@ -1,1 +1,0 @@
-['Remove the bridge', 'Remove the river', 'Crop the image to emphasize the red-roofed cityscape', 'Adjust the perspective to provide a broader overview of the city buildings', "Change the sky's tone to a dusky sky"]

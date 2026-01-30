@@ -1,1 +1,0 @@
-['Increase the number of egg-washed dough balls by 2', 'Reduce the number of plain dough balls by 2', 'Slightly blur the background', "Adjust the baking sheet's orientation to be more straight"]

@@ -1,1 +1,0 @@
-["Adjust the man's position to be higher up the rope.", 'Make the man use both arms and legs for climbing.', 'Change the camera perspective to a more upward angle.', 'Modify lighting to reduce backlight and reveal ceiling tiles.']

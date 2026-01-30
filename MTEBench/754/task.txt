@@ -1,1 +1,0 @@
-['Change the perspective to a distant aerial view with rolling hills as the main focus, making the waterfall a smaller background element.', 'Add open grassy areas on the hills.', 'Add a winding river in the scene.', 'Add visible paths on the rolling hills.']

@@ -1,1 +1,0 @@
-['Reduce the density of the clouds in the sky.', 'Modify the texture of the clouds to be softer.', 'Increase the open sky area by reducing cloud coverage.', 'Adjust the color of the clouds to softer hues.']

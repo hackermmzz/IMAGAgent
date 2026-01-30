@@ -1,1 +1,0 @@
-['Replace the fishing boat with a different blue and white boat.', 'Remove the nets.', 'Add a new railing.', 'Expand the view to show mountains and additional buildings in the background.', 'Change the camera perspective to a wider angle.']

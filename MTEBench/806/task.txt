@@ -1,1 +1,0 @@
-['Reorient the cat from side profile to face forward.', "Adjust the cat's gaze to look directly at the camera.", "Make the cat's eyes more pronounced.", "Enhance the distinctness of the cat's fur patterns."]

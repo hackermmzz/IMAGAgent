@@ -1,1 +1,0 @@
-['Add purple grapes', 'Add red apples', 'Add yellow apples', 'Add kiwi', 'Add pomegranate', 'Adjust fruit arrangement', 'Change background to a light-textured surface']

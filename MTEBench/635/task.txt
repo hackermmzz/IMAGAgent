@@ -1,1 +1,0 @@
-["Reposition the central dandelion to match the second frame's arrangement.", "Reposition the left-side dandelion to match the second frame's arrangement.", "Reposition the right-side dandelion to match the second frame's arrangement.", "Adjust the alignment of foreground grass elements to match the second frame's arrangement."]

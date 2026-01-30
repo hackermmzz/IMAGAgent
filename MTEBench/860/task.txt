@@ -1,1 +1,0 @@
-['Replace the young man in the pink shirt with a tall man in a dark floral shirt.', 'Add a woman holding a white paper near the center.', 'Add a man wearing a red-trimmed sleeveless top with a cap.', 'Add a motorbike being pushed by someone in the background.']

@@ -1,1 +1,0 @@
-['Remove the kiteboarder with the red kite.', 'Remove the kiteboarder with the multicolored kite.', 'Remove the kiteboarder with the black and white kite.', 'Remove the kiteboarder with the red-yellow kite.', 'Ensure only one kiteboarder with a blue kite remains, with other kiteboarders having no kites.']

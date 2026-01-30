@@ -1,1 +1,0 @@
-['Add a black car moving away on the road.', 'Add wet reflective road surfaces to the road.', 'Add traffic cones on the road.', 'Enhance the background to have more prominent tree lines and greenery.']

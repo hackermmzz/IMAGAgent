@@ -1,1 +1,0 @@
-['Remove the child in the black cloak from the scene.', 'Remove the child in the blue dress from the scene.', "Remove the witch hat from the woman's hand.", "Remove the orange bag from the woman's hand.", "Position the woman's hand to rest on the doorframe."]

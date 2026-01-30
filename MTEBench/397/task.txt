@@ -1,1 +1,0 @@
-['Zoom in on the image', 'Apply blur effect to the image', 'Focus the image on the olive paste and machinery', 'Increase the motion blur effect on the olive paste and machinery']

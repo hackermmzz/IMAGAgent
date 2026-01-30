@@ -1,1 +1,0 @@
-["Move the platter with the roasted chicken from the woman's hands to the table", 'Add a plate of pasta on the table', 'Add a loaf of bread on the table', 'Add a bottle of beverage on the table', 'Add a child sitting at the table', 'Focus the scene on the entire table setting']

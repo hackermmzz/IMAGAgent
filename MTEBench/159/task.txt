@@ -1,1 +1,0 @@
-['Shift the horse-drawn carriage towards the center-left.', 'Replace the man in blue with a blurred man in a floral shirt at left.', 'Reposition the group of three women.', 'Slightly angle the traffic light differently.', 'Remove the man near the photographer woman.']

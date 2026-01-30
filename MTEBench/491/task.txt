@@ -1,1 +1,0 @@
-['Add a person wearing a white shirt and striped apron into the scene, holding a carrot above a basket of vegetables.', 'Remove the chalkboard sign.', 'Remove the extra baskets.', 'Adjust the focus to emphasize the person and the basket, leaving a natural, slightly blurred background.']

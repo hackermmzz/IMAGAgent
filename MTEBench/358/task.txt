@@ -1,1 +1,0 @@
-['Increase the density of trees and foliage along the left roadside.', 'Maintain motion blur effect on the image.', 'Enhance clarity of the image.', 'Transform the open field environment on the left roadside to a tree-enclosed road environment.']

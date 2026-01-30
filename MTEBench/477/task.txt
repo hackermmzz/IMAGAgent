@@ -1,1 +1,0 @@
-['Change the camera angle to focus on the people walking along the promenade.', 'Adjust the perspective to shift focus away from the Opera House towards the city.', 'Ensure the skyline is visible in the scene.', 'Ensure the ferry is visible in the scene.']

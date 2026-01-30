@@ -1,1 +1,0 @@
-['Adjust focus to include more office details and typewriter', 'Make the typewriter more prominent', 'Place a beige rotary phone on the desk', 'Reduce the stack of paperwork', 'Slightly adjust the view of the clock', 'Include more of the person’s hand typing on the typewriter']

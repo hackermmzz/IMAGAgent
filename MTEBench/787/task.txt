@@ -1,1 +1,0 @@
-['Remove the sunglasses from the woman.', "Change the woman's orientation to slightly face the camera.", 'Remove the black bag from her left hand.', "Adjust the woman's position closer to the building's wall.", 'Remove the bushes from the bottom of the image.']

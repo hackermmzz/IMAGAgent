@@ -1,1 +1,0 @@
-['Expand the image to show more surrounding buildings on the same street', 'Add a green building on the right side of the image', 'Add a pink building on the right side of the image', 'Extend the line of potted plants along the newly visible buildings']

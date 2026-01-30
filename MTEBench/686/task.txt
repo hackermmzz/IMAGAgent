@@ -1,1 +1,0 @@
-['Adjust the lighting to brighten the atmosphere.', 'Change the camera angle to include more of the landscape.', 'Enhance the details of the sea.', 'Enhance the details of the sky.']

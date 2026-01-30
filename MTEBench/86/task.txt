@@ -1,1 +1,0 @@
-['Change the color of the fabric stacks from grey to blue.', 'Increase the size of the fabric stacks.', 'Replace the woman with tied long hair in a black shirt with a woman wearing an orange hat and denim jacket.', 'Emphasize blue hues in the entire scene.']

@@ -1,1 +1,0 @@
-['Disperse the school of fish slightly', 'Shift the school of fish position leftwards', 'Adjust the layout of red coral to make it more visible', 'Shift the overall perspective slightly to the right']

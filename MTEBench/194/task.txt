@@ -1,1 +1,0 @@
-['Open the black fabric pouch.', 'Add a digital device into the pouch.', 'Add a pen-like object into the pouch.', 'Add a cylindrical bottle into the pouch.']

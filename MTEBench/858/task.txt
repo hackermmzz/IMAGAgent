@@ -1,1 +1,0 @@
-['Change the color of the leggings to red.', "Make the person's hands reach forward.", 'Change the wooden wall to a brick wall.', 'Add a yoga mat.', 'Remove the straps on the wall.']

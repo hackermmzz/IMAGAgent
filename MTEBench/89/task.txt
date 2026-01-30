@@ -1,1 +1,0 @@
-['Reduce the number of beaters to two.', 'Change the mixture color to almost white.', 'Add motion blur to the image.', 'Make the beaters more prominent in focus.']

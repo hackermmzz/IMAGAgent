@@ -1,1 +1,0 @@
-['Rotate the left craft by 15 degrees clockwise.', 'Adjust the position of the central craft 10 pixels to the right.', 'Move the rightmost craft 5 pixels lower.', 'Rotate the top-right craft by 20 degrees counterclockwise.', 'Reposition the bottom-left craft 8 pixels upward.']

@@ -1,1 +1,0 @@
-['Replace the magnifying glass with a notebook with grid-patterned pages and red ink notes', 'Replace the financial chart with a notebook with grid-patterned pages and red ink notes', 'Add a red pen on top of the notebook', 'Blur the pie chart and other background elements']

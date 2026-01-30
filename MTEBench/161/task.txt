@@ -1,1 +1,0 @@
-['Reorient the rat figurine to face slightly left.', 'Add a wooden object in the foreground blocking part of the red object.', 'Adjust the camera to reveal more from the left side.', 'Highlight both wooden round objects in the background.']

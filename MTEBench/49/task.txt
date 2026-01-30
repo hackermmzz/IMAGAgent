@@ -1,1 +1,0 @@
-['Add outlines of trees to the drawing.', 'Add more detailed clouds to the drawing.', 'Change the camera angle slightly.', 'Zoom out to capture more of the scene.']

@@ -1,1 +1,0 @@
-['Increase vegetation density in the valleys', 'Adjust color of vegetation in the valleys to greener', 'Modify texture of vegetation in the valleys to denser greenery', 'Increase vegetation density in the slopes', 'Adjust color of vegetation in the slopes to greener', 'Modify texture of vegetation in the slopes to denser greenery']

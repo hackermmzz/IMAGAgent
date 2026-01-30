@@ -1,1 +1,0 @@
-['Add a man clapping in the left foreground.', 'Move the child in green to the center and have them raise their arms.', "Highlight mobile phones in viewers' hands.", 'Adjust the ambient lighting to represent evening time.']

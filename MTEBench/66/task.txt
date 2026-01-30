@@ -1,1 +1,0 @@
-['Move the white turkey to the front.', 'Make white chickens more densely packed.', 'Enhance the visibility of brown and black chickens.', 'Shift perspective slightly left and below to show clearer details of ground and bird profiles.']

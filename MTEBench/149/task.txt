@@ -1,1 +1,0 @@
-['Remove the leftmost black pig.', 'Remove the middle black pig.', 'Reposition the three remaining black pigs to the top central area heading left.', "Change the floor's appearance from wet to drier.", 'Move the brown pig to the top central area heading left.']

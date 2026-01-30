@@ -1,1 +1,0 @@
-['Replace the red car on the left with a silver minivan.', "Add a white car in the road's middle lane.", 'Ensure an overpass is visible in the background.', 'Adjust vehicle positions to reflect progression on the highway.']

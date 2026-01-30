@@ -1,1 +1,0 @@
-['Bring the girl closer to the woman.', "Adjust the girl's arm position to a clapping position.", 'Bring the man closer to the woman.', "Adjust the man's arm position to a clapping position."]

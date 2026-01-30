@@ -1,1 +1,0 @@
-['Add a lime slice to the top of the cocktail glass.', 'Add a straw to the top of the cocktail glass.', 'Increase the drink level in the cocktail glass.', 'Focus the view on the upper portion of the cocktail glass against the sky.', 'Remove the mat surface under the cocktail glass.']

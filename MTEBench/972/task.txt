@@ -1,1 +1,0 @@
-["Change the woman's hair to light brown hair in a bun", "Change the woman's top to a white t-shirt", "Change the woman's backpack to a blue backpack", 'Add an energetic arm gesture to the woman', 'Modify the surrounding trees to add movement', 'Modify the rocky terrain to add movement']

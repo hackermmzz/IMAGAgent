@@ -1,1 +1,0 @@
-['Move the catamaran further along the river.', 'Move the individuals along with the catamaran.', 'Adjust the camera perspective to show a wider view of the river and surrounding landscape.', 'Reduce the detail on the individuals and objects in the scene.']

@@ -1,1 +1,0 @@
-['Adjust the camera angle to bring the waterfall closer.', 'Focus on the cascading water.', 'Focus on the rocks.', 'Focus on the nearby lush jungle.']

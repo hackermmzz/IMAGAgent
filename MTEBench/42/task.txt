@@ -1,1 +1,0 @@
-['Remove the sun from the scene.', 'Change the atmosphere to darker red and blue tones.', 'Add a mountain silhouette on the horizon.', 'Adjust the water reflection to match the new scene.']

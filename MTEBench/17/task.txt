@@ -1,1 +1,0 @@
-['Increase the size of the waves.', 'Increase the intensity of the waves.', "Enhance the foam's appearance.", 'Increase the surf impact on the rocky coast.', 'Make the sea appear more turbulent.']

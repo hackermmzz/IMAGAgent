@@ -1,1 +1,0 @@
-['Adjust perspective to focus more on the fountain', 'Enhance lighting on the fountain sculptures', 'Maintain illuminated lighting on background buildings', 'Ensure visible tourists are present']
