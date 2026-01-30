@@ -13,17 +13,23 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 - 🔧 **Dynamic Tool-Chain Orchestration**: Dynamically constructs execution paths based on the current image state, subtask requirements, and historical context to adaptively schedule heterogeneous vision tools (retrieval, segmentation, detection, editing).
 - 🔄 **Multi-Expert Collaborative Reflection**: Integrates feedback from multiple VLM experts to generate fine-grained critiques, triggering self-correction loops and optimizing future decisions to suppress error propagation.
 - 📊 **Dedicated Benchmark**: Introduces MTEditBench, a comprehensive dataset with 1,000 high-quality sequences (≥4 turns) designed for evaluating long-horizon multi-turn image editing stability.
+### Framework
+![framework](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MagicBrushCompare.jpg)
 
 ## Demo Results
 ### On MagicBrush
-![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MagicBrushCompare.jpg)
+![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent/blob/master/case/framework.jpg)
 
 ### On MTEditBench
 ![Results on MTEditBench](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MTEditBenchCompare.jpg)
+
 ### Key Capability Demos
 - Complex attribute editing: Convert airplane material to brick while preserving silhouette and replacing background with a forest clearing.
 - Long-sequence stability: Retain object identity, geometry, and texture consistency after 5+ editing turns.
 - Error correction: Automatically identify and fix unintended artifacts (e.g., spurious objects, structural deformation) in tasks like "remove power sockets".
+
+### Feedback
+![Results on Feedback](https://github.com/hackermmzz/IMAGAgent/blob/master/case/feedback.jpg)
 
 ## Quick Start
 ### Environment Setup (Conda)
