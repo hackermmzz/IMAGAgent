@@ -14,11 +14,11 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 - 🔄 **Multi-Expert Collaborative Reflection**: Integrates feedback from multiple VLM experts to generate fine-grained critiques, triggering self-correction loops and optimizing future decisions to suppress error propagation.
 - 📊 **Dedicated Benchmark**: Introduces MTEditBench, a comprehensive dataset with 1,000 high-quality sequences (≥4 turns) designed for evaluating long-horizon multi-turn image editing stability.
 ### Framework
-![framework](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MagicBrushCompare.jpg)
+![framework](https://github.com/hackermmzz/IMAGAgent/blob/master/case/framework.jpg)
 
 ## Demo Results
 ### On MagicBrush
-![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent/blob/master/case/framework.jpg)
+![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MagicBrushCompare.jpg)
 
 ### On MTEditBench
 ![Results on MTEditBench](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MTEditBenchCompare.jpg)
