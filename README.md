@@ -15,11 +15,12 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 - 📊 **Dedicated Benchmark**: Introduces MTEditBench, a comprehensive dataset with 1,000 high-quality sequences (≥4 turns) designed for evaluating long-horizon multi-turn image editing stability.
 
 ## Demo Results
+### Multi-Turn Editing Comparison (MagicBrush)
+![Results on MagicBrush](https://github.com/hackermmzz/IMAGAgent.git/master/case/MagicBrushCompare.jpg)
 ### Multi-Turn Editing Comparison (MTEditBench)
 | Editing Turns | Instruction Description | Baselines (GPT-4o/VINCIE/OmniGen) | IMAGAgent |
 |---------------|-------------------------|-----------------------------------|-----------|
 | 1-5           | Remove person → Add cat on chair → Pink chair → Urban park background → Comic style | Suffer from semantic drift and structural distortion | Maintain consistent semantics and visual integrity throughout |
-
 ### Key Capability Demos
 - Complex attribute editing: Convert airplane material to brick while preserving silhouette and replacing background with a forest clearing.
 - Long-sequence stability: Retain object identity, geometry, and texture consistency after 5+ editing turns.
