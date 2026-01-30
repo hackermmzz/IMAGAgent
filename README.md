@@ -23,13 +23,13 @@ IMAGAgent is a multi-turn image editing agent framework built on a **closed-loop
 ### On MTEditBench
 ![Results on MTEditBench](https://github.com/hackermmzz/IMAGAgent/blob/master/case/MTEditBenchCompare.jpg)
 
+### Feedback
+![Results on Feedback](https://github.com/hackermmzz/IMAGAgent/blob/master/case/feedback.jpg)
+
 ### Key Capability Demos
 - Complex attribute editing: Convert airplane material to brick while preserving silhouette and replacing background with a forest clearing.
 - Long-sequence stability: Retain object identity, geometry, and texture consistency after 5+ editing turns.
 - Error correction: Automatically identify and fix unintended artifacts (e.g., spurious objects, structural deformation) in tasks like "remove power sockets".
-
-### Feedback
-![Results on Feedback](https://github.com/hackermmzz/IMAGAgent/blob/master/case/feedback.jpg)
 
 ## Quick Start
 ### Environment Setup (Conda)
