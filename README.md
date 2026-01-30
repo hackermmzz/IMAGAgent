@@ -2,7 +2,7 @@
 [![Paper](https://img.shields.io/badge/Paper-IJCAI2026-blue)](https://arxiv.org/abs/xxx.xxxx)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-yellow)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6%2B-orange)](https://pytorch.org/)
 [![Conda](https://img.shields.io/badge/Conda-Environment-blueviolet)](environment.yml)
 
 ## Project Overview
