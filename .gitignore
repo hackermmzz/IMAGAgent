@@ -180,3 +180,5 @@ epoch/
 Compare/
 checked/*
 transformers/
+*.txt
+MTEBench/
